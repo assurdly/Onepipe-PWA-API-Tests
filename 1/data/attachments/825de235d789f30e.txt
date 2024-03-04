@@ -1,0 +1,6 @@
+{
+    "name": "Dobra Role",
+    "description": "Eligendi modi accusamus ut repellendus perspiciatis necessitatibus quasi.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
