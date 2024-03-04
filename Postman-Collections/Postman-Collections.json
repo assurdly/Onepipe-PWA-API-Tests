@@ -85,7 +85,7 @@
 									"script": {
 										"id": "ea4800cf-0aa2-4e6d-ac73-4b338817e330",
 										"exec": [
-											""
+											"pm.environment.set('base_url', 'https://dd-api.bits.dev.onepipe.io/v1')"
 										],
 										"type": "text/javascript"
 									}
