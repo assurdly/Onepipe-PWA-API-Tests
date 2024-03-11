@@ -49641,7 +49641,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -49831,7 +49831,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -50021,7 +50021,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -50211,7 +50211,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -50401,7 +50401,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -50591,7 +50591,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -50781,7 +50781,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -50971,7 +50971,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -51161,7 +51161,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -51351,7 +51351,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -51541,7 +51541,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -51731,7 +51731,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -51921,7 +51921,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -52111,7 +52111,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -52301,7 +52301,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -52491,7 +52491,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -52681,7 +52681,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -52871,7 +52871,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -53061,7 +53061,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
