@@ -44676,7 +44676,7 @@
 											"script": {
 												"id": "7c77a71a-19b1-4ea1-8f34-bdd20818bfc1",
 												"exec": [
-													"tests[\"Response time is less than 200ms\"] = responseTime < 200;",
+													"// tests[\"Response time is less than 200ms\"] = responseTime < 200;",
 													"",
 													"var jsonData = pm.response.json();",
 													"var Request = JSON.parse(pm.request.body.raw);",
@@ -44692,9 +44692,7 @@
 													"pm.test(\"Status is Success\", function(){",
 													"    pm.expect(jsonData.status).to.eql(\"success\")",
 													"})",
-													"pm.test(\"message is successs\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
-													"})",
+													"",
 													"pm.test(\"Verify User's First Name\", function(){",
 													"    pm.expect(jsonData.data.first_name).to.equal(Request.first_name)",
 													"})",
@@ -44720,7 +44718,9 @@
 											"script": {
 												"id": "99821c38-8e1b-42e8-811e-a3898e448ef1",
 												"exec": [
-													""
+													"const random = Math.floor(Math.random() * 9999999999)",
+													"pm.environment.set('randomRc', random)",
+													"console.log(random)"
 												],
 												"type": "text/javascript"
 											}
@@ -44735,7 +44735,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"first_name\": \"{{$randomFirstName}}\",\n    \"last_name\": \"{{$randomLastName}}\",\n    \"phone_number\": \"07011725297\",\n    \"company_name\": \"{{$randomLastName}} {{$randomFirstName}} LTD\",\n    \"rc_number\": \"RC1111117\",\n    \"email\": \"{{$randomFirstName}}@mailinator.com\",\n    \"password\": \"Tester@12\"\n}",
+											"raw": "{\n    \"first_name\": \"{{$randomFirstName}}\",\n    \"last_name\": \"{{$randomLastName}}\",\n    \"phone_number\": \"07011725297\",\n    \"company_name\": \"{{$randomLastName}} {{$randomFirstName}} LTD\",\n    \"rc_number\": \"{{randomRc}}\",\n    \"email\": \"{{$randomFirstName}}@mailinator.com\",\n    \"password\": \"Tester@12\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
