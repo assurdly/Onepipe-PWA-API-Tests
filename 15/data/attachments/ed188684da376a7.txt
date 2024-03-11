@@ -1,0 +1,9 @@
+{
+    "first_name": "Ada",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Frami Nakia LTD",
+    "rc_number": "RC1111110",
+    "email": "Alberta@mailinator.com",
+    "password": "Tester@12"
+}

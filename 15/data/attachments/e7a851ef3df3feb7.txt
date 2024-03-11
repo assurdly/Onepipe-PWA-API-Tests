@@ -1,0 +1,9 @@
+{
+    "first_name": "Emma",
+    "last_name": "Strosin",
+    "phone_number": "07011725297",
+    "company_name": "Ondricka Heaven LTD",
+    "rc_number": "2408872830",
+    "email": "General@mailinator.com",
+    "password": "Tester@12"
+}

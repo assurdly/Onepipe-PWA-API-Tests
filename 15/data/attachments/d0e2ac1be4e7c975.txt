@@ -1,0 +1,6 @@
+{
+    "name": "exploit Role",
+    "description": "Aspernatur alias quis perspiciatis ab sit.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

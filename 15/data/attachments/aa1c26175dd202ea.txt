@@ -1,0 +1,9 @@
+{
+    "first_name": "Garret",
+    "last_name": "Doyle",
+    "phone_number": "07011725297",
+    "company_name": "Beth Pouros LTD",
+    "rc_number": "",
+    "email": "Janiya@mailinator.com",
+    "password": "Tester@12"
+}

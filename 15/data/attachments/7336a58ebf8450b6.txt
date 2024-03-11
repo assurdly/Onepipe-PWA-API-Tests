@@ -1,0 +1,9 @@
+{
+    "first_name": "Loyce",
+    "last_name": "Romaguera",
+    "phone_number": "07011725297",
+    "company_name": "Little Shane LTD",
+    "rc_number": "2876170192",
+    "email": "Sabrina@mailinator.com",
+    "password": "Tester@12"
+}

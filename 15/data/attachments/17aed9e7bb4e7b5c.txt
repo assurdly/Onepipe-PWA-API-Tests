@@ -1,0 +1,9 @@
+{
+    "first_name": "Naomi",
+    "last_name": "Oberbrunner",
+    "phone_number": "07011",
+    "company_name": "Lesch Casimer LTD",
+    "rc_number": "RC1111111",
+    "email": "Irwin@mailinator.com",
+    "password": "Tester@12"
+}

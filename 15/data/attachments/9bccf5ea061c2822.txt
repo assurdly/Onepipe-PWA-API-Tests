@@ -1,0 +1,9 @@
+{
+    "first_name": "Vladimir",
+    "last_name": "Murazik",
+    "phone_number": "07011725297",
+    "company_name": "Barrows Bettye LTD",
+    "rc_number": "9814342835",
+    "email": "Oren@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Vickie",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Gulgowski Marjolaine LTD",
+    "rc_number": "RC1111110",
+    "email": "Jana@mailinator.com",
+    "password": "Tester@12"
+}

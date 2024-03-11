@@ -1,0 +1,7 @@
+{
+    "name": "Assimilated",
+    "description": "Deleniti similique minus dolorem consequatur dolor vitae odit accusamus.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

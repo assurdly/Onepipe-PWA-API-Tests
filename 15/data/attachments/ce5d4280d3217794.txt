@@ -1,0 +1,9 @@
+{
+    "first_name": "Ivah",
+    "last_name": "Morissette",
+    "phone_number": "07011725297",
+    "company_name": "Carter Jalon LTD",
+    "rc_number": "RC1111111",
+    "email": "Gerhard@mailinator.com",
+    "password": "Teste"
+}

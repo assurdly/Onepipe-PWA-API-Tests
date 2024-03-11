@@ -1,0 +1,6 @@
+{
+    "name": "24/365 Role",
+    "description": "Cum quos assumenda ut quo et iusto.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

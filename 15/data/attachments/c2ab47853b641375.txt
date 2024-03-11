@@ -1,0 +1,9 @@
+{
+    "first_name": "Tristin",
+    "last_name": "Casper",
+    "phone_number": "07011725297",
+    "company_name": "Beer Brice LTD",
+    "rc_number": "9770376972",
+    "email": "Bart@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Agustina",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "O'Connell Mohamed LTD",
+    "rc_number": "RC1111110",
+    "email": "Berenice@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Denis",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Mayer Federico LTD",
+    "rc_number": "RC1111110",
+    "email": "Afton@mailinator.com",
+    "password": "Tester@12"
+}

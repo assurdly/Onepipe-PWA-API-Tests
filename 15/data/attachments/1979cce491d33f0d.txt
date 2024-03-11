@@ -1,0 +1,9 @@
+{
+    "first_name": "Tiffany",
+    "last_name": "Friesen",
+    "phone_number": "07011725297",
+    "company_name": "Glover Marta LTD",
+    "rc_number": "RC1111111",
+    "email": "Olaf@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Mayert",
+    "last_name": "Hauck",
+    "phone_number": "",
+    "company_name": "Koepp Bryana LTD",
+    "rc_number": "RC1111111",
+    "email": "Euna@mailinator.com",
+    "password": "Tester@12"
+}

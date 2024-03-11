@@ -1,0 +1,9 @@
+{
+    "first_name": "Deshaun",
+    "last_name": "Blick",
+    "phone_number": "07011725297",
+    "company_name": "Zemlak Shayne LTD",
+    "rc_number": "RC1111111",
+    "email": "Keegan@mailinator",
+    "password": "Tester@12"
+}

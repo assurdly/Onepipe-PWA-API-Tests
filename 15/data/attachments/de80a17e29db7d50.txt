@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Mayert",
+    "phone_number": "07011725297",
+    "company_name": "Yost Jerrell LTD",
+    "rc_number": "RC1111111",
+    "email": "Janelle@mailinator.com",
+    "password": "Tester@12"
+}

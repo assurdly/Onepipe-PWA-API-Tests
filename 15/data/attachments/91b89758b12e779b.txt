@@ -1,0 +1,9 @@
+{
+    "first_name": "Lillian",
+    "last_name": "Terry",
+    "phone_number": "07011725297",
+    "company_name": "Alessandro Thompson LTD",
+    "rc_number": "",
+    "email": "Virginia@mailinator.com",
+    "password": "Tester@12"
+}

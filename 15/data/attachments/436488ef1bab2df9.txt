@@ -1,0 +1,9 @@
+{
+    "first_name": "Jazmyne",
+    "last_name": "Greenfelder",
+    "phone_number": "07011725297",
+    "company_name": "Thompson Ethel LTD",
+    "rc_number": "7453342064",
+    "email": "Joel@mailinator.com",
+    "password": "Tester@12"
+}

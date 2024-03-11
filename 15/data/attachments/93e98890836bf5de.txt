@@ -1,0 +1,9 @@
+{
+    "first_name": "Judd",
+    "last_name": "Towne",
+    "phone_number": "07011",
+    "company_name": "Fahey Wilhelmine LTD",
+    "rc_number": "RC1111111",
+    "email": "Elmo@mailinator.com",
+    "password": "Tester@12"
+}

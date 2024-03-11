@@ -1,0 +1,9 @@
+{
+    "first_name": "Remington",
+    "last_name": "Cronin",
+    "phone_number": "07011725297",
+    "company_name": "Herzog Ken LTD",
+    "rc_number": "2333252731",
+    "email": "Anabel@mailinator.com",
+    "password": "Tester@12"
+}

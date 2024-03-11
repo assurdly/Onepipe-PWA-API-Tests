@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Metz",
+    "phone_number": "07011725297",
+    "company_name": "Hegmann Everardo LTD",
+    "rc_number": "RC1111111",
+    "email": "Holly@mailinator.com",
+    "password": ""
+}

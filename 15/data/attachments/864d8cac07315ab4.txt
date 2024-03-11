@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Casper",
+    "phone_number": "07011725297",
+    "company_name": "Bergnaum Macie LTD",
+    "rc_number": "RC1111111",
+    "email": "Harley@mailinator.com",
+    "password": ""
+}

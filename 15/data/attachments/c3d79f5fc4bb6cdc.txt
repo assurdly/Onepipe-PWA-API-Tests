@@ -1,0 +1,9 @@
+{
+    "first_name": "Leonora",
+    "last_name": "Shanahan",
+    "phone_number": "07011er4569",
+    "company_name": "Doyle Olaf LTD",
+    "rc_number": "6353198476",
+    "email": "Meta@mailinator.com",
+    "password": "Tester@12"
+}

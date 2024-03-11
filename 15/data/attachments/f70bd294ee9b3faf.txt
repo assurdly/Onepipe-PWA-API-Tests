@@ -1,0 +1,6 @@
+{
+    "name": "Legacy Role",
+    "description": "Dolor dolore animi modi dignissimos.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

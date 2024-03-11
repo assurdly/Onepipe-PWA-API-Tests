@@ -1,0 +1,9 @@
+{
+    "first_name": "Shirley",
+    "last_name": "Kirlin",
+    "phone_number": "07011725297",
+    "company_name": "Hegmann Rosie LTD",
+    "rc_number": "RC1111111",
+    "email": "Conor@mailinator",
+    "password": "Tester@12"
+}

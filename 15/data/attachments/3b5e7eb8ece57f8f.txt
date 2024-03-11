@@ -1,0 +1,6 @@
+{
+    "name": "Sports Role",
+    "description": "Laborum repellat aut amet quibusdam voluptate exercitationem id dolorum dicta.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

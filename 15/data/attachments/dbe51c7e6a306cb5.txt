@@ -1,0 +1,9 @@
+{
+    "first_name": "Spencer",
+    "last_name": "Kiehn",
+    "phone_number": "",
+    "company_name": "Fadel Donnell LTD",
+    "rc_number": "RC1111111",
+    "email": "Frida@mailinator.com",
+    "password": "Tester@12"
+}

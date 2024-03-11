@@ -1,0 +1,9 @@
+{
+    "first_name": "Maritza",
+    "last_name": "Wisozk",
+    "phone_number": "07011725297",
+    "company_name": "Bechtelar Anjali LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

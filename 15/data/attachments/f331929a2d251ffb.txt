@@ -1,0 +1,9 @@
+{
+    "first_name": "Eve",
+    "last_name": "Strosin",
+    "phone_number": "07011725297",
+    "company_name": "Terry Adeline LTD",
+    "rc_number": "2222356803",
+    "email": "Sage@mailinator.com",
+    "password": "Tester@12"
+}

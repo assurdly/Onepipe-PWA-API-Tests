@@ -1,0 +1,9 @@
+{
+    "first_name": "Darien",
+    "last_name": "McGlynn",
+    "phone_number": "07011725297",
+    "company_name": "Marks Asa LTD",
+    "rc_number": "7077145454",
+    "email": "Damion@mailinator.com",
+    "password": "Tester@12"
+}

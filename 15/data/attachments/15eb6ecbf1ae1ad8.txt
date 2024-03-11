@@ -1,0 +1,9 @@
+{
+    "first_name": "Polly",
+    "last_name": "Jacobs",
+    "phone_number": "07011725297",
+    "company_name": "Flatley Mohammed LTD",
+    "rc_number": "RC1111111",
+    "email": "Shaun@mailinator",
+    "password": "Tester@12"
+}

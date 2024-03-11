@@ -1,0 +1,9 @@
+{
+    "first_name": "Rafael",
+    "last_name": "Hane",
+    "phone_number": "234701172529700",
+    "company_name": "Ortiz Audrey LTD",
+    "rc_number": "RC1111111",
+    "email": "Allen@mailinator.com",
+    "password": "Tester@12"
+}

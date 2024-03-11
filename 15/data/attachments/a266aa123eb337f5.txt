@@ -1,0 +1,9 @@
+{
+    "first_name": "America",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Krajcik Flo LTD",
+    "rc_number": "RC1111110",
+    "email": "Maximus@mailinator.com",
+    "password": "Tester@12"
+}

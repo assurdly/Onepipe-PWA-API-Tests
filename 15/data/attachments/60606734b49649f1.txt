@@ -1,0 +1,7 @@
+{
+    "name": "Baht",
+    "description": "Dolor cupiditate veniam omnis saepe dolor nobis fugiat perferendis.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

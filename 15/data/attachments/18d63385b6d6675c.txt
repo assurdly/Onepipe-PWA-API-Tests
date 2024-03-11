@@ -1,0 +1,9 @@
+{
+    "first_name": "Maida",
+    "last_name": "Luettgen",
+    "phone_number": "07011725297",
+    "company_name": "Koss Issac LTD",
+    "rc_number": "2009495368",
+    "email": "Yvette@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Ruth",
+    "last_name": "Brakus",
+    "phone_number": "07011er4569",
+    "company_name": "Kassulke Josefina LTD",
+    "rc_number": "4318967239",
+    "email": "Shaina@mailinator.com",
+    "password": "Tester@12"
+}

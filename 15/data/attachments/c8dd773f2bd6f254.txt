@@ -1,0 +1,7 @@
+{
+    "name": "bluetooth",
+    "description": "Dolor eveniet aliquam modi neque.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

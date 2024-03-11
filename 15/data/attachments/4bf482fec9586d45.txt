@@ -1,0 +1,9 @@
+{
+    "first_name": "Lavonne",
+    "last_name": "Tillman",
+    "phone_number": "234701172529700",
+    "company_name": "Cormier Lourdes LTD",
+    "rc_number": "RC1111111",
+    "email": "David@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Marianna",
+    "last_name": "Cronin",
+    "phone_number": "07011er4569",
+    "company_name": "Luettgen Pattie LTD",
+    "rc_number": "961366853",
+    "email": "Emiliano@mailinator.com",
+    "password": "Tester@12"
+}

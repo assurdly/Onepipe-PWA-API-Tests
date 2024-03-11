@@ -1,0 +1,6 @@
+{
+    "name": "dot-com Role",
+    "description": "Nesciunt aut iusto et autem aut eum.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

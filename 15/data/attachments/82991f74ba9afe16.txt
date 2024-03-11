@@ -1,0 +1,9 @@
+{
+    "first_name": "Meda",
+    "last_name": "Mosciski",
+    "phone_number": "07011725297",
+    "company_name": "Lubowitz Juanita LTD",
+    "rc_number": "9322273468",
+    "email": "Federico@mailinator.com",
+    "password": "Tester@12"
+}

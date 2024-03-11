@@ -1,0 +1,9 @@
+{
+    "first_name": "Estrella",
+    "last_name": "Kilback",
+    "phone_number": "07011725297",
+    "company_name": "Sawayn Minerva LTD",
+    "rc_number": "3281119993",
+    "email": "Madilyn@mailinator.com",
+    "password": "Tester@12"
+}

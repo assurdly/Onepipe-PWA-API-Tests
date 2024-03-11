@@ -1,0 +1,9 @@
+{
+    "first_name": "Klocko",
+    "last_name": "Stracke",
+    "phone_number": "",
+    "company_name": "Ledner Maribel LTD",
+    "rc_number": "RC1111111",
+    "email": "Emil@mailinator.com",
+    "password": "Tester@12"
+}

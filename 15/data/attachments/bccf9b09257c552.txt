@@ -1,0 +1,9 @@
+{
+    "first_name": "Lois",
+    "last_name": "Kuvalis",
+    "phone_number": "07011er4569",
+    "company_name": "Brekke Bianka LTD",
+    "rc_number": "5892007824",
+    "email": "Kiel@mailinator.com",
+    "password": "Tester@12"
+}

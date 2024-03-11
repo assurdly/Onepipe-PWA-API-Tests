@@ -1,0 +1,9 @@
+{
+    "first_name": "Ines",
+    "last_name": "Bahringer",
+    "phone_number": "07011725297",
+    "company_name": "Hyatt Arianna LTD",
+    "rc_number": "RC1111111",
+    "email": "Kevin@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Luther",
+    "last_name": "Kuphal",
+    "phone_number": "07011725297",
+    "company_name": "Yundt King LTD",
+    "rc_number": "7357568456",
+    "email": "Dennis@mailinator.com",
+    "password": "Tester@12"
+}

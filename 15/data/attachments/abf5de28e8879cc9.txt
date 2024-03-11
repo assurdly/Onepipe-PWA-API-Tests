@@ -1,0 +1,9 @@
+{
+    "first_name": "Clyde",
+    "last_name": "Auer",
+    "phone_number": "07011er4569",
+    "company_name": "Keeling Ernestine LTD",
+    "rc_number": "3900422094",
+    "email": "Branson@mailinator.com",
+    "password": "Tester@12"
+}

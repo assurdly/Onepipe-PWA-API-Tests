@@ -1,0 +1,9 @@
+{
+    "first_name": "Kemmer",
+    "last_name": "Gibson",
+    "phone_number": "",
+    "company_name": "Hettinger Emil LTD",
+    "rc_number": "RC1111111",
+    "email": "Keagan@mailinator.com",
+    "password": "Tester@12"
+}

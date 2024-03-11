@@ -1,0 +1,5 @@
+{
+    "email": "1080p@mailinator.com",
+    "role_id": "",
+    "token": "000000"
+}

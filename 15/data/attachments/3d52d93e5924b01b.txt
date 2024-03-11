@@ -1,0 +1,9 @@
+{
+    "first_name": "Ezequiel",
+    "last_name": "Lemke",
+    "phone_number": "07011725297",
+    "company_name": "McDermott Richmond LTD",
+    "rc_number": "6715057055",
+    "email": "Nat@mailinator.com",
+    "password": "Tester@12"
+}

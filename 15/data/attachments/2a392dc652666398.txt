@@ -1,0 +1,9 @@
+{
+    "first_name": "Kody",
+    "last_name": "Feil",
+    "phone_number": "07011er4569",
+    "company_name": "Jast Litzy LTD",
+    "rc_number": "2139913109",
+    "email": "Brice@mailinator.com",
+    "password": "Tester@12"
+}

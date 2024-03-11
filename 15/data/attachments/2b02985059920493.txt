@@ -1,0 +1,9 @@
+{
+    "first_name": "Corkery",
+    "last_name": "Marks",
+    "phone_number": "",
+    "company_name": "McLaughlin Caesar LTD",
+    "rc_number": "RC1111111",
+    "email": "Ima@mailinator.com",
+    "password": "Tester@12"
+}

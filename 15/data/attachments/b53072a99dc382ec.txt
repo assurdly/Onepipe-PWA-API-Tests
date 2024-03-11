@@ -1,0 +1,9 @@
+{
+    "first_name": "Donald",
+    "last_name": "Legros",
+    "phone_number": "234701172529700",
+    "company_name": "Jacobson Ashleigh LTD",
+    "rc_number": "RC1111111",
+    "email": "Domenica@mailinator.com",
+    "password": "Tester@12"
+}

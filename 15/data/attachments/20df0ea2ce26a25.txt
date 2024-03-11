@@ -1,0 +1,6 @@
+{
+    "name": "architectures Role",
+    "description": "Totam quia explicabo aut ut dignissimos repellendus tempora maxime voluptatem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

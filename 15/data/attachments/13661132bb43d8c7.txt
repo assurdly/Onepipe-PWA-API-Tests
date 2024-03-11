@@ -1,0 +1,9 @@
+{
+    "first_name": "Susana",
+    "last_name": "Huel",
+    "phone_number": "07011725297",
+    "company_name": "Ross Schaefer LTD",
+    "rc_number": "",
+    "email": "Yadira@mailinator.com",
+    "password": "Tester@12"
+}

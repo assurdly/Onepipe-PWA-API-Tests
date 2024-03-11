@@ -1,0 +1,9 @@
+{
+    "first_name": "Ken",
+    "last_name": "Satterfield",
+    "phone_number": "07011er4569",
+    "company_name": "Mosciski Ambrose LTD",
+    "rc_number": "6523955960",
+    "email": "Valentine@mailinator.com",
+    "password": "Tester@12"
+}

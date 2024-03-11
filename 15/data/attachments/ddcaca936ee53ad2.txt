@@ -1,0 +1,9 @@
+{
+    "first_name": "Jabari",
+    "last_name": "Becker",
+    "phone_number": "07011",
+    "company_name": "Lehner Edd LTD",
+    "rc_number": "RC1111111",
+    "email": "Dereck@mailinator.com",
+    "password": "Tester@12"
+}

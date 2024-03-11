@@ -1,0 +1,9 @@
+{
+    "first_name": "Lillian",
+    "last_name": "Lang",
+    "phone_number": "234701172529700",
+    "company_name": "Altenwerth Deven LTD",
+    "rc_number": "RC1111111",
+    "email": "Alexandrine@mailinator.com",
+    "password": "Tester@12"
+}

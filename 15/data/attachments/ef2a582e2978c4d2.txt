@@ -1,0 +1,9 @@
+{
+    "first_name": "Sylvan",
+    "last_name": "Wiegand",
+    "phone_number": "07011er4569",
+    "company_name": "Rosenbaum Marcelle LTD",
+    "rc_number": "6310623262",
+    "email": "Jean@mailinator.com",
+    "password": "Tester@12"
+}

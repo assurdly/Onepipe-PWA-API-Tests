@@ -1,0 +1,9 @@
+{
+    "first_name": "Ahmad",
+    "last_name": "Turner",
+    "phone_number": "07011",
+    "company_name": "Schimmel Lindsey LTD",
+    "rc_number": "RC1111111",
+    "email": "Doug@mailinator.com",
+    "password": "Tester@12"
+}

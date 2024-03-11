@@ -1,0 +1,9 @@
+{
+    "first_name": "Noah",
+    "last_name": "Gleichner",
+    "phone_number": "07011725297",
+    "company_name": "Brooks Gusikowski LTD",
+    "rc_number": "",
+    "email": "Ora@mailinator.com",
+    "password": "Tester@12"
+}

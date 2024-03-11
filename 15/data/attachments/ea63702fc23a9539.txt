@@ -1,0 +1,7 @@
+{
+    "name": "web-enabled",
+    "description": "Deleniti sequi animi in voluptatibus sit atque voluptatum.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

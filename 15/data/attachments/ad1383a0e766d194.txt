@@ -1,0 +1,9 @@
+{
+    "first_name": "Brian",
+    "last_name": "Weimann",
+    "phone_number": "07011725297",
+    "company_name": "Parisian Stevie LTD",
+    "rc_number": "RC1111111",
+    "email": "Bailee@mailinator",
+    "password": "Tester@12"
+}

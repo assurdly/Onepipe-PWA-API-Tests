@@ -1,0 +1,9 @@
+{
+    "first_name": "Albin",
+    "last_name": "Predovic",
+    "phone_number": "07011",
+    "company_name": "Cassin Mona LTD",
+    "rc_number": "RC1111111",
+    "email": "Beryl@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Philip",
+    "last_name": "Schowalter",
+    "phone_number": "07011725297",
+    "company_name": "Amely Flatley LTD",
+    "rc_number": "",
+    "email": "Henriette@mailinator.com",
+    "password": "Tester@12"
+}

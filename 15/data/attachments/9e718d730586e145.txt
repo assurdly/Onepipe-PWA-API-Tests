@@ -1,0 +1,9 @@
+{
+    "first_name": "Gerhard",
+    "last_name": "Streich",
+    "phone_number": "07011er4569",
+    "company_name": "Zemlak Armand LTD",
+    "rc_number": "5647569902",
+    "email": "Jimmie@mailinator.com",
+    "password": "Tester@12"
+}

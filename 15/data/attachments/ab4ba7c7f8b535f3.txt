@@ -1,0 +1,6 @@
+{
+    "name": "digital Role",
+    "description": "Delectus iure velit occaecati aut et molestiae.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

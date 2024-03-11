@@ -1,0 +1,9 @@
+{
+    "first_name": "Ephraim",
+    "last_name": "Beier",
+    "phone_number": "07011725297",
+    "company_name": "Murphy Buster LTD",
+    "rc_number": "RC1111111",
+    "email": "Dillan@mailinator",
+    "password": "Tester@12"
+}

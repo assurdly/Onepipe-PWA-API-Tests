@@ -1,0 +1,9 @@
+{
+    "first_name": "Damien",
+    "last_name": "Grant",
+    "phone_number": "07011725297",
+    "company_name": "Lia Kuhn LTD",
+    "rc_number": "",
+    "email": "Russell@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Cassidy",
+    "last_name": "Cartwright",
+    "phone_number": "07011725297",
+    "company_name": "Rohan Norberto LTD",
+    "rc_number": "5993890729",
+    "email": "Liza@mailinator.com",
+    "password": "Tester@12"
+}

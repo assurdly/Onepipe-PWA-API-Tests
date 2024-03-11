@@ -1,0 +1,9 @@
+{
+    "first_name": "Kane",
+    "last_name": "Schoen",
+    "phone_number": "07011er4569",
+    "company_name": "Hamill Ariane LTD",
+    "rc_number": "2596199338",
+    "email": "Kirk@mailinator.com",
+    "password": "Tester@12"
+}

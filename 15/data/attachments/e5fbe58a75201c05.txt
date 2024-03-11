@@ -1,0 +1,9 @@
+{
+    "first_name": "Aaron",
+    "last_name": "Becker",
+    "phone_number": "07011725297",
+    "company_name": "Hammes Rosella LTD",
+    "rc_number": "4885252460",
+    "email": "Shayna@mailinator.com",
+    "password": "Tester@12"
+}

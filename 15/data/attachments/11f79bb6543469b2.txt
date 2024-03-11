@@ -1,0 +1,9 @@
+{
+    "first_name": "Gustave",
+    "last_name": "Thompson",
+    "phone_number": "07011725297",
+    "company_name": "Bruen Gwendolyn LTD",
+    "rc_number": "RC1111111",
+    "email": "Krystal@mailinator",
+    "password": "Tester@12"
+}

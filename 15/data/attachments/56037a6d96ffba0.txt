@@ -1,0 +1,9 @@
+{
+    "first_name": "Cale",
+    "last_name": "Hyatt",
+    "phone_number": "07011",
+    "company_name": "Bashirian Alford LTD",
+    "rc_number": "RC1111111",
+    "email": "Graciela@mailinator.com",
+    "password": "Tester@12"
+}

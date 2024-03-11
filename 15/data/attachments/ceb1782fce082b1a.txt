@@ -1,0 +1,6 @@
+{
+    "name": "generate Role",
+    "description": "A ut pariatur animi et quod sunt commodi consequatur.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

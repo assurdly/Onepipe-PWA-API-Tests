@@ -1,0 +1,9 @@
+{
+    "first_name": "Korbin",
+    "last_name": "Dare",
+    "phone_number": "07011",
+    "company_name": "Jacobs Pierce LTD",
+    "rc_number": "RC1111111",
+    "email": "Vilma@mailinator.com",
+    "password": "Tester@12"
+}

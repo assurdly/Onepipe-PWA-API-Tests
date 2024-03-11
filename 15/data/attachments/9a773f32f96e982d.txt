@@ -1,0 +1,9 @@
+{
+    "first_name": "Ciara",
+    "last_name": "Halvorson",
+    "phone_number": "234701172529700",
+    "company_name": "Hettinger Ramiro LTD",
+    "rc_number": "RC1111111",
+    "email": "Emmanuelle@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Hailey",
+    "last_name": "Lemke",
+    "phone_number": "07011725297",
+    "company_name": "Hills Rodrick LTD",
+    "rc_number": "RC1111111",
+    "email": "Carli@mailinator.com",
+    "password": "Teste"
+}

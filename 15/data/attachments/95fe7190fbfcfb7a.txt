@@ -1,0 +1,9 @@
+{
+    "first_name": "Audra",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Ratke Trey LTD",
+    "rc_number": "RC1111110",
+    "email": "Ericka@mailinator.com",
+    "password": "Tester@12"
+}

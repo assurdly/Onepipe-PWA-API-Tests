@@ -1,0 +1,9 @@
+{
+    "first_name": "Retha",
+    "last_name": "Koss",
+    "phone_number": "07011725297",
+    "company_name": "Turner Anya LTD",
+    "rc_number": "3356685151",
+    "email": "Odessa@mailinator.com",
+    "password": "Tester@12"
+}

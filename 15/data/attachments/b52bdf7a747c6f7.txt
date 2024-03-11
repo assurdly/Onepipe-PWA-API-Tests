@@ -1,0 +1,9 @@
+{
+    "first_name": "Vicky",
+    "last_name": "Torp",
+    "phone_number": "07011",
+    "company_name": "Rempel Chelsie LTD",
+    "rc_number": "RC1111111",
+    "email": "Columbus@mailinator.com",
+    "password": "Tester@12"
+}

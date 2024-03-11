@@ -1,0 +1,9 @@
+{
+    "first_name": "Victor",
+    "last_name": "Grady",
+    "phone_number": "07011725297",
+    "company_name": "Cummerata Otilia LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

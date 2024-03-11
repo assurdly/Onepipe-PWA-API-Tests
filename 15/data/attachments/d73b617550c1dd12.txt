@@ -1,0 +1,6 @@
+{
+    "name": "Generic Role",
+    "description": "Repellendus velit nobis adipisci modi aspernatur eligendi.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

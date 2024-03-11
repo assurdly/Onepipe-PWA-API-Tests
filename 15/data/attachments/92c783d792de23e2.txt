@@ -1,0 +1,9 @@
+{
+    "first_name": "Lorenzo",
+    "last_name": "Weissnat",
+    "phone_number": "234701172529700",
+    "company_name": "Klein Celia LTD",
+    "rc_number": "RC1111111",
+    "email": "Sofia@mailinator.com",
+    "password": "Tester@12"
+}

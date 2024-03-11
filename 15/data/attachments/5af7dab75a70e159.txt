@@ -1,0 +1,9 @@
+{
+    "first_name": "Leanne",
+    "last_name": "Lockman",
+    "phone_number": "07011725297",
+    "company_name": "Welch Art LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

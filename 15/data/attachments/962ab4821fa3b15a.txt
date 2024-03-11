@@ -1,0 +1,9 @@
+{
+    "first_name": "Bernadine",
+    "last_name": "Bartell",
+    "phone_number": "07011725297",
+    "company_name": "Frances Fadel LTD",
+    "rc_number": "",
+    "email": "Keith@mailinator.com",
+    "password": "Tester@12"
+}

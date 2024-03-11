@@ -1,0 +1,7 @@
+{
+    "name": "Shirt",
+    "description": "Omnis pariatur ut et sequi corrupti iste error.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

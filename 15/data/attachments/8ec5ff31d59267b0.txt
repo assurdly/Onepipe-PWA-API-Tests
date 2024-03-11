@@ -1,0 +1,9 @@
+{
+    "first_name": "Brandt",
+    "last_name": "Green",
+    "phone_number": "07011er4569",
+    "company_name": "Conroy Ronny LTD",
+    "rc_number": "9330519858",
+    "email": "Adrien@mailinator.com",
+    "password": "Tester@12"
+}

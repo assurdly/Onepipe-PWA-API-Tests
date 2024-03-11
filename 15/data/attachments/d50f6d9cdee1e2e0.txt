@@ -1,0 +1,9 @@
+{
+    "first_name": "Octavia",
+    "last_name": "Block",
+    "phone_number": "07011725297",
+    "company_name": "Kohler Carolyn LTD",
+    "rc_number": "6823476023",
+    "email": "Robb@mailinator.com",
+    "password": "Tester@12"
+}

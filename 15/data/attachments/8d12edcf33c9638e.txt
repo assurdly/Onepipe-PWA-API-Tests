@@ -1,0 +1,9 @@
+{
+    "first_name": "$randomFirstName",
+    "last_name": "Bartoletti",
+    "phone_number": "07011725297",
+    "company_name": "Howell Kariane LTD",
+    "rc_number": "RC1111111",
+    "email": "",
+    "password": "Tester@12"
+}

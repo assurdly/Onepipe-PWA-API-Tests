@@ -1,0 +1,9 @@
+{
+    "first_name": "Krystal",
+    "last_name": "Keeling",
+    "phone_number": "07011725297",
+    "company_name": "Heller Felicita LTD",
+    "rc_number": "RC1111111",
+    "email": "Zena@mailinator.com",
+    "password": "Teste"
+}

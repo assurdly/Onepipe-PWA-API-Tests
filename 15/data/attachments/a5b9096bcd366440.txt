@@ -1,0 +1,9 @@
+{
+    "first_name": "Aniyah",
+    "last_name": "Rolfson",
+    "phone_number": "07011725297",
+    "company_name": "Kemmer Cole LTD",
+    "rc_number": "RC1111111",
+    "email": "Samanta@mailinator",
+    "password": "Tester@12"
+}

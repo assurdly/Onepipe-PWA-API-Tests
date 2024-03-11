@@ -1,0 +1,9 @@
+{
+    "first_name": "Justine",
+    "last_name": "Braun",
+    "phone_number": "07011725297",
+    "company_name": "Padberg Norbert LTD",
+    "rc_number": "8397138714",
+    "email": "Jacquelyn@mailinator.com",
+    "password": "Tester@12"
+}

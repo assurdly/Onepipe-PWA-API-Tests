@@ -1,0 +1,9 @@
+{
+    "first_name": "Lyda",
+    "last_name": "Ankunding",
+    "phone_number": "07011725297",
+    "company_name": "Kutch Justine LTD",
+    "rc_number": "RC1111111",
+    "email": "Precious@mailinator.com",
+    "password": "Teste"
+}

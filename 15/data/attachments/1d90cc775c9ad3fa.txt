@@ -1,0 +1,9 @@
+{
+    "first_name": "Corbin",
+    "last_name": "Blick",
+    "phone_number": "07011",
+    "company_name": "Kshlerin Elody LTD",
+    "rc_number": "RC1111111",
+    "email": "Gay@mailinator.com",
+    "password": "Tester@12"
+}

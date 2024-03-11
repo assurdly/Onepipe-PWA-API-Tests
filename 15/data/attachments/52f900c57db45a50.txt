@@ -1,0 +1,9 @@
+{
+    "first_name": "Vicky",
+    "last_name": "Casper",
+    "phone_number": "07011725297",
+    "company_name": "Meghan Blick LTD",
+    "rc_number": "",
+    "email": "Orlando@mailinator.com",
+    "password": "Tester@12"
+}

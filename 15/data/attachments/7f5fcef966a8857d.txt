@@ -1,0 +1,9 @@
+{
+    "first_name": "Devan",
+    "last_name": "Swift",
+    "phone_number": "07011725297",
+    "company_name": "Aniya Schiller LTD",
+    "rc_number": "",
+    "email": "Grover@mailinator.com",
+    "password": "Tester@12"
+}

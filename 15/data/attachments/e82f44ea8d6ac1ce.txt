@@ -1,0 +1,9 @@
+{
+    "first_name": "Paxton",
+    "last_name": "Hirthe",
+    "phone_number": "07011725297",
+    "company_name": "Howell Jennie LTD",
+    "rc_number": "6417958231",
+    "email": "Jermain@mailinator.com",
+    "password": "Tester@12"
+}

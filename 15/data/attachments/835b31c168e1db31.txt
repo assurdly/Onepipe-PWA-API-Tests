@@ -1,0 +1,9 @@
+{
+    "first_name": "Jesse",
+    "last_name": "Wolf",
+    "phone_number": "07011er4569",
+    "company_name": "Predovic Marilou LTD",
+    "rc_number": "8116296652",
+    "email": "Faye@mailinator.com",
+    "password": "Tester@12"
+}

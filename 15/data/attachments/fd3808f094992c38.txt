@@ -1,0 +1,9 @@
+{
+    "first_name": "Juana",
+    "last_name": "McClure",
+    "phone_number": "07011er4569",
+    "company_name": "Morar Ned LTD",
+    "rc_number": "1556646701",
+    "email": "Thelma@mailinator.com",
+    "password": "Tester@12"
+}

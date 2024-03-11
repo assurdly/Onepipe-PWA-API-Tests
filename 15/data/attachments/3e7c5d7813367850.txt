@@ -1,0 +1,9 @@
+{
+    "first_name": "Frederik",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Kulas Korey LTD",
+    "rc_number": "RC1111110",
+    "email": "Yoshiko@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Aniya",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Graham Willie LTD",
+    "rc_number": "RC1111110",
+    "email": "Wendell@mailinator.com",
+    "password": "Tester@12"
+}

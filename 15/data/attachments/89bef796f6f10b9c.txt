@@ -1,0 +1,9 @@
+{
+    "first_name": "Jamie",
+    "last_name": "Klocko",
+    "phone_number": "07011725297",
+    "company_name": "Block Carlie LTD",
+    "rc_number": "6495160413",
+    "email": "Adelbert@mailinator.com",
+    "password": "Tester@12"
+}

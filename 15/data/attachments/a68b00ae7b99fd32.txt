@@ -1,0 +1,7 @@
+{
+    "name": "Infrastructure",
+    "description": "Est non et error voluptatum aut eum possimus aut amet.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

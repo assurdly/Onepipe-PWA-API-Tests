@@ -1,0 +1,9 @@
+{
+    "first_name": "Amiya",
+    "last_name": "Torphy",
+    "phone_number": "07011725297",
+    "company_name": "Mann Tyrell LTD",
+    "rc_number": "RC1111111",
+    "email": "Kevon@mailinator",
+    "password": "Tester@12"
+}

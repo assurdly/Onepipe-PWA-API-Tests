@@ -1,0 +1,9 @@
+{
+    "first_name": "Pouros",
+    "last_name": "Braun",
+    "phone_number": "",
+    "company_name": "Schultz Nolan LTD",
+    "rc_number": "RC1111111",
+    "email": "Margarita@mailinator.com",
+    "password": "Tester@12"
+}

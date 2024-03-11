@@ -1,0 +1,9 @@
+{
+    "first_name": "Wilfred",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Bergnaum Martine LTD",
+    "rc_number": "RC1111110",
+    "email": "Andres@mailinator.com",
+    "password": "Tester@12"
+}

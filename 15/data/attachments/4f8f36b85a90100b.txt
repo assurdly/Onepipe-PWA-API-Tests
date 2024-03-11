@@ -1,0 +1,9 @@
+{
+    "first_name": "Asia",
+    "last_name": "Schumm",
+    "phone_number": "07011725297",
+    "company_name": "Maggio Verla LTD",
+    "rc_number": "RC1111111",
+    "email": "Aylin@mailinator.com",
+    "password": "Teste"
+}

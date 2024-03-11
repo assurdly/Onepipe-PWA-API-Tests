@@ -1,0 +1,9 @@
+{
+    "first_name": "Alfred",
+    "last_name": "Simonis",
+    "phone_number": "07011",
+    "company_name": "Deckow Jaren LTD",
+    "rc_number": "RC1111111",
+    "email": "Andy@mailinator.com",
+    "password": "Tester@12"
+}

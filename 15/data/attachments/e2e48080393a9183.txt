@@ -1,0 +1,9 @@
+{
+    "first_name": "Sydnie",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Crist Delphia LTD",
+    "rc_number": "RC1111110",
+    "email": "Vergie@mailinator.com",
+    "password": "Tester@12"
+}

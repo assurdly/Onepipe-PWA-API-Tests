@@ -1,0 +1,9 @@
+{
+    "first_name": "Ruthe",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Welch Jennie LTD",
+    "rc_number": "RC1111110",
+    "email": "Abel@mailinator.com",
+    "password": "Tester@12"
+}

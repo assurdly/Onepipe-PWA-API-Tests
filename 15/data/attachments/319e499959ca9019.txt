@@ -1,0 +1,9 @@
+{
+    "first_name": "Chris",
+    "last_name": "Luettgen",
+    "phone_number": "234701172529700",
+    "company_name": "Corkery Cade LTD",
+    "rc_number": "RC1111111",
+    "email": "Kole@mailinator.com",
+    "password": "Tester@12"
+}

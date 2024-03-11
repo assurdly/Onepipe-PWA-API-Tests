@@ -1,0 +1,9 @@
+{
+    "first_name": "Elliott",
+    "last_name": "Rath",
+    "phone_number": "234701172529700",
+    "company_name": "Casper Winona LTD",
+    "rc_number": "RC1111111",
+    "email": "Alvina@mailinator.com",
+    "password": "Tester@12"
+}

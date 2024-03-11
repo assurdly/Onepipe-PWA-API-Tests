@@ -1,0 +1,9 @@
+{
+    "first_name": "Phyllis",
+    "last_name": "Rodriguez",
+    "phone_number": "234701172529700",
+    "company_name": "Abernathy Ilene LTD",
+    "rc_number": "RC1111111",
+    "email": "Alena@mailinator.com",
+    "password": "Tester@12"
+}

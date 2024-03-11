@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Leuschke",
+    "phone_number": "07011725297",
+    "company_name": "Howell Domenic LTD",
+    "rc_number": "RC1111111",
+    "email": "Leann@mailinator.com",
+    "password": "Tester@12"
+}

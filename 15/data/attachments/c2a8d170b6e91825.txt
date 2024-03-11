@@ -1,0 +1,9 @@
+{
+    "first_name": "Paolo",
+    "last_name": "Williamson",
+    "phone_number": "07011",
+    "company_name": "Boyer Lavon LTD",
+    "rc_number": "RC1111111",
+    "email": "Ebba@mailinator.com",
+    "password": "Tester@12"
+}

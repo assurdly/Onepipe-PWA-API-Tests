@@ -1,0 +1,9 @@
+{
+    "first_name": "Guadalupe",
+    "last_name": "Collins",
+    "phone_number": "07011725297",
+    "company_name": "Hahn Sadye LTD",
+    "rc_number": "2105262787",
+    "email": "Penelope@mailinator.com",
+    "password": "Tester@12"
+}

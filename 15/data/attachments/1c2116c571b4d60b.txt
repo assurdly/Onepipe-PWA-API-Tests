@@ -1,0 +1,9 @@
+{
+    "first_name": "Nestor",
+    "last_name": "Cummerata",
+    "phone_number": "234701172529700",
+    "company_name": "Pagac Deangelo LTD",
+    "rc_number": "RC1111111",
+    "email": "Tyreek@mailinator.com",
+    "password": "Tester@12"
+}

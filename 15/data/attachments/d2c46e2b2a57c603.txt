@@ -1,0 +1,7 @@
+{
+    "name": "Assistant",
+    "description": "Qui voluptate qui.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Lucio",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Lynch Eladio LTD",
+    "rc_number": "RC1111110",
+    "email": "Velva@mailinator.com",
+    "password": "Tester@12"
+}

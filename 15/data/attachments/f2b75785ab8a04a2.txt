@@ -1,0 +1,6 @@
+{
+    "name": "Industrial Role",
+    "description": "Eaque ut non nisi itaque quam aliquid aperiam.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

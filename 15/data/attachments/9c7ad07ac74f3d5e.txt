@@ -1,0 +1,7 @@
+{
+    "name": "Checking",
+    "description": "Quia est aliquam quibusdam iusto eum cum velit aliquid et.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

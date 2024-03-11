@@ -1,0 +1,9 @@
+{
+    "first_name": "Ophelia",
+    "last_name": "Kemmer",
+    "phone_number": "07011725297",
+    "company_name": "Rath Mozelle LTD",
+    "rc_number": "RC1111111",
+    "email": "Coralie@mailinator",
+    "password": "Tester@12"
+}

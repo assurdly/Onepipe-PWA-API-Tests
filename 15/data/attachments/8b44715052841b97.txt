@@ -1,0 +1,9 @@
+{
+    "first_name": "Donnelly",
+    "last_name": "Hilpert",
+    "phone_number": "",
+    "company_name": "Collins Mark LTD",
+    "rc_number": "RC1111111",
+    "email": "Daphnee@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Knoll Role",
+    "description": "Rerum ut non ea et.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

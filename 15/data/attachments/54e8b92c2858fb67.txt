@@ -1,0 +1,9 @@
+{
+    "first_name": "Leora",
+    "last_name": "Keebler",
+    "phone_number": "07011725297",
+    "company_name": "Franecki Zena LTD",
+    "rc_number": "RC1111111",
+    "email": "Dolly@mailinator",
+    "password": "Tester@12"
+}

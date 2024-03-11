@@ -1,0 +1,6 @@
+{
+    "name": "Account Role",
+    "description": "Consequatur delectus reiciendis corporis voluptates exercitationem dolor voluptates illo.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

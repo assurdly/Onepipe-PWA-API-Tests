@@ -1,0 +1,7 @@
+{
+    "name": "leading-edge",
+    "description": "Quaerat ea provident natus.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

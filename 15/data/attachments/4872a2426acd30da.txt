@@ -1,0 +1,9 @@
+{
+    "first_name": "Rosetta",
+    "last_name": "Boyer",
+    "phone_number": "07011",
+    "company_name": "Lockman Walton LTD",
+    "rc_number": "RC1111111",
+    "email": "Clark@mailinator.com",
+    "password": "Tester@12"
+}

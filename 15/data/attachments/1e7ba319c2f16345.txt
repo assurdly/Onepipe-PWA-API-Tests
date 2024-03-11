@@ -1,0 +1,9 @@
+{
+    "first_name": "Jackie",
+    "last_name": "Conn",
+    "phone_number": "07011725297",
+    "company_name": "Feest Braeden LTD",
+    "rc_number": "RC1111111",
+    "email": "Dario@mailinator",
+    "password": "Tester@12"
+}

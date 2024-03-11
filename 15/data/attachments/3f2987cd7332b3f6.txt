@@ -1,0 +1,9 @@
+{
+    "first_name": "Wendell",
+    "last_name": "Mante",
+    "phone_number": "234701172529700",
+    "company_name": "Hudson Eveline LTD",
+    "rc_number": "RC1111111",
+    "email": "Jayce@mailinator.com",
+    "password": "Tester@12"
+}

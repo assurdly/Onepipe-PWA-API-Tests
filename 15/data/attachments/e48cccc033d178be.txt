@@ -1,0 +1,9 @@
+{
+    "first_name": "Layne",
+    "last_name": "Brown",
+    "phone_number": "07011er4569",
+    "company_name": "Kerluke Wade LTD",
+    "rc_number": "8184507424",
+    "email": "Leonor@mailinator.com",
+    "password": "Tester@12"
+}

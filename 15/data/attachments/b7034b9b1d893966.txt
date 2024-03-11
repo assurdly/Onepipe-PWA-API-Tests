@@ -1,0 +1,9 @@
+{
+    "first_name": "Greenholt",
+    "last_name": "Bauch",
+    "phone_number": "",
+    "company_name": "Rau Modesto LTD",
+    "rc_number": "RC1111111",
+    "email": "Myrtle@mailinator.com",
+    "password": "Tester@12"
+}

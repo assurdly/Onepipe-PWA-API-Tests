@@ -1,0 +1,9 @@
+{
+    "first_name": "Lonzo",
+    "last_name": "VonRueden",
+    "phone_number": "07011725297",
+    "company_name": "Schroeder Shawna LTD",
+    "rc_number": "6591712814",
+    "email": "Henri@mailinator.com",
+    "password": "Tester@12"
+}

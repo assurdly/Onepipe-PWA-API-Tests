@@ -1,0 +1,9 @@
+{
+    "first_name": "Dickinson",
+    "last_name": "Hessel",
+    "phone_number": "",
+    "company_name": "Doyle Antonio LTD",
+    "rc_number": "RC1111111",
+    "email": "Seth@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "synthesize",
+    "description": "Sunt autem voluptas.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

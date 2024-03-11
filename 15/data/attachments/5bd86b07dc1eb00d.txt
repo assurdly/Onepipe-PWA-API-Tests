@@ -1,0 +1,9 @@
+{
+    "first_name": "Garrett",
+    "last_name": "Okuneva",
+    "phone_number": "07011725297",
+    "company_name": "Sauer Marlene LTD",
+    "rc_number": "9145399216",
+    "email": "Neva@mailinator.com",
+    "password": "Tester@12"
+}

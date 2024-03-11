@@ -1,0 +1,6 @@
+{
+    "name": "disintermediate Role",
+    "description": "Autem vitae aliquid illo nihil exercitationem voluptas veritatis quisquam est.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

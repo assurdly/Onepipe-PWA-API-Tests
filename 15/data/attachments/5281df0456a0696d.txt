@@ -1,0 +1,9 @@
+{
+    "first_name": "Dayana",
+    "last_name": "Abernathy",
+    "phone_number": "07011725297",
+    "company_name": "Elvera Wilderman LTD",
+    "rc_number": "",
+    "email": "Lavina@mailinator.com",
+    "password": "Tester@12"
+}

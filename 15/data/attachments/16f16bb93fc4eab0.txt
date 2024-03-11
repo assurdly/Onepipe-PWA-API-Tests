@@ -1,0 +1,9 @@
+{
+    "first_name": "Calista",
+    "last_name": "Bergnaum",
+    "phone_number": "07011725297",
+    "company_name": "Jakubowski Shirley LTD",
+    "rc_number": "RC1111111",
+    "email": "Vernice@mailinator.com",
+    "password": "Teste"
+}

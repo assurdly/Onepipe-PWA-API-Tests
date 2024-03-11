@@ -1,0 +1,9 @@
+{
+    "first_name": "Kraig",
+    "last_name": "Waters",
+    "phone_number": "234701172529700",
+    "company_name": "O'Connell Kay LTD",
+    "rc_number": "RC1111111",
+    "email": "Trenton@mailinator.com",
+    "password": "Tester@12"
+}

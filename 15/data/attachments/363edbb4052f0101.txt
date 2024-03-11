@@ -1,0 +1,9 @@
+{
+    "first_name": "Roberto",
+    "last_name": "Ryan",
+    "phone_number": "07011725297",
+    "company_name": "Hoeger Orrin LTD",
+    "rc_number": "275345444",
+    "email": "Raymond@mailinator.com",
+    "password": "Tester@12"
+}

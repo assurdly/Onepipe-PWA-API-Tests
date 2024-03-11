@@ -1,0 +1,9 @@
+{
+    "first_name": "Stanley",
+    "last_name": "Hauck",
+    "phone_number": "07011er4569",
+    "company_name": "Orn Heather LTD",
+    "rc_number": "407963946",
+    "email": "Evangeline@mailinator.com",
+    "password": "Tester@12"
+}

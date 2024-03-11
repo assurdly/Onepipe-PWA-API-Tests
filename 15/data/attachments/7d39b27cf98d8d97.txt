@@ -1,0 +1,9 @@
+{
+    "first_name": "Eugene",
+    "last_name": "Beier",
+    "phone_number": "07011",
+    "company_name": "Baumbach Romaine LTD",
+    "rc_number": "RC1111111",
+    "email": "Jessica@mailinator.com",
+    "password": "Tester@12"
+}

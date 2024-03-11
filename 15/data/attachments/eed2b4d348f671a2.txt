@@ -1,0 +1,9 @@
+{
+    "first_name": "Cassandra",
+    "last_name": "Bins",
+    "phone_number": "07011725297",
+    "company_name": "Hermann Dudley LTD",
+    "rc_number": "6772949611",
+    "email": "Elsa@mailinator.com",
+    "password": "Tester@12"
+}

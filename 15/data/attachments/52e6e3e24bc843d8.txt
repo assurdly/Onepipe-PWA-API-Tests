@@ -1,0 +1,9 @@
+{
+    "first_name": "Dane",
+    "last_name": "Bartell",
+    "phone_number": "07011725297",
+    "company_name": "Shanahan Herminia LTD",
+    "rc_number": "7691428021",
+    "email": "Barney@mailinator.com",
+    "password": "Tester@12"
+}

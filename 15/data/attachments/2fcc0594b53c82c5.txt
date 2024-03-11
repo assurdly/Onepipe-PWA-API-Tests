@@ -1,0 +1,9 @@
+{
+    "first_name": "Jackie",
+    "last_name": "Rippin",
+    "phone_number": "07011725297",
+    "company_name": "Regan Zboncak LTD",
+    "rc_number": "",
+    "email": "Amaya@mailinator.com",
+    "password": "Tester@12"
+}

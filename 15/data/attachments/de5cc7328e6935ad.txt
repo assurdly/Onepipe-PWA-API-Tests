@@ -1,0 +1,9 @@
+{
+    "first_name": "Heidenreich",
+    "last_name": "Vandervort",
+    "phone_number": "",
+    "company_name": "Grant Gaylord LTD",
+    "rc_number": "RC1111111",
+    "email": "Ashleigh@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Denis",
+    "last_name": "Wyman",
+    "phone_number": "07011725297",
+    "company_name": "Williamson Jeanne LTD",
+    "rc_number": "1598371403",
+    "email": "Ursula@mailinator.com",
+    "password": "Tester@12"
+}

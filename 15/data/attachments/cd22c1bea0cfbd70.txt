@@ -1,0 +1,9 @@
+{
+    "first_name": "Rachelle",
+    "last_name": "Kunde",
+    "phone_number": "07011er4569",
+    "company_name": "Rau Gisselle LTD",
+    "rc_number": "6069061384",
+    "email": "Demetrius@mailinator.com",
+    "password": "Tester@12"
+}

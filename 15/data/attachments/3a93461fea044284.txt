@@ -1,0 +1,9 @@
+{
+    "first_name": "Reichel",
+    "last_name": "Hyatt",
+    "phone_number": "",
+    "company_name": "Howell Freda LTD",
+    "rc_number": "RC1111111",
+    "email": "Rubye@mailinator.com",
+    "password": "Tester@12"
+}

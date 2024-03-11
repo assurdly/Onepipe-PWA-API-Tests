@@ -1,0 +1,9 @@
+{
+    "first_name": "Reginald",
+    "last_name": "Bruen",
+    "phone_number": "234701172529700",
+    "company_name": "Turner Gayle LTD",
+    "rc_number": "RC1111111",
+    "email": "Daisy@mailinator.com",
+    "password": "Tester@12"
+}

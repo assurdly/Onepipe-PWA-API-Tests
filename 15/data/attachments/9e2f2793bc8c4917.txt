@@ -1,0 +1,9 @@
+{
+    "first_name": "Koch",
+    "last_name": "Hudson",
+    "phone_number": "",
+    "company_name": "Herman Eldred LTD",
+    "rc_number": "RC1111111",
+    "email": "Khalil@mailinator.com",
+    "password": "Tester@12"
+}

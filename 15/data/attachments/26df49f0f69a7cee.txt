@@ -1,0 +1,9 @@
+{
+    "first_name": "Katlyn",
+    "last_name": "Ruecker",
+    "phone_number": "07011725297",
+    "company_name": "Hills Ludie LTD",
+    "rc_number": "RC1111111",
+    "email": "Monte@mailinator",
+    "password": "Tester@12"
+}

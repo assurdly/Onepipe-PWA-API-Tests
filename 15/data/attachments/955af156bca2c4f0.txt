@@ -1,0 +1,9 @@
+{
+    "first_name": "Grace",
+    "last_name": "Kerluke",
+    "phone_number": "07011725297",
+    "company_name": "Jaylon Schimmel LTD",
+    "rc_number": "",
+    "email": "Mireya@mailinator.com",
+    "password": "Tester@12"
+}

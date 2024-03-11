@@ -1,0 +1,9 @@
+{
+    "first_name": "Luther",
+    "last_name": "Mayert",
+    "phone_number": "234701172529700",
+    "company_name": "Beatty Norma LTD",
+    "rc_number": "RC1111111",
+    "email": "Helga@mailinator.com",
+    "password": "Tester@12"
+}

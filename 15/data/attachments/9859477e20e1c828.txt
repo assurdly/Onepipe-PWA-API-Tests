@@ -1,0 +1,9 @@
+{
+    "first_name": "Ferne",
+    "last_name": "Boyer",
+    "phone_number": "07011725297",
+    "company_name": "Haley Tressa LTD",
+    "rc_number": "2879157908",
+    "email": "Hellen@mailinator.com",
+    "password": "Tester@12"
+}

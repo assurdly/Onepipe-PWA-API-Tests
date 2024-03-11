@@ -1,0 +1,6 @@
+{
+    "name": "Principal Role",
+    "description": "Quis qui velit quo perferendis eius quod consequatur.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

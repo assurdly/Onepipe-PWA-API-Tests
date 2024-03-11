@@ -1,0 +1,9 @@
+{
+    "first_name": "Aleen",
+    "last_name": "Glover",
+    "phone_number": "07011725297",
+    "company_name": "Raven Mitchell LTD",
+    "rc_number": "",
+    "email": "Geovanni@mailinator.com",
+    "password": "Tester@12"
+}

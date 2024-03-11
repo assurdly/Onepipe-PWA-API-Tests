@@ -1,0 +1,9 @@
+{
+    "first_name": "Murray",
+    "last_name": "Rempel",
+    "phone_number": "",
+    "company_name": "Metz Jewell LTD",
+    "rc_number": "RC1111111",
+    "email": "Henderson@mailinator.com",
+    "password": "Tester@12"
+}

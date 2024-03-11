@@ -1,0 +1,7 @@
+{
+    "name": "blue",
+    "description": "Sapiente ab laudantium quia quia dolorem et perspiciatis sunt.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

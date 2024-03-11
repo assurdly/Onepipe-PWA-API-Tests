@@ -1,0 +1,9 @@
+{
+    "first_name": "Cheyanne",
+    "last_name": "Cole",
+    "phone_number": "07011725297",
+    "company_name": "O'Keefe Caden LTD",
+    "rc_number": "7391926034",
+    "email": "Thaddeus@mailinator.com",
+    "password": "Tester@12"
+}

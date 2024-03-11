@@ -1,0 +1,9 @@
+{
+    "first_name": "Rosanna",
+    "last_name": "Crooks",
+    "phone_number": "07011725297",
+    "company_name": "Schroeder Monserrat LTD",
+    "rc_number": "8175155744",
+    "email": "Rolando@mailinator.com",
+    "password": "Tester@12"
+}

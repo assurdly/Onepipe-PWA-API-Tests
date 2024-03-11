@@ -1,0 +1,9 @@
+{
+    "first_name": "Prince",
+    "last_name": "Glover",
+    "phone_number": "07011725297",
+    "company_name": "Linwood Christiansen LTD",
+    "rc_number": "",
+    "email": "Patrick@mailinator.com",
+    "password": "Tester@12"
+}

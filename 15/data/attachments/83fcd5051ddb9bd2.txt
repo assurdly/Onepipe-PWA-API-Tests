@@ -1,0 +1,9 @@
+{
+    "first_name": "Lea",
+    "last_name": "Medhurst",
+    "phone_number": "07011725297",
+    "company_name": "Smith Jonas LTD",
+    "rc_number": "RC1111111",
+    "email": "Gina@mailinator.com",
+    "password": "Teste"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Multi-tiered Role",
+    "description": "Sunt sed unde dolorem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

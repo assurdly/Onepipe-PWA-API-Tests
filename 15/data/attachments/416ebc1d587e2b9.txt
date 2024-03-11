@@ -1,0 +1,9 @@
+{
+    "first_name": "Ally",
+    "last_name": "Rowe",
+    "phone_number": "07011",
+    "company_name": "Cruickshank Valerie LTD",
+    "rc_number": "RC1111111",
+    "email": "Wilbert@mailinator.com",
+    "password": "Tester@12"
+}

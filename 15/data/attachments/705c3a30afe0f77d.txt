@@ -1,0 +1,9 @@
+{
+    "first_name": "Vincenzo",
+    "last_name": "Hills",
+    "phone_number": "07011",
+    "company_name": "Bernier Cordelia LTD",
+    "rc_number": "RC1111111",
+    "email": "Tessie@mailinator.com",
+    "password": "Tester@12"
+}

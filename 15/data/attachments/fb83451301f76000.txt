@@ -1,0 +1,9 @@
+{
+    "first_name": "Wunsch",
+    "last_name": "Kuhn",
+    "phone_number": "",
+    "company_name": "Denesik Audie LTD",
+    "rc_number": "RC1111111",
+    "email": "Lesley@mailinator.com",
+    "password": "Tester@12"
+}

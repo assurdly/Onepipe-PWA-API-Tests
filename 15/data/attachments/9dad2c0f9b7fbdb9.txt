@@ -1,0 +1,9 @@
+{
+    "first_name": "Mertz",
+    "last_name": "Gottlieb",
+    "phone_number": "",
+    "company_name": "Moen Bonita LTD",
+    "rc_number": "RC1111111",
+    "email": "Zachary@mailinator.com",
+    "password": "Tester@12"
+}

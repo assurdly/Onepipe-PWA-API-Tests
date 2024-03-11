@@ -1,0 +1,9 @@
+{
+    "first_name": "Kling",
+    "last_name": "Harvey",
+    "phone_number": "",
+    "company_name": "Welch Mekhi LTD",
+    "rc_number": "RC1111111",
+    "email": "Frederic@mailinator.com",
+    "password": "Tester@12"
+}

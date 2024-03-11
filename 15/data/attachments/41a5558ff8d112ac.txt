@@ -1,0 +1,9 @@
+{
+    "first_name": "Leopold",
+    "last_name": "Wintheiser",
+    "phone_number": "07011725297",
+    "company_name": "Wunsch Alejandra LTD",
+    "rc_number": "1217406142",
+    "email": "Kasandra@mailinator.com",
+    "password": "Tester@12"
+}

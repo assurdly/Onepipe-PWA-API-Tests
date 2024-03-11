@@ -1,0 +1,9 @@
+{
+    "first_name": "Earnest",
+    "last_name": "Turner",
+    "phone_number": "07011725297",
+    "company_name": "Pollich Amalia LTD",
+    "rc_number": "5297855439",
+    "email": "Vivienne@mailinator.com",
+    "password": "Tester@12"
+}

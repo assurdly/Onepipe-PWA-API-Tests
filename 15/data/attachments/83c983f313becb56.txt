@@ -1,0 +1,9 @@
+{
+    "first_name": "Carleton",
+    "last_name": "Hermann",
+    "phone_number": "07011725297",
+    "company_name": "Irving Hansen LTD",
+    "rc_number": "",
+    "email": "Zaria@mailinator.com",
+    "password": "Tester@12"
+}

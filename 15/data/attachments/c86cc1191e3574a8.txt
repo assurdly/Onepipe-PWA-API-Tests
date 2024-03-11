@@ -1,0 +1,7 @@
+{
+    "name": "Zambia",
+    "description": "Enim in necessitatibus reiciendis accusamus aperiam eveniet.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

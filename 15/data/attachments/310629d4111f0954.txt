@@ -1,0 +1,9 @@
+{
+    "first_name": "Oswaldo",
+    "last_name": "Rosenbaum",
+    "phone_number": "07011725297",
+    "company_name": "Shanahan Garth LTD",
+    "rc_number": "20399824",
+    "email": "Demetris@mailinator.com",
+    "password": "Tester@12"
+}

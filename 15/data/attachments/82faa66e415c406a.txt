@@ -1,0 +1,6 @@
+{
+    "name": "Shoal Role",
+    "description": "Eaque harum et cum odit qui.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

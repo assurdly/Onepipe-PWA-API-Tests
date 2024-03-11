@@ -1,0 +1,9 @@
+{
+    "first_name": "Mitchel",
+    "last_name": "VonRueden",
+    "phone_number": "07011725297",
+    "company_name": "Albin Hegmann LTD",
+    "rc_number": "",
+    "email": "Annette@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Erwin",
+    "last_name": "Kilback",
+    "phone_number": "07011725297",
+    "company_name": "Mills Garnet LTD",
+    "rc_number": "5539203414",
+    "email": "Enos@mailinator.com",
+    "password": "Tester@12"
+}

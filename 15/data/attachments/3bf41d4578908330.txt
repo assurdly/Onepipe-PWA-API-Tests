@@ -1,0 +1,9 @@
+{
+    "first_name": "Sigurd",
+    "last_name": "Fadel",
+    "phone_number": "07011725297",
+    "company_name": "Carroll Daniela LTD",
+    "rc_number": "RC1111111",
+    "email": "Allie@mailinator.com",
+    "password": "Teste"
+}

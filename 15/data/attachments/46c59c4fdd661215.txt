@@ -1,0 +1,9 @@
+{
+    "first_name": "Mireille",
+    "last_name": "Hegmann",
+    "phone_number": "07011725297",
+    "company_name": "Welch Jamaal LTD",
+    "rc_number": "RC1111111",
+    "email": "Leonora@mailinator.com",
+    "password": "Teste"
+}

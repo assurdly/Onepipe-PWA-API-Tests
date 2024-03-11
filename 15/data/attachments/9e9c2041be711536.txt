@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Labadie",
+    "phone_number": "07011725297",
+    "company_name": "Mueller Alanna LTD",
+    "rc_number": "RC1111111",
+    "email": "Zoe@mailinator.com",
+    "password": "Tester@12"
+}

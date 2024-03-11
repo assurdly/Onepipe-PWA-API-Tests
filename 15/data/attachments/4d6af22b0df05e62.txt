@@ -1,0 +1,9 @@
+{
+    "first_name": "Stan",
+    "last_name": "Wiegand",
+    "phone_number": "07011",
+    "company_name": "Prohaska Treva LTD",
+    "rc_number": "RC1111111",
+    "email": "Alden@mailinator.com",
+    "password": "Tester@12"
+}

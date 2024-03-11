@@ -1,0 +1,9 @@
+{
+    "first_name": "Jacey",
+    "last_name": "Kassulke",
+    "phone_number": "07011725297",
+    "company_name": "Ritchie Will LTD",
+    "rc_number": "RC1111111",
+    "email": "Jeanette@mailinator.com",
+    "password": "Teste"
+}

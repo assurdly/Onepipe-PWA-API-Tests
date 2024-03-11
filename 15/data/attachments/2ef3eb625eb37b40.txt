@@ -1,0 +1,9 @@
+{
+    "first_name": "Angelina",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Kovacek Elva LTD",
+    "rc_number": "RC1111110",
+    "email": "Kristian@mailinator.com",
+    "password": "Tester@12"
+}

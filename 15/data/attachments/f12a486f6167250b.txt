@@ -1,0 +1,9 @@
+{
+    "first_name": "Katelynn",
+    "last_name": "Hyatt",
+    "phone_number": "07011725297",
+    "company_name": "Aletha Botsford LTD",
+    "rc_number": "",
+    "email": "Zachariah@mailinator.com",
+    "password": "Tester@12"
+}

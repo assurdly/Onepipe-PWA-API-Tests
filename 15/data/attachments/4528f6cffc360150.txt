@@ -1,0 +1,9 @@
+{
+    "first_name": "Colton",
+    "last_name": "Raynor",
+    "phone_number": "07011725297",
+    "company_name": "Sipes Clint LTD",
+    "rc_number": "RC1111111",
+    "email": "Alessandra@mailinator.com",
+    "password": "Teste"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Mozelle",
+    "last_name": "Hane",
+    "phone_number": "07011725297",
+    "company_name": "Douglas Isobel LTD",
+    "rc_number": "6005951925",
+    "email": "Kirstin@mailinator.com",
+    "password": "Tester@12"
+}

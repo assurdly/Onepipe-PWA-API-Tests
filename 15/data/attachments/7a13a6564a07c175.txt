@@ -1,0 +1,9 @@
+{
+    "first_name": "Thiel",
+    "last_name": "Hahn",
+    "phone_number": "",
+    "company_name": "Muller Guy LTD",
+    "rc_number": "RC1111111",
+    "email": "Augustus@mailinator.com",
+    "password": "Tester@12"
+}

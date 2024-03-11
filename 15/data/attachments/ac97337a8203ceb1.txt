@@ -1,0 +1,9 @@
+{
+    "first_name": "Rogers",
+    "last_name": "Green",
+    "phone_number": "07011725297",
+    "company_name": "Kuhlman Tianna LTD",
+    "rc_number": "RC1111111",
+    "email": "Ethan@mailinator.com",
+    "password": "Teste"
+}

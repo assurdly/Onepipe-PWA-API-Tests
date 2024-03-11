@@ -1,0 +1,9 @@
+{
+    "first_name": "Eloisa",
+    "last_name": "Greenfelder",
+    "phone_number": "234701172529700",
+    "company_name": "Renner Zoila LTD",
+    "rc_number": "RC1111111",
+    "email": "Alfredo@mailinator.com",
+    "password": "Tester@12"
+}

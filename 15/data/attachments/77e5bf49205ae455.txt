@@ -1,0 +1,9 @@
+{
+    "first_name": "Dorthy",
+    "last_name": "Lubowitz",
+    "phone_number": "07011725297",
+    "company_name": "Lenny Wilderman LTD",
+    "rc_number": "",
+    "email": "Weldon@mailinator.com",
+    "password": "Tester@12"
+}

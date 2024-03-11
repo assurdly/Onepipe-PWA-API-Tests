@@ -1,0 +1,9 @@
+{
+    "first_name": "Lily",
+    "last_name": "Pollich",
+    "phone_number": "07011",
+    "company_name": "Feest Rusty LTD",
+    "rc_number": "RC1111111",
+    "email": "Moses@mailinator.com",
+    "password": "Tester@12"
+}

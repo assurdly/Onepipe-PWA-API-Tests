@@ -1,0 +1,9 @@
+{
+    "first_name": "Nyasia",
+    "last_name": "Koss",
+    "phone_number": "07011er4569",
+    "company_name": "Cartwright Myrl LTD",
+    "rc_number": "3661580825",
+    "email": "Heloise@mailinator.com",
+    "password": "Tester@12"
+}

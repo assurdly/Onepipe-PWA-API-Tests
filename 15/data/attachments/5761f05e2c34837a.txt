@@ -1,0 +1,9 @@
+{
+    "first_name": "Volkman",
+    "last_name": "Reichel",
+    "phone_number": "",
+    "company_name": "Schmitt Rico LTD",
+    "rc_number": "RC1111111",
+    "email": "Josh@mailinator.com",
+    "password": "Tester@12"
+}

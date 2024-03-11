@@ -1,0 +1,6 @@
+{
+    "name": "transitional Role",
+    "description": "Consequatur soluta ut nam sit officiis odit sit id mollitia.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

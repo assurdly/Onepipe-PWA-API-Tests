@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Johnson",
+    "phone_number": "07011725297",
+    "company_name": "Sanford Kody LTD",
+    "rc_number": "RC1111111",
+    "email": "Skyla@mailinator.com",
+    "password": "Tester@12"
+}

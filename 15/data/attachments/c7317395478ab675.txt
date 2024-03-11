@@ -1,0 +1,9 @@
+{
+    "first_name": "Lucio",
+    "last_name": "Bechtelar",
+    "phone_number": "07011725297",
+    "company_name": "Rowe Vance LTD",
+    "rc_number": "7153178704",
+    "email": "Matteo@mailinator.com",
+    "password": "Tester@12"
+}
