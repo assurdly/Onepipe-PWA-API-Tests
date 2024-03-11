@@ -1,0 +1,6 @@
+{
+    "name": "port Role",
+    "description": "Accusantium deserunt cum aut itaque expedita.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
