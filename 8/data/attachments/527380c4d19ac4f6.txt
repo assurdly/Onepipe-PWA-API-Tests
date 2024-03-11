@@ -1,0 +1,6 @@
+{
+    "name": "Missouri Role",
+    "description": "Voluptas consequatur et consequatur est ullam ex quia doloribus consectetur.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
