@@ -1,0 +1,9 @@
+{
+    "first_name": "Buckridge",
+    "last_name": "Kerluke",
+    "phone_number": "",
+    "company_name": "VonRueden Leatha LTD",
+    "rc_number": "RC1111111",
+    "email": "Otha@mailinator.com",
+    "password": "Tester@12"
+}

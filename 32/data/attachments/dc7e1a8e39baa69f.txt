@@ -1,0 +1,9 @@
+{
+    "first_name": "Imelda",
+    "last_name": "Reinger",
+    "phone_number": "07011725297",
+    "company_name": "Abernathy Alfred LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

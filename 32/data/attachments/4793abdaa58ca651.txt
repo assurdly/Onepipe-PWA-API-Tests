@@ -1,0 +1,9 @@
+{
+    "first_name": "Anahi",
+    "last_name": "Walter",
+    "phone_number": "07011er4569",
+    "company_name": "Conroy Samir LTD",
+    "rc_number": "5802664442",
+    "email": "Nicolas@mailinator.com",
+    "password": "Tester@12"
+}

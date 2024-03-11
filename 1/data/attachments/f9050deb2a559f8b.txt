@@ -1,6 +1,0 @@
-{
-    "name": "",
-    "description": "Super Admin Description",
-    "permissions": [],
-    "token": "000000"
-}

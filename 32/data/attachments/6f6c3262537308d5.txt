@@ -1,0 +1,9 @@
+{
+    "first_name": "Eldora",
+    "last_name": "Beer",
+    "phone_number": "07011725297",
+    "company_name": "O'Hara Clement LTD",
+    "rc_number": "4664653406",
+    "email": "Renee@mailinator.com",
+    "password": "Tester@12"
+}

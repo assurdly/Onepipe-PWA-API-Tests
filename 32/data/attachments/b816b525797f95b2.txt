@@ -1,0 +1,9 @@
+{
+    "first_name": "Jerry",
+    "last_name": "Ruecker",
+    "phone_number": "07011725297",
+    "company_name": "Harvey Bode LTD",
+    "rc_number": "",
+    "email": "Augustus@mailinator.com",
+    "password": "Tester@12"
+}

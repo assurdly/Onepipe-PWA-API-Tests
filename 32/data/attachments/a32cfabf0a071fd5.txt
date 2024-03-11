@@ -1,0 +1,9 @@
+{
+    "first_name": "Tillman",
+    "last_name": "Bruen",
+    "phone_number": "07011725297",
+    "company_name": "Kulas Efren LTD",
+    "rc_number": "6266328099",
+    "email": "DustyRAM@mailinator.com",
+    "password": "Tester@12"
+}

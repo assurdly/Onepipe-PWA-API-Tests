@@ -1,0 +1,9 @@
+{
+    "first_name": "Tamia",
+    "last_name": "Marks",
+    "phone_number": "234701172529700",
+    "company_name": "Dickens Jazmin LTD",
+    "rc_number": "RC1111111",
+    "email": "Marty@mailinator.com",
+    "password": "Tester@12"
+}

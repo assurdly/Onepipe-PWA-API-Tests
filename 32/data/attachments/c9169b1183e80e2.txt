@@ -1,0 +1,9 @@
+{
+    "first_name": "Cierra",
+    "last_name": "Abshire",
+    "phone_number": "07011725297",
+    "company_name": "Davis Jevon LTD",
+    "rc_number": "RC1111111",
+    "email": "Letitia@mailinator.com",
+    "password": "Teste"
+}

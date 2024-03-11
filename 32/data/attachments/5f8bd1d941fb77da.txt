@@ -1,0 +1,9 @@
+{
+    "first_name": "Jabari",
+    "last_name": "Nolan",
+    "phone_number": "07011",
+    "company_name": "Davis Gregoria LTD",
+    "rc_number": "RC1111111",
+    "email": "Lon@mailinator.com",
+    "password": "Tester@12"
+}
