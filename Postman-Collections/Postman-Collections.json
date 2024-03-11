@@ -63099,9 +63099,8 @@
 											],
 											"variable": [
 												{
-													"id": "70656683-1892-420a-9333-b290f35a36c8",
 													"key": "user_id",
-													"value": "3"
+													"value": "{{UserID}}"
 												}
 											]
 										}
@@ -63387,6 +63386,7 @@
 										{
 											"listen": "test",
 											"script": {
+												"id": "9ee2a36d-c66d-46f5-8e0c-68d3b2c75cc3",
 												"exec": [
 													"var jsonData = pm.response.json();\r",
 													"\r",
@@ -63404,18 +63404,17 @@
 													"})\r",
 													""
 												],
-												"type": "text/javascript",
-												"id": "9ee2a36d-c66d-46f5-8e0c-68d3b2c75cc3"
+												"type": "text/javascript"
 											}
 										},
 										{
 											"listen": "prerequest",
 											"script": {
+												"id": "2059b51b-3691-40f5-b3b2-a5e200366055",
 												"exec": [
 													""
 												],
-												"type": "text/javascript",
-												"id": "2059b51b-3691-40f5-b3b2-a5e200366055"
+												"type": "text/javascript"
 											}
 										}
 									],
@@ -63440,7 +63439,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"email\": \"zeez@mailinator.com\"\n}",
+											"raw": "{\n    \"email\": \"azeezbiller@mailinator.com\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
