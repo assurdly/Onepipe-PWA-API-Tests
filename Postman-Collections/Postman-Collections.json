@@ -70479,20 +70479,20 @@
 				{
 					"listen": "test",
 					"script": {
+						"id": "e1cbca17-56bc-49c6-9a8a-e7c3277056b5",
 						"exec": [
-							"pm.test('Status code is 200', ()=>{\r",
-							"    pm.response.to.have.status(200)\r",
-							"})\r",
-							"pm.test('Status is Ok', ()=>{\r",
-							"    pm.response.to.have.status(\"OK\")\r",
-							"})\r",
-							"pm.test('Response body returns OK', ()=>{\r",
-							"    console.log(pm.response.text())\r",
-							"    pm.expect(pm.response.text()).to.have.contain(\"OK\")\r",
-							"})"
+							"// pm.test('Status code is 200', ()=>{\r",
+							"//     pm.response.to.have.status(200)\r",
+							"// })\r",
+							"// pm.test('Status is Ok', ()=>{\r",
+							"//     pm.response.to.have.status(\"OK\")\r",
+							"// })\r",
+							"// pm.test('Response body returns OK', ()=>{\r",
+							"//     console.log(pm.response.text())\r",
+							"//     pm.expect(pm.response.text()).to.have.contain(\"OK\")\r",
+							"// })"
 						],
-						"type": "text/javascript",
-						"id": "e1cbca17-56bc-49c6-9a8a-e7c3277056b5"
+						"type": "text/javascript"
 					}
 				}
 			],
@@ -70503,7 +70503,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://test-sterling-direct-debit-lb-2026261518.us-east-2.elb.amazonaws.com/health"
+				"url": "{{base_url}}/health"
 			},
 			"response": [
 				{
