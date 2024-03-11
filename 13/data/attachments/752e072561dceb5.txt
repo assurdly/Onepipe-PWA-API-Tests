@@ -1,0 +1,6 @@
+{
+    "name": "explicit Role",
+    "description": "Deserunt sunt sed non corrupti et consectetur.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
