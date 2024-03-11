@@ -46294,7 +46294,9 @@
 											"script": {
 												"id": "99821c38-8e1b-42e8-811e-a3898e448ef1",
 												"exec": [
-													""
+													"const random = Math.floor(Math.random() * 9999999999)",
+													"pm.environment.set('randomRc', random)",
+													"console.log(random)"
 												],
 												"type": "text/javascript"
 											}
@@ -53415,6 +53417,8 @@
 												"id": "1878e4d9-8706-4eed-ba81-1a658e65e7ff",
 												"exec": [
 													"var jsonData = pm.response.json();",
+													"const subscriptionId = jsonData.data.data[0].id",
+													"pm.environment.set(\"subscriptionId\", subscriptionId)",
 													"",
 													"pm.test(\"Status code is 200\", function(){",
 													"    pm.response.to.have.status(200);",
