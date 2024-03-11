@@ -53251,7 +53251,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -53670,7 +53670,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "cb3f8291-0b4e-4029-a776-31d4f185715a",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -53683,7 +53685,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "GET",
@@ -53905,7 +53907,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "cb3f8291-0b4e-4029-a776-31d4f185715a",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -53918,7 +53922,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "GET",
@@ -54140,7 +54144,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "cb3f8291-0b4e-4029-a776-31d4f185715a",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -54153,7 +54159,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "GET",
@@ -54381,7 +54387,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "a3483249-fd9a-4366-b9b3-b88cae713028",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -54394,7 +54402,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "GET",
