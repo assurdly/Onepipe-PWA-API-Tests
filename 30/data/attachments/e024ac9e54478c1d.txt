@@ -1,0 +1,9 @@
+{
+    "first_name": "Kylee",
+    "last_name": "Zemlak",
+    "phone_number": "07011725297",
+    "company_name": "Leannon Scottie LTD",
+    "rc_number": "5470053765",
+    "email": "Garrett@mailinator.com",
+    "password": "Tester@12"
+}

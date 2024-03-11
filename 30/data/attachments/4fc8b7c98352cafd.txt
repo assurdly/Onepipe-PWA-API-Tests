@@ -1,0 +1,9 @@
+{
+    "first_name": "Bria",
+    "last_name": "Thompson",
+    "phone_number": "07011",
+    "company_name": "Schmeler Adell LTD",
+    "rc_number": "RC1111111",
+    "email": "Benjamin@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Damien",
+    "last_name": "Stokes",
+    "phone_number": "07011725297",
+    "company_name": "Fadel Amalia LTD",
+    "rc_number": "RC1111111",
+    "email": "Boyd@mailinator.com",
+    "password": "Teste"
+}

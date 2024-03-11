@@ -1,0 +1,9 @@
+{
+    "first_name": "Cecile",
+    "last_name": "Steuber",
+    "phone_number": "234701172529700",
+    "company_name": "Bode Vernice LTD",
+    "rc_number": "RC1111111",
+    "email": "Cassandra@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Shanahan",
+    "last_name": "Mraz",
+    "phone_number": "",
+    "company_name": "Ledner Ludie LTD",
+    "rc_number": "RC1111111",
+    "email": "Michelle@mailinator.com",
+    "password": "Tester@12"
+}

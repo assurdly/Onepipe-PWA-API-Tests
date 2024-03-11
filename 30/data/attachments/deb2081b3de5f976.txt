@@ -1,0 +1,9 @@
+{
+    "first_name": "Tre",
+    "last_name": "Kutch",
+    "phone_number": "07011er4569",
+    "company_name": "Quigley Brigitte LTD",
+    "rc_number": "789808601",
+    "email": "Odessa@mailinator.com",
+    "password": "Tester@12"
+}

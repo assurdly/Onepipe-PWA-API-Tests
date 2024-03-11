@@ -1,0 +1,9 @@
+{
+    "first_name": "David",
+    "last_name": "Weissnat",
+    "phone_number": "07011725297",
+    "company_name": "Koelpin Cristal LTD",
+    "rc_number": "RC1111111",
+    "email": "Davin@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Wilson",
+    "last_name": "Weimann",
+    "phone_number": "07011725297",
+    "company_name": "Dare Presley LTD",
+    "rc_number": "9036801748",
+    "email": "CedrickJBOD@mailinator.com",
+    "password": "Tester@12"
+}
