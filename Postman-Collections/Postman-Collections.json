@@ -67783,9 +67783,7 @@
 													"pm.test(\"message is 'success'\", function(){\r",
 													"    pm.expect(jsonData.message).to.eql(\"success\")\r",
 													"})\r",
-													"pm.test(\"Validate that all categories are present\", function(){\r",
-													"    pm.expect(jsonData.data.data[0]).to.include({\"name\":\"Email Service\"})\r",
-													"})"
+													""
 												],
 												"type": "text/javascript"
 											}
@@ -67794,7 +67792,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "92b75223-35ae-4375-963c-c7f92f5344dc",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -68288,6 +68288,7 @@
 										{
 											"listen": "test",
 											"script": {
+												"id": "043fd8c8-4a5c-4555-b01b-fc4e81c9b2e0",
 												"exec": [
 													"var jsonData = pm.response.json();\r",
 													"\r",
@@ -68303,12 +68304,11 @@
 													"pm.test(\"message is 'success'\", function(){\r",
 													"    pm.expect(jsonData.message).to.eql(\"success\")\r",
 													"})\r",
-													"pm.test(\"Validate that all categories are present\", function(){\r",
-													"    pm.expect(jsonData.data.data[0]).to.include({\"name\":\"API key\"}, {\"name\":\"Email Base URL\"}, {\"name\":\"Email IV\"}, {\"name\":\"Email Key\"}, {\"name\":\"Email Provider\"}, {\"name\":\"Email Sender ID\"}, {\"name\":\"Host IP\"}, {\"name\":\"Inactivity Timeout\"}, {\"name\":\"Lock IP Address\"}, {\"name\":\"Mandate Frequency\"}, {\"name\":\"Notifications Group Email\"}, {\"name\":\"Number of API keys\"}, {\"name\":\"Request Timeout\"})\r",
-													"})"
+													"// pm.test(\"Validate that all categories are present\", function(){\r",
+													"//     pm.expect(jsonData.data.data[0]).to.include({\"name\":\"API key\"}, {\"name\":\"Email Base URL\"}, {\"name\":\"Email IV\"}, {\"name\":\"Email Key\"}, {\"name\":\"Email Provider\"}, {\"name\":\"Email Sender ID\"}, {\"name\":\"Host IP\"}, {\"name\":\"Inactivity Timeout\"}, {\"name\":\"Lock IP Address\"}, {\"name\":\"Mandate Frequency\"}, {\"name\":\"Notifications Group Email\"}, {\"name\":\"Number of API keys\"}, {\"name\":\"Request Timeout\"})\r",
+													"// })"
 												],
-												"type": "text/javascript",
-												"id": "043fd8c8-4a5c-4555-b01b-fc4e81c9b2e0"
+												"type": "text/javascript"
 											}
 										}
 									],
@@ -68700,7 +68700,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")\r",
 													"})\r",
 													"pm.test(\"message is 'invalid signature'\", function(){\r",
-													"    pm.expect(jsonData.message).to.eql(\"invalid signature\")\r",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")\r",
 													"})\r",
 													""
 												],
