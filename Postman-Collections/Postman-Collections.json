@@ -63657,7 +63657,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "2c97e6b5-e37e-40fa-b52b-3c5a2b329aab",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -63675,7 +63677,8 @@
 											{
 												"key": "Authorization",
 												"value": "Bearer {{TOKEN}}",
-												"type": "text"
+												"type": "text",
+												"disabled": true
 											}
 										],
 										"url": "{{base_url}}/users/me/2fa/setup"
