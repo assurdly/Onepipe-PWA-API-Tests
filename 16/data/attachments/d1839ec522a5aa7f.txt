@@ -1,0 +1,9 @@
+{
+    "first_name": "Stephanie",
+    "last_name": "Dach",
+    "phone_number": "07011725297",
+    "company_name": "Douglas Adelle LTD",
+    "rc_number": "RC1111111",
+    "email": "Ethyl@mailinator.com",
+    "password": "Teste"
+}

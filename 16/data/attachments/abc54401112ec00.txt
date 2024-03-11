@@ -1,0 +1,7 @@
+{
+    "name": "Outdoors",
+    "description": "Tenetur ex dolorum ea autem et eaque.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Howe",
+    "last_name": "Osinski",
+    "phone_number": "",
+    "company_name": "McKenzie Burdette LTD",
+    "rc_number": "RC1111111",
+    "email": "Dillan@mailinator.com",
+    "password": "Tester@12"
+}

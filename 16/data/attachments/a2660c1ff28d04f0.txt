@@ -1,0 +1,9 @@
+{
+    "first_name": "Percival",
+    "last_name": "Nicolas",
+    "phone_number": "07011725297",
+    "company_name": "Jakubowski Eino LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

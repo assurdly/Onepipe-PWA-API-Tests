@@ -1,0 +1,9 @@
+{
+    "first_name": "Hayley",
+    "last_name": "Balistreri",
+    "phone_number": "07011",
+    "company_name": "Larson Anastasia LTD",
+    "rc_number": "RC1111111",
+    "email": "Reta@mailinator.com",
+    "password": "Tester@12"
+}

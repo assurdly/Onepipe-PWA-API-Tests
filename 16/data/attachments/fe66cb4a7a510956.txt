@@ -1,0 +1,9 @@
+{
+    "first_name": "Allan",
+    "last_name": "Schuppe",
+    "phone_number": "07011er4569",
+    "company_name": "Davis Opal LTD",
+    "rc_number": "6852680775",
+    "email": "Amya@mailinator.com",
+    "password": "Tester@12"
+}

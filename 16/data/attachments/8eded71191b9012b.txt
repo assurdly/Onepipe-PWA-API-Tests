@@ -1,0 +1,6 @@
+{
+    "name": "Home Role",
+    "description": "Consequatur omnis quaerat quae nihil sit.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

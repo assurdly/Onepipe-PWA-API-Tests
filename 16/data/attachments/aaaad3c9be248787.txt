@@ -1,0 +1,9 @@
+{
+    "first_name": "Hermann",
+    "last_name": "Dare",
+    "phone_number": "07011725297",
+    "company_name": "Mueller Kallie LTD",
+    "rc_number": "1271091359",
+    "email": "Armand@mailinator.com",
+    "password": "Tester@12"
+}

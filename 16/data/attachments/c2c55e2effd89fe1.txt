@@ -1,0 +1,6 @@
+{
+    "name": "Car Role",
+    "description": "Sed rem sapiente et inventore quis.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

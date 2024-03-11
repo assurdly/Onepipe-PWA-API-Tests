@@ -1,0 +1,6 @@
+{
+    "name": "EXE Role",
+    "description": "Expedita vel iste quos.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

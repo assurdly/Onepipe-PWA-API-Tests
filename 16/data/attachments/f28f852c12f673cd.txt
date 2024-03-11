@@ -1,0 +1,9 @@
+{
+    "first_name": "Daphney",
+    "last_name": "Frami",
+    "phone_number": "07011725297",
+    "company_name": "Brakus Elody LTD",
+    "rc_number": "4911102000",
+    "email": "Ernest@mailinator.com",
+    "password": "Tester@12"
+}

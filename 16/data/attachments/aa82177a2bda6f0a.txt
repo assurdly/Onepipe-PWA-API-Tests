@@ -1,0 +1,9 @@
+{
+    "first_name": "Margarette",
+    "last_name": "Rolfson",
+    "phone_number": "07011725297",
+    "company_name": "Nikolaus Gardner LTD",
+    "rc_number": "2297640974",
+    "email": "Alvina@mailinator.com",
+    "password": "Tester@12"
+}

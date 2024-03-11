@@ -1,0 +1,9 @@
+{
+    "first_name": "Cremin",
+    "last_name": "Russel",
+    "phone_number": "",
+    "company_name": "Runte Marlene LTD",
+    "rc_number": "RC1111111",
+    "email": "Rafaela@mailinator.com",
+    "password": "Tester@12"
+}

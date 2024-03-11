@@ -1,0 +1,9 @@
+{
+    "first_name": "Maeve",
+    "last_name": "Cole",
+    "phone_number": "07011725297",
+    "company_name": "Palma Beahan LTD",
+    "rc_number": "",
+    "email": "Josh@mailinator.com",
+    "password": "Tester@12"
+}

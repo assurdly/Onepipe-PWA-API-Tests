@@ -1,0 +1,6 @@
+{
+    "name": "networks Role",
+    "description": "Voluptatem ducimus voluptas corporis velit dolores soluta dicta provident.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

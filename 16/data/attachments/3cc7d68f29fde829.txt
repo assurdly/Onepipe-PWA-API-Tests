@@ -1,0 +1,9 @@
+{
+    "first_name": "Kara",
+    "last_name": "Buckridge",
+    "phone_number": "07011725297",
+    "company_name": "Torp Nathanael LTD",
+    "rc_number": "2958312489",
+    "email": "Reymundo@mailinator.com",
+    "password": "Tester@12"
+}

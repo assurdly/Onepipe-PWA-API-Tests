@@ -1,0 +1,9 @@
+{
+    "first_name": "Micah",
+    "last_name": "Gorczany",
+    "phone_number": "07011725297",
+    "company_name": "Ratke Isabel LTD",
+    "rc_number": "RC1111111",
+    "email": "Trystan@mailinator",
+    "password": "Tester@12"
+}

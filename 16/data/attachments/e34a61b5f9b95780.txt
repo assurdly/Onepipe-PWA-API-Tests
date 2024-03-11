@@ -1,0 +1,9 @@
+{
+    "first_name": "Clark",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Beer Wyatt LTD",
+    "rc_number": "RC1111110",
+    "email": "Tommie@mailinator.com",
+    "password": "Tester@12"
+}

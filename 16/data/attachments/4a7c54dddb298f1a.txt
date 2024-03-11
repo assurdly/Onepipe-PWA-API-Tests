@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Lehner",
+    "phone_number": "07011725297",
+    "company_name": "Schoen Ricky LTD",
+    "rc_number": "RC1111111",
+    "email": "Napoleon@mailinator.com",
+    "password": "Tester@12"
+}

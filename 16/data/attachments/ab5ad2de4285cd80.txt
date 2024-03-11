@@ -1,0 +1,9 @@
+{
+    "first_name": "Tyrell",
+    "last_name": "Rodriguez",
+    "phone_number": "07011er4569",
+    "company_name": "Trantow Citlalli LTD",
+    "rc_number": "6996283367",
+    "email": "Jaylin@mailinator.com",
+    "password": "Tester@12"
+}

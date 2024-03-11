@@ -1,0 +1,9 @@
+{
+    "first_name": "Josefina",
+    "last_name": "Barton",
+    "phone_number": "07011725297",
+    "company_name": "Sawayn Lafayette LTD",
+    "rc_number": "3022588920",
+    "email": "Zackary@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,16 @@
+{
+    "account_number": "6019166011",
+    "phone_number": "08183888690",
+    "debit_type": "all",
+    "frequency": "daily",
+    "bank_id": 15,
+    "email": "adelebukky150@gmail.com",
+    "start_date": "2024-03-11T03:49:01.043Z",
+    "end_date": "2024-03-18T03:49:01.043Z",
+    "payment_start_date": "2024-03-11T03:49:01.043Z",
+    "type": "emandate",
+    "narration": "Mandate for the payments of personal loan",
+    "address": "Ojodu Berger",
+    "amount": 1000,
+    "beneficiary_id": 3
+}

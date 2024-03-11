@@ -1,0 +1,13 @@
+{
+    "account_number": "015112314",
+    "phone_number": "08138096550",
+    "frequency": "daily",
+    "bank_id": 15,
+    "email": "adetutuisinks@gmail.com",
+    "start_date": "2024-03-11T04:17:37.913Z",
+    "end_date": "2024-03-14T04:17:37.913Z",
+    "type": "emandate",
+    "narration": "Mandate for the payments of personal loan",
+    "address": "Ojodu Berger",
+    "amount": 200
+}

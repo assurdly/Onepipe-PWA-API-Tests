@@ -1,0 +1,9 @@
+{
+    "first_name": "Trace",
+    "last_name": "Medhurst",
+    "phone_number": "234701172529700",
+    "company_name": "Parker Jakayla LTD",
+    "rc_number": "RC1111111",
+    "email": "Melba@mailinator.com",
+    "password": "Tester@12"
+}

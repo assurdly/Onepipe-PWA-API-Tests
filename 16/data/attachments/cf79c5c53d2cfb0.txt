@@ -1,0 +1,6 @@
+{
+    "name": "Via Role",
+    "description": "Necessitatibus veniam dicta laboriosam qui.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

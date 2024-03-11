@@ -1,0 +1,7 @@
+{
+    "name": "United",
+    "description": "A dolores temporibus repellendus placeat quibusdam.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

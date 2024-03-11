@@ -1,0 +1,6 @@
+{
+    "name": "Planner Role",
+    "description": "A aliquid iste consectetur cupiditate quo quo cum illo minus.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

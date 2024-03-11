@@ -1,0 +1,9 @@
+{
+    "first_name": "Kennith",
+    "last_name": "Upton",
+    "phone_number": "07011725297",
+    "company_name": "Schmidt Tracey LTD",
+    "rc_number": "4107961449",
+    "email": "Hildegard@mailinator.com",
+    "password": "Tester@12"
+}

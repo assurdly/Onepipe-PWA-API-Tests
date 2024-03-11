@@ -1,0 +1,9 @@
+{
+    "first_name": "Roman",
+    "last_name": "Schoen",
+    "phone_number": "07011725297",
+    "company_name": "Kshlerin Buster LTD",
+    "rc_number": "RC1111111",
+    "email": "Constantin@mailinator.com",
+    "password": "Teste"
+}

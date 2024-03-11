@@ -1,0 +1,7 @@
+{
+    "name": "deposit",
+    "description": "Exercitationem corrupti dolores facere.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

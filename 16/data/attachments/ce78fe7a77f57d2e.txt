@@ -1,0 +1,7 @@
+{
+    "name": "Concrete",
+    "description": "Tempora ipsam dolores fuga.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

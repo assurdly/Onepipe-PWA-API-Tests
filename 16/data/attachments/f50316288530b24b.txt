@@ -1,0 +1,9 @@
+{
+    "first_name": "Myah",
+    "last_name": "Wisozk",
+    "phone_number": "07011725297",
+    "company_name": "Windler Lavern LTD",
+    "rc_number": "RC1111111",
+    "email": "Deven@mailinator",
+    "password": "Tester@12"
+}

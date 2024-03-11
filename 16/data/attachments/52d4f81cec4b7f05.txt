@@ -1,0 +1,9 @@
+{
+    "first_name": "Carmel",
+    "last_name": "McGlynn",
+    "phone_number": "07011725297",
+    "company_name": "Kuhic Shana LTD",
+    "rc_number": "7240828144",
+    "email": "Marianne@mailinator.com",
+    "password": "Tester@12"
+}

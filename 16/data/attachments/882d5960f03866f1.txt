@@ -1,0 +1,7 @@
+{
+    "name": "users",
+    "description": "Molestiae architecto architecto tempora.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

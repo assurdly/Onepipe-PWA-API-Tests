@@ -1,0 +1,9 @@
+{
+    "first_name": "Rosetta",
+    "last_name": "Dach",
+    "phone_number": "07011",
+    "company_name": "Marquardt Travon LTD",
+    "rc_number": "RC1111111",
+    "email": "Bria@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Wilford",
+    "last_name": "Rodriguez",
+    "phone_number": "07011725297",
+    "company_name": "Flatley Axel LTD",
+    "rc_number": "RC1111111",
+    "email": "Selmer@mailinator",
+    "password": "Tester@12"
+}

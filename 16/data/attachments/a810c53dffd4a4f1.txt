@@ -1,0 +1,9 @@
+{
+    "first_name": "Elise",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Wiza Rupert LTD",
+    "rc_number": "RC1111110",
+    "email": "Bertha@mailinator.com",
+    "password": "Tester@12"
+}

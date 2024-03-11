@@ -1,0 +1,9 @@
+{
+    "first_name": "Mariam",
+    "last_name": "Anderson",
+    "phone_number": "07011725297",
+    "company_name": "Mann Carson LTD",
+    "rc_number": "6677961423",
+    "email": "Roscoe@mailinator.com",
+    "password": "Tester@12"
+}

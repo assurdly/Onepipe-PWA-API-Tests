@@ -1,0 +1,9 @@
+{
+    "first_name": "Ivah",
+    "last_name": "Emard",
+    "phone_number": "07011725297",
+    "company_name": "Hermann Vidal LTD",
+    "rc_number": "8752081912",
+    "email": "Cassandre@mailinator.com",
+    "password": "Tester@12"
+}

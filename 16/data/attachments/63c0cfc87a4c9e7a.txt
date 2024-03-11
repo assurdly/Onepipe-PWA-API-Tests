@@ -1,0 +1,9 @@
+{
+    "first_name": "Ulises",
+    "last_name": "Ledner",
+    "phone_number": "07011er4569",
+    "company_name": "Harber Halie LTD",
+    "rc_number": "5655331361",
+    "email": "Newton@mailinator.com",
+    "password": "Tester@12"
+}

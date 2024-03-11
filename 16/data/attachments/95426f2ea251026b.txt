@@ -1,0 +1,9 @@
+{
+    "first_name": "Esmeralda",
+    "last_name": "Green",
+    "phone_number": "07011725297",
+    "company_name": "Swift Annabell LTD",
+    "rc_number": "RC1111111",
+    "email": "Baby@mailinator.com",
+    "password": "Teste"
+}

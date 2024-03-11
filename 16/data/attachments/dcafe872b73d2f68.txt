@@ -1,0 +1,9 @@
+{
+    "first_name": "Kianna",
+    "last_name": "Marks",
+    "phone_number": "07011725297",
+    "company_name": "Little Gaylord LTD",
+    "rc_number": "RC1111111",
+    "email": "Rogers@mailinator",
+    "password": "Tester@12"
+}

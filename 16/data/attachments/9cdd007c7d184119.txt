@@ -1,0 +1,9 @@
+{
+    "first_name": "Ashlee",
+    "last_name": "Rath",
+    "phone_number": "07011er4569",
+    "company_name": "Littel Marilyne LTD",
+    "rc_number": "795096584",
+    "email": "Jason@mailinator.com",
+    "password": "Tester@12"
+}

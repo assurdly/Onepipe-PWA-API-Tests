@@ -1,0 +1,9 @@
+{
+    "first_name": "Jayme",
+    "last_name": "Larson",
+    "phone_number": "07011725297",
+    "company_name": "Schaefer Frankie LTD",
+    "rc_number": "8428362344",
+    "email": "Vincenza@mailinator.com",
+    "password": "Tester@12"
+}

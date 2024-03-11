@@ -1,0 +1,9 @@
+{
+    "first_name": "Eugene",
+    "last_name": "Beahan",
+    "phone_number": "07011725297",
+    "company_name": "Smitham Walton LTD",
+    "rc_number": "RC1111111",
+    "email": "Lewis@mailinator",
+    "password": "Tester@12"
+}

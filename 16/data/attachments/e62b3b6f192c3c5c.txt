@@ -1,0 +1,17 @@
+{
+    "account_number": "011245",
+    "phone_number": "07011725297",
+    "debit_type": "All",
+    "frequency": "daily",
+    "bank_id": 52,
+    "email": "minnie@getnada.com",
+    "start_date": "2024-03-11T04:26:23.749Z",
+    "end_date": "2024-03-18T04:26:23.749Z",
+    "narration": "Ram",
+    "address": "Ikate",
+    "amount": 50,
+    "beneficiary_id": 1,
+    "file_base64": "",
+    "file_extension": "png",
+    "token": "000000"
+}

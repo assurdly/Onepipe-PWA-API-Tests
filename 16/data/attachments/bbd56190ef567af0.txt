@@ -1,0 +1,9 @@
+{
+    "first_name": "Octavia",
+    "last_name": "Sipes",
+    "phone_number": "07011",
+    "company_name": "Morissette Roxanne LTD",
+    "rc_number": "RC1111111",
+    "email": "Delphia@mailinator.com",
+    "password": "Tester@12"
+}

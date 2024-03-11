@@ -1,0 +1,9 @@
+{
+    "first_name": "Willard",
+    "last_name": "Parker",
+    "phone_number": "07011725297",
+    "company_name": "Howell Conrad LTD",
+    "rc_number": "RC1111111",
+    "email": "Cesar@mailinator.com",
+    "password": "Teste"
+}

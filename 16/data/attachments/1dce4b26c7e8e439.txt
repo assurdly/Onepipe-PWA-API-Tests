@@ -1,0 +1,9 @@
+{
+    "first_name": "Kailee",
+    "last_name": "Rosenbaum",
+    "phone_number": "07011725297",
+    "company_name": "Mason Wolf LTD",
+    "rc_number": "",
+    "email": "Norma@mailinator.com",
+    "password": "Tester@12"
+}

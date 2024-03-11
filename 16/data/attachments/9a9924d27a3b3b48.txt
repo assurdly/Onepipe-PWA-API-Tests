@@ -1,0 +1,9 @@
+{
+    "first_name": "Guido",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Buckridge Alexzander LTD",
+    "rc_number": "RC1111110",
+    "email": "Valentina@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Andreanne",
+    "last_name": "Ruecker",
+    "phone_number": "07011725297",
+    "company_name": "Lindgren Dandre LTD",
+    "rc_number": "RC1111111",
+    "email": "Alene@mailinator",
+    "password": "Tester@12"
+}

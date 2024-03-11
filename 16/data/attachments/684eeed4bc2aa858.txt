@@ -1,0 +1,9 @@
+{
+    "first_name": "Conn",
+    "last_name": "Schmeler",
+    "phone_number": "",
+    "company_name": "Cremin Dayton LTD",
+    "rc_number": "RC1111111",
+    "email": "Kianna@mailinator.com",
+    "password": "Tester@12"
+}

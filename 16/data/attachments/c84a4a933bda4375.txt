@@ -1,0 +1,9 @@
+{
+    "first_name": "Makenzie",
+    "last_name": "Greenholt",
+    "phone_number": "07011er4569",
+    "company_name": "Terry Destany LTD",
+    "rc_number": "4723710778",
+    "email": "Hallie@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "gold Role",
+    "description": "Aut qui eveniet et ea.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

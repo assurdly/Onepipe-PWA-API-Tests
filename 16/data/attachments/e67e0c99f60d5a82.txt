@@ -1,0 +1,9 @@
+{
+    "first_name": "Kasey",
+    "last_name": "Von",
+    "phone_number": "07011725297",
+    "company_name": "Nader Stuart LTD",
+    "rc_number": "4913575174",
+    "email": "Domenico@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Clemens",
+    "last_name": "Wilderman",
+    "phone_number": "07011er4569",
+    "company_name": "Schuppe Shanny LTD",
+    "rc_number": "1136701315",
+    "email": "Thaddeus@mailinator.com",
+    "password": "Tester@12"
+}

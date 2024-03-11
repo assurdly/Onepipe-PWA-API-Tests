@@ -1,0 +1,9 @@
+{
+    "first_name": "Dillan",
+    "last_name": "Toy",
+    "phone_number": "07011",
+    "company_name": "Corkery Barry LTD",
+    "rc_number": "RC1111111",
+    "email": "Quinn@mailinator.com",
+    "password": "Tester@12"
+}

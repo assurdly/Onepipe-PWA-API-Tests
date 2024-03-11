@@ -1,0 +1,9 @@
+{
+    "first_name": "Carmine",
+    "last_name": "Hermiston",
+    "phone_number": "07011",
+    "company_name": "Moen Mckenna LTD",
+    "rc_number": "RC1111111",
+    "email": "Reanna@mailinator.com",
+    "password": "Tester@12"
+}

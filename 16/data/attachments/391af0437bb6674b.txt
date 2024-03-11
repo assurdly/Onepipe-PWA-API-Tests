@@ -1,0 +1,9 @@
+{
+    "first_name": "Alberto",
+    "last_name": "Blanda",
+    "phone_number": "07011",
+    "company_name": "Crona Stella LTD",
+    "rc_number": "RC1111111",
+    "email": "Lenore@mailinator.com",
+    "password": "Tester@12"
+}

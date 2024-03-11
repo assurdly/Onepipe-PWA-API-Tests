@@ -1,0 +1,9 @@
+{
+    "first_name": "Mante",
+    "last_name": "Hand",
+    "phone_number": "",
+    "company_name": "Kreiger Raphael LTD",
+    "rc_number": "RC1111111",
+    "email": "Daniella@mailinator.com",
+    "password": "Tester@12"
+}

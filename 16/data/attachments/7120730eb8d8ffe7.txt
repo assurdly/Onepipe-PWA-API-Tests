@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "DuBuque",
+    "phone_number": "07011725297",
+    "company_name": "",
+    "rc_number": "RC1111111",
+    "email": "Florine@mailinator.com",
+    "password": "Tester@12"
+}

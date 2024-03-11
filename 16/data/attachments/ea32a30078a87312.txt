@@ -1,0 +1,9 @@
+{
+    "first_name": "Murl",
+    "last_name": "Rosenbaum",
+    "phone_number": "07011725297",
+    "company_name": "Goodwin Marianna LTD",
+    "rc_number": "8729776103",
+    "email": "Jasmin@mailinator.com",
+    "password": "Tester@12"
+}

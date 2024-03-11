@@ -1,0 +1,9 @@
+{
+    "first_name": "Keshaun",
+    "last_name": "Borer",
+    "phone_number": "07011725297",
+    "company_name": "Meggie Stiedemann LTD",
+    "rc_number": "",
+    "email": "Eloisa@mailinator.com",
+    "password": "Tester@12"
+}

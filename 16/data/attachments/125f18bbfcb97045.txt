@@ -1,0 +1,7 @@
+{
+    "name": "Garden",
+    "description": "Vel non quo iste sed quam.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

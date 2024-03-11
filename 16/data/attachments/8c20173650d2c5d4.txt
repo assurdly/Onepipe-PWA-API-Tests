@@ -1,0 +1,7 @@
+{
+    "name": "Oklahoma",
+    "description": "Et in praesentium perspiciatis eligendi.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

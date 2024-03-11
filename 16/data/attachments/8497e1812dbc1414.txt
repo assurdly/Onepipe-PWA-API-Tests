@@ -1,0 +1,9 @@
+{
+    "first_name": "Kaci",
+    "last_name": "Moore",
+    "phone_number": "07011725297",
+    "company_name": "Stark Liliana LTD",
+    "rc_number": "8779290057",
+    "email": "Ignacio@mailinator.com",
+    "password": "Tester@12"
+}

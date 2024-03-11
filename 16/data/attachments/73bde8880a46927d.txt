@@ -1,0 +1,9 @@
+{
+    "first_name": "Audra",
+    "last_name": "Jenkins",
+    "phone_number": "234701172529700",
+    "company_name": "Daugherty Laurie LTD",
+    "rc_number": "RC1111111",
+    "email": "Olen@mailinator.com",
+    "password": "Tester@12"
+}

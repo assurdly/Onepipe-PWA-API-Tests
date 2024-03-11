@@ -1,0 +1,9 @@
+{
+    "first_name": "Franco",
+    "last_name": "Gulgowski",
+    "phone_number": "07011725297",
+    "company_name": "Bartell Margret LTD",
+    "rc_number": "6477502868",
+    "email": "Soledad@mailinator.com",
+    "password": "Tester@12"
+}

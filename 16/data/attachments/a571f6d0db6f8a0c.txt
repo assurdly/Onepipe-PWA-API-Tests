@@ -1,0 +1,9 @@
+{
+    "first_name": "Tatum",
+    "last_name": "Kiehn",
+    "phone_number": "07011725297",
+    "company_name": "Helene Cole LTD",
+    "rc_number": "",
+    "email": "Jorge@mailinator.com",
+    "password": "Tester@12"
+}

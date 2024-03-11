@@ -1,0 +1,9 @@
+{
+    "first_name": "Cristopher",
+    "last_name": "Olson",
+    "phone_number": "07011er4569",
+    "company_name": "Schultz Josie LTD",
+    "rc_number": "8222048386",
+    "email": "Hayden@mailinator.com",
+    "password": "Tester@12"
+}

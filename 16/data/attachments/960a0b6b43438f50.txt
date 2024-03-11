@@ -1,0 +1,9 @@
+{
+    "first_name": "Rahul",
+    "last_name": "Pagac",
+    "phone_number": "234701172529700",
+    "company_name": "Turcotte Mose LTD",
+    "rc_number": "RC1111111",
+    "email": "Emmitt@mailinator.com",
+    "password": "Tester@12"
+}

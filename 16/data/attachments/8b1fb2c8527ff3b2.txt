@@ -1,0 +1,7 @@
+{
+    "name": "B2B",
+    "description": "Iste molestias dicta repellendus necessitatibus culpa ab.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

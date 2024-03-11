@@ -1,0 +1,9 @@
+{
+    "first_name": "June",
+    "last_name": "DuBuque",
+    "phone_number": "07011er4569",
+    "company_name": "Lueilwitz Mia LTD",
+    "rc_number": "4219160170",
+    "email": "Darby@mailinator.com",
+    "password": "Tester@12"
+}

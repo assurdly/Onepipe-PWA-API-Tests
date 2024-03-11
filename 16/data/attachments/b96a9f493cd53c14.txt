@@ -1,0 +1,9 @@
+{
+    "first_name": "Fermin",
+    "last_name": "Grady",
+    "phone_number": "07011er4569",
+    "company_name": "Vandervort Allene LTD",
+    "rc_number": "3017870108",
+    "email": "Sanford@mailinator.com",
+    "password": "Tester@12"
+}

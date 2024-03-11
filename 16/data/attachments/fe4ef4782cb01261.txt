@@ -1,0 +1,6 @@
+{
+    "name": "Buckinghamshire Role",
+    "description": "Quo velit in voluptatem voluptas ea et.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

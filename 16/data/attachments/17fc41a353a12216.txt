@@ -1,0 +1,9 @@
+{
+    "first_name": "Hassie",
+    "last_name": "Purdy",
+    "phone_number": "07011",
+    "company_name": "Hand Joelle LTD",
+    "rc_number": "RC1111111",
+    "email": "Wyatt@mailinator.com",
+    "password": "Tester@12"
+}

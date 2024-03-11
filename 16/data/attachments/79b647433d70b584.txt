@@ -1,0 +1,9 @@
+{
+    "first_name": "Lawson",
+    "last_name": "Pacocha",
+    "phone_number": "07011725297",
+    "company_name": "Jacobs Gabriel LTD",
+    "rc_number": "5844607024",
+    "email": "Alfred@mailinator.com",
+    "password": "Tester@12"
+}

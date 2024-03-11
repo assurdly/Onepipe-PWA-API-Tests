@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Breitenberg",
+    "phone_number": "07011725297",
+    "company_name": "Torp D'angelo LTD",
+    "rc_number": "RC1111111",
+    "email": "Brad@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Collins",
+    "last_name": "Swift",
+    "phone_number": "",
+    "company_name": "Harris Roderick LTD",
+    "rc_number": "RC1111111",
+    "email": "Georgianna@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Lakes Role",
+    "description": "Minima iusto vel est qui voluptatem suscipit tempora laudantium eos.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

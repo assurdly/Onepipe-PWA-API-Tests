@@ -1,0 +1,9 @@
+{
+    "first_name": "Haskell",
+    "last_name": "Erdman",
+    "phone_number": "07011725297",
+    "company_name": "Dare Lillian LTD",
+    "rc_number": "6255387690",
+    "email": "Rowena@mailinator.com",
+    "password": "Tester@12"
+}

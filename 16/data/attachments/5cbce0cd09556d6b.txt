@@ -1,0 +1,9 @@
+{
+    "first_name": "Mathew",
+    "last_name": "Spinka",
+    "phone_number": "07011725297",
+    "company_name": "Halvorson Jarvis LTD",
+    "rc_number": "RC1111111",
+    "email": "Claude@mailinator",
+    "password": "Tester@12"
+}

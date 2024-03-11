@@ -1,0 +1,9 @@
+{
+    "first_name": "Alena",
+    "last_name": "Willms",
+    "phone_number": "07011725297",
+    "company_name": "Morar Gabrielle LTD",
+    "rc_number": "8459319983",
+    "email": "Damon@mailinator.com",
+    "password": "Tester@12"
+}

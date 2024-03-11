@@ -1,0 +1,9 @@
+{
+    "first_name": "Evangeline",
+    "last_name": "Padberg",
+    "phone_number": "07011725297",
+    "company_name": "Sheila D'Amore LTD",
+    "rc_number": "",
+    "email": "Constance@mailinator.com",
+    "password": "Tester@12"
+}

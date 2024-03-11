@@ -1,0 +1,6 @@
+{
+    "name": "Officer Role",
+    "description": "Corporis et nihil corrupti distinctio repellendus asperiores ut ut.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

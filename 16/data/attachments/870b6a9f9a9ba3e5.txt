@@ -1,0 +1,7 @@
+{
+    "name": "Keyboard",
+    "description": "Qui et rerum qui.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

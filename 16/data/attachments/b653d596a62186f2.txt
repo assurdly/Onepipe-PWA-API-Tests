@@ -1,0 +1,9 @@
+{
+    "first_name": "Melvina",
+    "last_name": "Steuber",
+    "phone_number": "07011725297",
+    "company_name": "Dach Lewis LTD",
+    "rc_number": "7791605030",
+    "email": "Ruben@mailinator.com",
+    "password": "Tester@12"
+}

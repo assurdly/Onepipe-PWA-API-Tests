@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Hauck",
+    "phone_number": "07011725297",
+    "company_name": "Little Julien LTD",
+    "rc_number": "RC1111111",
+    "email": "Joan@mailinator.com",
+    "password": ""
+}

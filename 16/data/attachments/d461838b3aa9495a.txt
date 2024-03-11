@@ -1,0 +1,6 @@
+{
+    "name": "paradigm Role",
+    "description": "Quidem vel qui eius et quidem vel.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

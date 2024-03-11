@@ -1,0 +1,9 @@
+{
+    "first_name": "Olaf",
+    "last_name": "Lakin",
+    "phone_number": "07011er4569",
+    "company_name": "Nitzsche Osborne LTD",
+    "rc_number": "2379510582",
+    "email": "Hosea@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "bypassing",
+    "description": "Aut nisi autem.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

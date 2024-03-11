@@ -1,0 +1,9 @@
+{
+    "first_name": "Richie",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Nienow Monique LTD",
+    "rc_number": "RC1111110",
+    "email": "Pattie@mailinator.com",
+    "password": "Tester@12"
+}

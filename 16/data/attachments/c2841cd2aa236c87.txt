@@ -1,0 +1,6 @@
+{
+    "name": "Unit Role",
+    "description": "Sequi qui eaque et corrupti sit nesciunt debitis sed quae.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

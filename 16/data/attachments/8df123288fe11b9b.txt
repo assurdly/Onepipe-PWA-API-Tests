@@ -1,0 +1,6 @@
+{
+    "name": "Visionary Role",
+    "description": "Quasi porro facilis voluptas aut minima.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Vesta",
+    "last_name": "Kohler",
+    "phone_number": "07011725297",
+    "company_name": "Effertz Olin LTD",
+    "rc_number": "8581377008",
+    "email": "Maddison@mailinator.com",
+    "password": "Tester@12"
+}

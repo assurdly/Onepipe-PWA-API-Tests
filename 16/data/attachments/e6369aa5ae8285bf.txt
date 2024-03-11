@@ -1,0 +1,9 @@
+{
+    "first_name": "Greta",
+    "last_name": "Lehner",
+    "phone_number": "07011725297",
+    "company_name": "Jayne Hermiston LTD",
+    "rc_number": "",
+    "email": "Georgette@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Everette",
+    "last_name": "Fay",
+    "phone_number": "234701172529700",
+    "company_name": "Renner Angelita LTD",
+    "rc_number": "RC1111111",
+    "email": "Isaiah@mailinator.com",
+    "password": "Tester@12"
+}

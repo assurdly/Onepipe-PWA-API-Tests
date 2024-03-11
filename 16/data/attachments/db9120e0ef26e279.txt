@@ -1,0 +1,9 @@
+{
+    "first_name": "Raphael",
+    "last_name": "Lubowitz",
+    "phone_number": "07011725297",
+    "company_name": "Franecki Haley LTD",
+    "rc_number": "RC1111111",
+    "email": "Mekhi@mailinator.com",
+    "password": "Teste"
+}

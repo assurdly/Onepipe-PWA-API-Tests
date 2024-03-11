@@ -1,0 +1,9 @@
+{
+    "first_name": "Kristian",
+    "last_name": "Kuhlman",
+    "phone_number": "07011725297",
+    "company_name": "Cristina Nolan LTD",
+    "rc_number": "",
+    "email": "Ruth@mailinator.com",
+    "password": "Tester@12"
+}

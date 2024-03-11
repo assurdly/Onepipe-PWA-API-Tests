@@ -1,0 +1,9 @@
+{
+    "first_name": "Tatum",
+    "last_name": "Okuneva",
+    "phone_number": "234701172529700",
+    "company_name": "Hoeger Cristopher LTD",
+    "rc_number": "RC1111111",
+    "email": "Destiney@mailinator.com",
+    "password": "Tester@12"
+}

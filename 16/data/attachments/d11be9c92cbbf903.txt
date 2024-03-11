@@ -1,0 +1,9 @@
+{
+    "first_name": "Toni",
+    "last_name": "Schimmel",
+    "phone_number": "07011725297",
+    "company_name": "Jalon Cassin LTD",
+    "rc_number": "",
+    "email": "Hank@mailinator.com",
+    "password": "Tester@12"
+}

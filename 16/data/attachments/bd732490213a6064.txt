@@ -1,0 +1,6 @@
+{
+    "name": "dot-com Role",
+    "description": "Qui fuga ea culpa rerum recusandae.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

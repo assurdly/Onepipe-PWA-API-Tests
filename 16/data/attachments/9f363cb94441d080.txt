@@ -1,0 +1,9 @@
+{
+    "first_name": "Rath",
+    "last_name": "Johnson",
+    "phone_number": "",
+    "company_name": "Price Haley LTD",
+    "rc_number": "RC1111111",
+    "email": "Nyasia@mailinator.com",
+    "password": "Tester@12"
+}

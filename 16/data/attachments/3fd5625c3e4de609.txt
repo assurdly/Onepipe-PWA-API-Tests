@@ -1,0 +1,9 @@
+{
+    "first_name": "Thomas",
+    "last_name": "Rempel",
+    "phone_number": "07011725297",
+    "company_name": "Jazlyn Hansen LTD",
+    "rc_number": "",
+    "email": "Valerie@mailinator.com",
+    "password": "Tester@12"
+}

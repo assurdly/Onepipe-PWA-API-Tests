@@ -1,0 +1,9 @@
+{
+    "first_name": "Cristina",
+    "last_name": "Muller",
+    "phone_number": "07011725297",
+    "company_name": "Satterfield Darian LTD",
+    "rc_number": "5987785894",
+    "email": "Adrain@mailinator.com",
+    "password": "Tester@12"
+}

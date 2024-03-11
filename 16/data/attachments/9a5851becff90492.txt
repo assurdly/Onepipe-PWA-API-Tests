@@ -1,0 +1,6 @@
+{
+    "name": "redundant Role",
+    "description": "Qui quo nam architecto et reprehenderit eos.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

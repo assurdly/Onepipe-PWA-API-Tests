@@ -1,0 +1,6 @@
+{
+    "name": "Burg Role",
+    "description": "Voluptatem numquam velit exercitationem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

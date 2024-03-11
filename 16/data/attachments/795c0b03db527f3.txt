@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Rodriguez",
+    "phone_number": "07011725297",
+    "company_name": "Mills Linnea LTD",
+    "rc_number": "RC1111111",
+    "email": "June@mailinator.com",
+    "password": "Tester@12"
+}

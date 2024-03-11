@@ -1,0 +1,9 @@
+{
+    "first_name": "Thelma",
+    "last_name": "Howe",
+    "phone_number": "07011er4569",
+    "company_name": "Bogan Margarita LTD",
+    "rc_number": "8454846943",
+    "email": "Salvatore@mailinator.com",
+    "password": "Tester@12"
+}

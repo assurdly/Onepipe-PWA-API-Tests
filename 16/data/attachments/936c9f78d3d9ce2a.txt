@@ -1,0 +1,9 @@
+{
+    "first_name": "Herzog",
+    "last_name": "O'Conner",
+    "phone_number": "",
+    "company_name": "Wuckert Joey LTD",
+    "rc_number": "RC1111111",
+    "email": "Mateo@mailinator.com",
+    "password": "Tester@12"
+}

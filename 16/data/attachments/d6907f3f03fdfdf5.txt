@@ -1,0 +1,9 @@
+{
+    "first_name": "Vincent",
+    "last_name": "Veum",
+    "phone_number": "234701172529700",
+    "company_name": "Vandervort Shad LTD",
+    "rc_number": "RC1111111",
+    "email": "Jermey@mailinator.com",
+    "password": "Tester@12"
+}

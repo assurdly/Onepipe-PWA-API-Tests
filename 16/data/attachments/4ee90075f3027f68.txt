@@ -1,0 +1,9 @@
+{
+    "first_name": "Collin",
+    "last_name": "Boyle",
+    "phone_number": "234701172529700",
+    "company_name": "Schowalter Dewayne LTD",
+    "rc_number": "RC1111111",
+    "email": "Aryanna@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Jace",
+    "last_name": "Cronin",
+    "phone_number": "07011725297",
+    "company_name": "Schroeder Mitchel LTD",
+    "rc_number": "RC1111111",
+    "email": "Jazmyn@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Shanel",
+    "last_name": "Lemke",
+    "phone_number": "07011725297",
+    "company_name": "Lebsack Isom LTD",
+    "rc_number": "RC1111111",
+    "email": "Savion@mailinator",
+    "password": "Tester@12"
+}

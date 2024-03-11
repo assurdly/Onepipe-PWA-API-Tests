@@ -1,0 +1,9 @@
+{
+    "first_name": "Therese",
+    "last_name": "Deckow",
+    "phone_number": "07011er4569",
+    "company_name": "Fisher Onie LTD",
+    "rc_number": "6870484232",
+    "email": "Josefina@mailinator.com",
+    "password": "Tester@12"
+}

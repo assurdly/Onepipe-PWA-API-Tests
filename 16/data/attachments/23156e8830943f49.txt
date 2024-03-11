@@ -1,0 +1,9 @@
+{
+    "first_name": "Nash",
+    "last_name": "Fahey",
+    "phone_number": "07011725297",
+    "company_name": "Kenna Towne LTD",
+    "rc_number": "",
+    "email": "Marlin@mailinator.com",
+    "password": "Tester@12"
+}

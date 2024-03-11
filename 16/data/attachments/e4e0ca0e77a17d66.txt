@@ -1,0 +1,9 @@
+{
+    "first_name": "Holly",
+    "last_name": "Parisian",
+    "phone_number": "07011725297",
+    "company_name": "Bernhard Juana LTD",
+    "rc_number": "6435816150",
+    "email": "Waylon@mailinator.com",
+    "password": "Tester@12"
+}

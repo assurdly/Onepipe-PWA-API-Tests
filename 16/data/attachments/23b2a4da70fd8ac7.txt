@@ -1,0 +1,9 @@
+{
+    "first_name": "Neva",
+    "last_name": "Kohler",
+    "phone_number": "07011725297",
+    "company_name": "Rosenbaum Gladyce LTD",
+    "rc_number": "4725929218",
+    "email": "Nickolas@mailinator.com",
+    "password": "Tester@12"
+}

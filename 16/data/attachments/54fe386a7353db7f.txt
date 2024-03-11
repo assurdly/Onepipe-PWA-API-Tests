@@ -1,0 +1,9 @@
+{
+    "first_name": "Hettie",
+    "last_name": "O'Keefe",
+    "phone_number": "07011",
+    "company_name": "Tromp Trenton LTD",
+    "rc_number": "RC1111111",
+    "email": "Brennon@mailinator.com",
+    "password": "Tester@12"
+}

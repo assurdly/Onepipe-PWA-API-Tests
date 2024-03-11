@@ -1,0 +1,9 @@
+{
+    "first_name": "Charlene",
+    "last_name": "Maggio",
+    "phone_number": "07011725297",
+    "company_name": "Christophe Cormier LTD",
+    "rc_number": "",
+    "email": "Hettie@mailinator.com",
+    "password": "Tester@12"
+}

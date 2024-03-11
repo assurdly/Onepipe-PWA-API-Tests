@@ -1,0 +1,9 @@
+{
+    "first_name": "Matteo",
+    "last_name": "Ruecker",
+    "phone_number": "07011725297",
+    "company_name": "Barrows Donald LTD",
+    "rc_number": "RC1111111",
+    "email": "Eddie@mailinator.com",
+    "password": "Teste"
+}

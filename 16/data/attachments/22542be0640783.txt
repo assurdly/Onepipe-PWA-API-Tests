@@ -1,0 +1,9 @@
+{
+    "first_name": "Meagan",
+    "last_name": "Tillman",
+    "phone_number": "07011725297",
+    "company_name": "Rahul Collins LTD",
+    "rc_number": "",
+    "email": "Jovany@mailinator.com",
+    "password": "Tester@12"
+}

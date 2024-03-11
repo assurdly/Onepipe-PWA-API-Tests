@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Mraz",
+    "phone_number": "07011725297",
+    "company_name": "Champlin Gavin LTD",
+    "rc_number": "RC1111111",
+    "email": "Ned@mailinator.com",
+    "password": "Tester@12"
+}

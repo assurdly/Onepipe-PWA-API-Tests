@@ -1,0 +1,9 @@
+{
+    "first_name": "Verna",
+    "last_name": "Borer",
+    "phone_number": "07011725297",
+    "company_name": "Funk Sabryna LTD",
+    "rc_number": "2706999096",
+    "email": "Emmanuelle@mailinator.com",
+    "password": "Tester@12"
+}

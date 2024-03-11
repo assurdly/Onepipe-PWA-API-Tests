@@ -1,0 +1,9 @@
+{
+    "first_name": "Furman",
+    "last_name": "Homenick",
+    "phone_number": "07011725297",
+    "company_name": "Nikolaus Jensen LTD",
+    "rc_number": "RC1111111",
+    "email": "Erika@mailinator.com",
+    "password": "Teste"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Ottilie",
+    "last_name": "Boehm",
+    "phone_number": "07011",
+    "company_name": "Sipes Josiane LTD",
+    "rc_number": "RC1111111",
+    "email": "Miracle@mailinator.com",
+    "password": "Tester@12"
+}

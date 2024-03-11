@@ -1,0 +1,9 @@
+{
+    "first_name": "Batz",
+    "last_name": "Wilderman",
+    "phone_number": "",
+    "company_name": "Morissette Pascale LTD",
+    "rc_number": "RC1111111",
+    "email": "Danial@mailinator.com",
+    "password": "Tester@12"
+}

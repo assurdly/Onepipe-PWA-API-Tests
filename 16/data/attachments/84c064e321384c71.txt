@@ -1,0 +1,9 @@
+{
+    "first_name": "Adonis",
+    "last_name": "Kerluke",
+    "phone_number": "07011",
+    "company_name": "Gulgowski Chanel LTD",
+    "rc_number": "RC1111111",
+    "email": "Holden@mailinator.com",
+    "password": "Tester@12"
+}

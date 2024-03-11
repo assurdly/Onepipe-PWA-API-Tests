@@ -1,0 +1,9 @@
+{
+    "first_name": "Alexandrea",
+    "last_name": "Reilly",
+    "phone_number": "07011",
+    "company_name": "Funk Ernesto LTD",
+    "rc_number": "RC1111111",
+    "email": "Isai@mailinator.com",
+    "password": "Tester@12"
+}

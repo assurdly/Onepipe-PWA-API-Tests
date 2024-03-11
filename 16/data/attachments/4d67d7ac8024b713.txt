@@ -1,0 +1,9 @@
+{
+    "first_name": "Simeon",
+    "last_name": "Skiles",
+    "phone_number": "07011er4569",
+    "company_name": "Torp Marcia LTD",
+    "rc_number": "4903714727",
+    "email": "Bernie@mailinator.com",
+    "password": "Tester@12"
+}

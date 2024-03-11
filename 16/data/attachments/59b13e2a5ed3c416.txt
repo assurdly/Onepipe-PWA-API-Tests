@@ -1,0 +1,9 @@
+{
+    "first_name": "Imelda",
+    "last_name": "Stroman",
+    "phone_number": "07011725297",
+    "company_name": "Little Randi LTD",
+    "rc_number": "RC1111111",
+    "email": "Kevon@mailinator",
+    "password": "Tester@12"
+}

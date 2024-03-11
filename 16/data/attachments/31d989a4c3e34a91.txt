@@ -1,0 +1,9 @@
+{
+    "first_name": "Jayde",
+    "last_name": "Goyette",
+    "phone_number": "07011725297",
+    "company_name": "Lynch Matilde LTD",
+    "rc_number": "6667648679",
+    "email": "Michelle@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Garden Role",
+    "description": "Quam et porro sunt omnis id autem aut dolores sint.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

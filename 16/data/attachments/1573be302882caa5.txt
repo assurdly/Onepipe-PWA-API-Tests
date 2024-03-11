@@ -1,0 +1,9 @@
+{
+    "first_name": "Priscilla",
+    "last_name": "Weimann",
+    "phone_number": "07011er4569",
+    "company_name": "Schinner Arnaldo LTD",
+    "rc_number": "1669716928",
+    "email": "Jeramie@mailinator.com",
+    "password": "Tester@12"
+}

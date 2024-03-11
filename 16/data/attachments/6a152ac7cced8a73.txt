@@ -1,0 +1,9 @@
+{
+    "first_name": "Gleichner",
+    "last_name": "Von",
+    "phone_number": "",
+    "company_name": "Jaskolski Vincenza LTD",
+    "rc_number": "RC1111111",
+    "email": "Allen@mailinator.com",
+    "password": "Tester@12"
+}

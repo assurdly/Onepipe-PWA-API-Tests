@@ -1,0 +1,9 @@
+{
+    "first_name": "Kay",
+    "last_name": "Bogisich",
+    "phone_number": "234701172529700",
+    "company_name": "Wilkinson Maya LTD",
+    "rc_number": "RC1111111",
+    "email": "Chesley@mailinator.com",
+    "password": "Tester@12"
+}

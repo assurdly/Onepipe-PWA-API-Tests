@@ -1,0 +1,9 @@
+{
+    "first_name": "America",
+    "last_name": "Bogan",
+    "phone_number": "07011725297",
+    "company_name": "Emanuel Kuphal LTD",
+    "rc_number": "",
+    "email": "Jay@mailinator.com",
+    "password": "Tester@12"
+}

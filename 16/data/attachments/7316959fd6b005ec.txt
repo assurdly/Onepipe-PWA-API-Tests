@@ -1,0 +1,9 @@
+{
+    "first_name": "Hailey",
+    "last_name": "Reynolds",
+    "phone_number": "07011725297",
+    "company_name": "Muller Linda LTD",
+    "rc_number": "RC1111111",
+    "email": "Mateo@mailinator",
+    "password": "Tester@12"
+}

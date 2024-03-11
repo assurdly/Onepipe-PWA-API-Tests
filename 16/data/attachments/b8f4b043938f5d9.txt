@@ -1,0 +1,6 @@
+{
+    "name": "Metal Role",
+    "description": "Fugiat et temporibus voluptas deserunt excepturi repellat.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

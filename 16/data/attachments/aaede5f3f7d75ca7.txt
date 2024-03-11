@@ -1,0 +1,9 @@
+{
+    "first_name": "Sylvester",
+    "last_name": "Waters",
+    "phone_number": "07011725297",
+    "company_name": "Hegmann Marlee LTD",
+    "rc_number": "3040926074",
+    "email": "Devonte@mailinator.com",
+    "password": "Tester@12"
+}

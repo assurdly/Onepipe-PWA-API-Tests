@@ -1,0 +1,6 @@
+{
+    "name": "Hat Role",
+    "description": "Minus impedit perspiciatis omnis qui.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

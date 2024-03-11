@@ -1,0 +1,9 @@
+{
+    "first_name": "Corkery",
+    "last_name": "Veum",
+    "phone_number": "",
+    "company_name": "Volkman Linnie LTD",
+    "rc_number": "RC1111111",
+    "email": "Cielo@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Maryland Role",
+    "description": "Alias at rerum et non blanditiis.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

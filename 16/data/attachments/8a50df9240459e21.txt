@@ -1,0 +1,9 @@
+{
+    "first_name": "Alena",
+    "last_name": "Sanford",
+    "phone_number": "07011725297",
+    "company_name": "Hartmann Tyson LTD",
+    "rc_number": "RC1111111",
+    "email": "Luella@mailinator",
+    "password": "Tester@12"
+}

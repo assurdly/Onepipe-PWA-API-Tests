@@ -1,0 +1,9 @@
+{
+    "first_name": "Jamil",
+    "last_name": "Howe",
+    "phone_number": "07011725297",
+    "company_name": "Stokes Cordelia LTD",
+    "rc_number": "4967742077",
+    "email": "Raleigh@mailinator.com",
+    "password": "Tester@12"
+}

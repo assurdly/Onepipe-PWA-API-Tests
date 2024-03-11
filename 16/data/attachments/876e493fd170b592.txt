@@ -1,0 +1,6 @@
+{
+    "name": "Administrator Role",
+    "description": "Est earum non qui consequatur voluptatem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

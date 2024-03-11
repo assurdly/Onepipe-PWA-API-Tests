@@ -1,0 +1,9 @@
+{
+    "first_name": "Dock",
+    "last_name": "Abernathy",
+    "phone_number": "07011",
+    "company_name": "Kuhlman Jermey LTD",
+    "rc_number": "RC1111111",
+    "email": "Marlene@mailinator.com",
+    "password": "Tester@12"
+}

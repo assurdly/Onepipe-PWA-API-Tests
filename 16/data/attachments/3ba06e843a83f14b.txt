@@ -1,0 +1,9 @@
+{
+    "first_name": "Trycia",
+    "last_name": "Weber",
+    "phone_number": "07011725297",
+    "company_name": "Blanda Karl LTD",
+    "rc_number": "6341509956",
+    "email": "Deja@mailinator.com",
+    "password": "Tester@12"
+}

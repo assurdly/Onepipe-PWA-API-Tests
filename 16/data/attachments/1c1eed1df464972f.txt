@@ -1,0 +1,7 @@
+{
+    "name": "olive",
+    "description": "Velit voluptas voluptas in rem vel ut qui.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

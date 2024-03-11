@@ -1,0 +1,9 @@
+{
+    "first_name": "Lura",
+    "last_name": "Smitham",
+    "phone_number": "07011725297",
+    "company_name": "Walker Otha LTD",
+    "rc_number": "RC1111111",
+    "email": "Jacynthe@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Deangelo",
+    "last_name": "Ullrich",
+    "phone_number": "07011er4569",
+    "company_name": "Zieme Amie LTD",
+    "rc_number": "4010256688",
+    "email": "Carlee@mailinator.com",
+    "password": "Tester@12"
+}

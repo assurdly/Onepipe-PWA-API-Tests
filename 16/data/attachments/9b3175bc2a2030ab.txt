@@ -1,0 +1,9 @@
+{
+    "first_name": "Maya",
+    "last_name": "Hodkiewicz",
+    "phone_number": "07011",
+    "company_name": "Cronin Christophe LTD",
+    "rc_number": "RC1111111",
+    "email": "Bernie@mailinator.com",
+    "password": "Tester@12"
+}

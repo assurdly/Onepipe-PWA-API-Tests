@@ -1,0 +1,9 @@
+{
+    "first_name": "Kamryn",
+    "last_name": "Prohaska",
+    "phone_number": "07011725297",
+    "company_name": "Hessel Ashly LTD",
+    "rc_number": "9966092439",
+    "email": "Prudence@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Uganda",
+    "description": "Impedit aliquam non.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

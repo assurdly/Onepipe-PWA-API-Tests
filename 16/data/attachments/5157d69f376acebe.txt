@@ -1,0 +1,9 @@
+{
+    "first_name": "Claude",
+    "last_name": "Hansen",
+    "phone_number": "07011725297",
+    "company_name": "Thompson Sibyl LTD",
+    "rc_number": "1066186940",
+    "email": "Alysson@mailinator.com",
+    "password": "Tester@12"
+}

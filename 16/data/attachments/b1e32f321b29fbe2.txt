@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Braun",
+    "phone_number": "07011725297",
+    "company_name": "Emard Rashawn LTD",
+    "rc_number": "RC1111111",
+    "email": "Vicenta@mailinator.com",
+    "password": ""
+}

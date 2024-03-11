@@ -1,0 +1,9 @@
+{
+    "first_name": "Brain",
+    "last_name": "Morar",
+    "phone_number": "234701172529700",
+    "company_name": "Dickinson Yessenia LTD",
+    "rc_number": "RC1111111",
+    "email": "Vesta@mailinator.com",
+    "password": "Tester@12"
+}

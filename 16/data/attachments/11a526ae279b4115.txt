@@ -1,0 +1,9 @@
+{
+    "first_name": "Jedidiah",
+    "last_name": "Kertzmann",
+    "phone_number": "07011725297",
+    "company_name": "McDermott Luz LTD",
+    "rc_number": "RC1111111",
+    "email": "Ryder@mailinator.com",
+    "password": "Teste"
+}

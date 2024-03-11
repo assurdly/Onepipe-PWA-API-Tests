@@ -1,0 +1,9 @@
+{
+    "first_name": "Bednar",
+    "last_name": "Goodwin",
+    "phone_number": "",
+    "company_name": "Weber Roderick LTD",
+    "rc_number": "RC1111111",
+    "email": "Ryder@mailinator.com",
+    "password": "Tester@12"
+}

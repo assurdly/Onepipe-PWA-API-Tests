@@ -1,0 +1,9 @@
+{
+    "first_name": "Sam",
+    "last_name": "Stehr",
+    "phone_number": "07011725297",
+    "company_name": "Nitzsche Gudrun LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

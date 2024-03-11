@@ -1,0 +1,9 @@
+{
+    "first_name": "Zaria",
+    "last_name": "Nikolaus",
+    "phone_number": "07011725297",
+    "company_name": "Bartoletti Sidney LTD",
+    "rc_number": "7562316725",
+    "email": "Odie@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "calculating Role",
+    "description": "Eligendi illo deleniti quia vero.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

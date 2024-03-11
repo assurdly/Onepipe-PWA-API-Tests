@@ -1,0 +1,9 @@
+{
+    "first_name": "Mauricio",
+    "last_name": "Durgan",
+    "phone_number": "07011725297",
+    "company_name": "Predovic Arvilla LTD",
+    "rc_number": "4537608379",
+    "email": "Jaycee@mailinator.com",
+    "password": "Tester@12"
+}

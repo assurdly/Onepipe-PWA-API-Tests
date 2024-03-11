@@ -1,0 +1,9 @@
+{
+    "first_name": "Margaretta",
+    "last_name": "Stanton",
+    "phone_number": "07011725297",
+    "company_name": "Cummings Lionel LTD",
+    "rc_number": "RC1111111",
+    "email": "Zion@mailinator",
+    "password": "Tester@12"
+}

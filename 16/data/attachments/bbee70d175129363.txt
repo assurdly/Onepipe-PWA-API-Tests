@@ -1,0 +1,9 @@
+{
+    "first_name": "Christ",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Berge Raymundo LTD",
+    "rc_number": "RC1111110",
+    "email": "Winnifred@mailinator.com",
+    "password": "Tester@12"
+}

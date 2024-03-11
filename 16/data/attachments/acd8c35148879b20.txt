@@ -1,0 +1,9 @@
+{
+    "first_name": "Caden",
+    "last_name": "Orn",
+    "phone_number": "07011725297",
+    "company_name": "Donnelly Earl LTD",
+    "rc_number": "RC1111111",
+    "email": "Elliot@mailinator.com",
+    "password": "Teste"
+}

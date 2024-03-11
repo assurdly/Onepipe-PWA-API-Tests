@@ -1,0 +1,9 @@
+{
+    "first_name": "Stoltenberg",
+    "last_name": "Davis",
+    "phone_number": "",
+    "company_name": "Ryan Adolfo LTD",
+    "rc_number": "RC1111111",
+    "email": "Brisa@mailinator.com",
+    "password": "Tester@12"
+}

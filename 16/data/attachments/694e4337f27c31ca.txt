@@ -1,0 +1,9 @@
+{
+    "first_name": "Patrick",
+    "last_name": "Erdman",
+    "phone_number": "07011725297",
+    "company_name": "Hermann Mariah LTD",
+    "rc_number": "RC1111111",
+    "email": "Davonte@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Tremaine",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Grimes Arianna LTD",
+    "rc_number": "RC1111110",
+    "email": "Lane@mailinator.com",
+    "password": "Tester@12"
+}

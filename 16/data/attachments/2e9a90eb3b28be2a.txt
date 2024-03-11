@@ -1,0 +1,9 @@
+{
+    "first_name": "Pascale",
+    "last_name": "Willms",
+    "phone_number": "07011725297",
+    "company_name": "Smith Dewitt LTD",
+    "rc_number": "6245141105",
+    "email": "Tia@mailinator.com",
+    "password": "Tester@12"
+}

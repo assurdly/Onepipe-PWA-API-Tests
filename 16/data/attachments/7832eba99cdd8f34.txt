@@ -1,0 +1,7 @@
+{
+    "name": "input",
+    "description": "Rerum vitae id maxime.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

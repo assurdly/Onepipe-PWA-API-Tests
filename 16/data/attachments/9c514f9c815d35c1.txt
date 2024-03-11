@@ -1,0 +1,9 @@
+{
+    "first_name": "Laisha",
+    "last_name": "Buckridge",
+    "phone_number": "07011725297",
+    "company_name": "Ratke Megane LTD",
+    "rc_number": "RC1111111",
+    "email": "Crawford@mailinator",
+    "password": "Tester@12"
+}

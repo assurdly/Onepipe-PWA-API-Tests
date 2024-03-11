@@ -1,0 +1,9 @@
+{
+    "first_name": "Walsh",
+    "last_name": "O'Kon",
+    "phone_number": "",
+    "company_name": "Wolff Rahsaan LTD",
+    "rc_number": "RC1111111",
+    "email": "Darien@mailinator.com",
+    "password": "Tester@12"
+}

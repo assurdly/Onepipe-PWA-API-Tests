@@ -1,0 +1,9 @@
+{
+    "first_name": "Kaela",
+    "last_name": "Larkin",
+    "phone_number": "07011725297",
+    "company_name": "Everardo Mills LTD",
+    "rc_number": "",
+    "email": "Edmond@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Bernita",
+    "last_name": "Daniel",
+    "phone_number": "07011725297",
+    "company_name": "Annalise Huels LTD",
+    "rc_number": "",
+    "email": "Maryjane@mailinator.com",
+    "password": "Tester@12"
+}

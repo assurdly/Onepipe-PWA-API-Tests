@@ -1,0 +1,9 @@
+{
+    "first_name": "Lisa",
+    "last_name": "Blick",
+    "phone_number": "234701172529700",
+    "company_name": "Hilll Guadalupe LTD",
+    "rc_number": "RC1111111",
+    "email": "Dario@mailinator.com",
+    "password": "Tester@12"
+}

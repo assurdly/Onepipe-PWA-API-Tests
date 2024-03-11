@@ -1,0 +1,9 @@
+{
+    "first_name": "Conner",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Armstrong Iva LTD",
+    "rc_number": "RC1111110",
+    "email": "Marlon@mailinator.com",
+    "password": "Tester@12"
+}

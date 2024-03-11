@@ -1,0 +1,9 @@
+{
+    "first_name": "Kurtis",
+    "last_name": "Dietrich",
+    "phone_number": "234701172529700",
+    "company_name": "Legros Dell LTD",
+    "rc_number": "RC1111111",
+    "email": "Meghan@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Nebraska Role",
+    "description": "Voluptates ad esse beatae ducimus illum.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
