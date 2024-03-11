@@ -1,0 +1,6 @@
+{
+    "name": "e-markets Role",
+    "description": "Quis voluptatem et dicta saepe quo voluptatem non blanditiis.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
