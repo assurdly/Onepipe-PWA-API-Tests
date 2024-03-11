@@ -1,0 +1,10 @@
+{
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidHlwZSI6ImF1dGgiLCJpYXQiOjE3MTAxMjU4MzksImV4cCI6MTcxMDEyOTQzOX0.nkE1dyVkOoaeluxY952tpzeN_0yURIkuVe7v1GKIJ2c",
+    "User-Agent": "PostmanRuntime/7.36.3",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "8c26b843-b98a-41f7-a5af-bbc8068ad4b3",
+    "Host": "test-sterling-direct-debit-lb-2026261518.us-east-2.elb.amazonaws.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

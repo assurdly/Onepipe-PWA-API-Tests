@@ -1,0 +1,6 @@
+{
+    "name": "indexing Role",
+    "description": "Ut minima magnam excepturi quia non itaque veritatis voluptas.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
