@@ -46636,7 +46636,9 @@
 											"script": {
 												"id": "99821c38-8e1b-42e8-811e-a3898e448ef1",
 												"exec": [
-													""
+													"const random = Math.floor(Math.random() * 9999999999)",
+													"pm.environment.set('randomRc', random)",
+													"console.log(random)"
 												],
 												"type": "text/javascript"
 											}
@@ -46651,7 +46653,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"first_name\": \"{{$randomFirstName}}\",\n    \"last_name\": \"{{$randomLastName}}\",\n    \"phone_number\": \"07011er4569\",\n    \"company_name\": \"{{$randomLastName}} {{$randomFirstName}} LTD\",\n    \"rc_number\": \"RC1111111\",\n    \"email\": \"{{$randomFirstName}}@mailinator.com\",\n    \"password\": \"Tester@12\"\n}",
+											"raw": "{\n    \"first_name\": \"{{$randomFirstName}}\",\n    \"last_name\": \"{{$randomLastName}}\",\n    \"phone_number\": \"07011er4569\",\n    \"company_name\": \"{{$randomLastName}} {{$randomFirstName}} LTD\",\n    \"rc_number\": \"{{randomRc}}\",\n    \"email\": \"{{$randomFirstName}}@mailinator.com\",\n    \"password\": \"Tester@12\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -46797,7 +46799,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"phone_number must be longer than or equal to 11 characters\")",
 													"})"
 												],
 												"type": "text/javascript"
@@ -46969,7 +46971,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"phone_number must be shorter than or equal to 11 characters\")",
 													"})"
 												],
 												"type": "text/javascript"
@@ -47141,7 +47143,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"New password is too weak. Enter a strong password greater than 8 characters that also contains a capital letter, small letter, number and special characters\")",
 													"})"
 												],
 												"type": "text/javascript"
