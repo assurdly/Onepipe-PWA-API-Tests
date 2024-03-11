@@ -1,0 +1,9 @@
+{
+    "first_name": "Jamar",
+    "last_name": "Jenkins",
+    "phone_number": "07011725297",
+    "company_name": "Kane Mraz LTD",
+    "rc_number": "",
+    "email": "Leonora@mailinator.com",
+    "password": "Tester@12"
+}

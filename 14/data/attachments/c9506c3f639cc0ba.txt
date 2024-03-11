@@ -1,0 +1,9 @@
+{
+    "first_name": "Brandon",
+    "last_name": "Carter",
+    "phone_number": "07011725297",
+    "company_name": "Morissette Omari LTD",
+    "rc_number": "RC1111111",
+    "email": "Ray@mailinator",
+    "password": "Tester@12"
+}

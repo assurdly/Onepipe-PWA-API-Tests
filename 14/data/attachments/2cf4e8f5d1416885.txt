@@ -1,0 +1,6 @@
+{
+    "name": "transmitter Role",
+    "description": "Placeat voluptatibus sapiente et quos qui aliquam.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

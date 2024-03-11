@@ -1,0 +1,9 @@
+{
+    "first_name": "Carmela",
+    "last_name": "Koch",
+    "phone_number": "07011er4569",
+    "company_name": "Funk Barney LTD",
+    "rc_number": "814148319",
+    "email": "Tevin@mailinator.com",
+    "password": "Tester@12"
+}

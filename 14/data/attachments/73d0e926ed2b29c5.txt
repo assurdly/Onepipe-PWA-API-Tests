@@ -1,0 +1,6 @@
+{
+    "name": "Cotton Role",
+    "description": "Doloribus sequi animi quo fugiat perspiciatis labore.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

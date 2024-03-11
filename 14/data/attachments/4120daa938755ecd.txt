@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Waelchi",
+    "phone_number": "07011725297",
+    "company_name": "Friesen Selmer LTD",
+    "rc_number": "RC1111111",
+    "email": "Elisha@mailinator.com",
+    "password": ""
+}

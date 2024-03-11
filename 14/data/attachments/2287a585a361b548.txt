@@ -1,0 +1,6 @@
+{
+    "name": "Updated1",
+    "description": "Super Admgin",
+    "permissions": [],
+    "token": "000000"
+}

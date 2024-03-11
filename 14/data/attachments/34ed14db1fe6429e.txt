@@ -1,0 +1,9 @@
+{
+    "first_name": "Kiel",
+    "last_name": "Fay",
+    "phone_number": "07011725297",
+    "company_name": "Langworth Gennaro LTD",
+    "rc_number": "2453862676",
+    "email": "Cynthia@mailinator.com",
+    "password": "Tester@12"
+}

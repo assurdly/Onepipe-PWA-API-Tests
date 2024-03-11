@@ -1,0 +1,9 @@
+{
+    "first_name": "Ritchie",
+    "last_name": "Kreiger",
+    "phone_number": "",
+    "company_name": "Keebler Savanah LTD",
+    "rc_number": "RC1111111",
+    "email": "Lexi@mailinator.com",
+    "password": "Tester@12"
+}

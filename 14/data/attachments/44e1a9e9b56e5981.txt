@@ -1,0 +1,9 @@
+{
+    "first_name": "Junior",
+    "last_name": "Boehm",
+    "phone_number": "07011",
+    "company_name": "Predovic Earl LTD",
+    "rc_number": "RC1111111",
+    "email": "Asha@mailinator.com",
+    "password": "Tester@12"
+}

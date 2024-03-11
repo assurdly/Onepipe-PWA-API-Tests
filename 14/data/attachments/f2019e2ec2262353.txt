@@ -1,0 +1,9 @@
+{
+    "first_name": "Orion",
+    "last_name": "Friesen",
+    "phone_number": "07011725297",
+    "company_name": "Ryan Haylee LTD",
+    "rc_number": "8580063115",
+    "email": "Keshaun@mailinator.com",
+    "password": "Tester@12"
+}
