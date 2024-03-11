@@ -1,0 +1,6 @@
+{
+    "name": "Highway Role",
+    "description": "Dolores voluptatibus laudantium necessitatibus assumenda asperiores sed rerum quas.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
