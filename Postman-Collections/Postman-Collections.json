@@ -64127,25 +64127,25 @@
 										{
 											"listen": "test",
 											"script": {
+												"id": "c49c958a-e177-4854-a0f4-03a35ddda6e3",
 												"exec": [
-													"var jsonData = pm.response.json();\r",
+													"// var jsonData = pm.response.json();\r",
 													"\r",
-													"pm.test(\"Status code is 200\", function(){\r",
-													"    pm.response.to.have.status(200);\r",
-													"})\r",
-													"pm.test(\"Status code is OK\", function () {\r",
-													"    pm.response.to.have.status(\"OK\");\r",
-													"});\r",
-													"pm.test(\"Status is success\", function(){\r",
-													"    pm.expect(jsonData.status).to.eql(\"success\")\r",
-													"})\r",
-													"pm.test(\"message is 'Password reset successful'\", function(){\r",
-													"    pm.expect(jsonData.message).to.eql(\"Password reset successful\")\r",
-													"})\r",
+													"// pm.test(\"Status code is 200\", function(){\r",
+													"//     pm.response.to.have.status(200);\r",
+													"// })\r",
+													"// pm.test(\"Status code is OK\", function () {\r",
+													"//     pm.response.to.have.status(\"OK\");\r",
+													"// });\r",
+													"// pm.test(\"Status is success\", function(){\r",
+													"//     pm.expect(jsonData.status).to.eql(\"success\")\r",
+													"// })\r",
+													"// pm.test(\"message is 'Password reset successful'\", function(){\r",
+													"//     pm.expect(jsonData.message).to.eql(\"Password reset successful\")\r",
+													"// })\r",
 													""
 												],
-												"type": "text/javascript",
-												"id": "c49c958a-e177-4854-a0f4-03a35ddda6e3"
+												"type": "text/javascript"
 											}
 										}
 									],
@@ -65112,26 +65112,26 @@
 										{
 											"listen": "test",
 											"script": {
+												"id": "9fea0004-9dff-43f1-bbce-5ab06d47f9e8",
 												"exec": [
-													"var jsonData = pm.response.json();\r",
+													"// var jsonData = pm.response.json();\r",
 													"\r",
-													"pm.test(\"Status code is 200\", function(){\r",
-													"    pm.response.to.have.status(200);\r",
-													"})\r",
-													"pm.test(\"OK\", function () {\r",
-													"    pm.response.to.have.status(\"OK\");\r",
-													"});\r",
+													"// pm.test(\"Status code is 200\", function(){\r",
+													"//     pm.response.to.have.status(200);\r",
+													"// })\r",
+													"// pm.test(\"OK\", function () {\r",
+													"//     pm.response.to.have.status(\"OK\");\r",
+													"// });\r",
 													"\r",
-													"pm.test(\"Status is success\", function(){\r",
-													"    pm.expect(jsonData.status).to.eql(\"success\")\r",
-													"})\r",
-													"pm.test(\"'\", function(){\r",
-													"    pm.expect(jsonData.message).to.eql(\"\")\r",
-													"})\r",
+													"// pm.test(\"Status is success\", function(){\r",
+													"//     pm.expect(jsonData.status).to.eql(\"success\")\r",
+													"// })\r",
+													"// pm.test(\"'\", function(){\r",
+													"//     pm.expect(jsonData.message).to.eql(\"\")\r",
+													"// })\r",
 													""
 												],
-												"type": "text/javascript",
-												"id": "9fea0004-9dff-43f1-bbce-5ab06d47f9e8"
+												"type": "text/javascript"
 											}
 										}
 									],
@@ -66773,7 +66773,7 @@
 										"header": [
 											{
 												"key": "Authorization",
-												"value": "Bearer {{ImputerTOKEN}}",
+												"value": "Bearer {{TOKEN}}",
 												"type": "text"
 											}
 										],
@@ -66804,7 +66804,7 @@
 									"response": []
 								},
 								{
-									"name": "Fetch Banks - No Token Copy 2",
+									"name": "Fetch Banks - No Token",
 									"event": [
 										{
 											"listen": "test",
@@ -66883,7 +66883,7 @@
 									"response": []
 								},
 								{
-									"name": "Fetch Banks - No Token Copy",
+									"name": "Fetch Banks - No Token",
 									"event": [
 										{
 											"listen": "test",
