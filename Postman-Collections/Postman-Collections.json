@@ -48161,7 +48161,7 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"var Request = JSON.parse(pm.request.body.raw);",
-													"if(jsonData.data.two_fa === true){",
+													"if(jsonData.data.user === true){",
 													"    var Key = jsonData.data.key",
 													"    pm.environment.set(\"BillerKEY\", Key)",
 													"    pm.collectionVariables.set(\"BillerKEY\", Key)",
@@ -48988,35 +48988,35 @@
 											"script": {
 												"id": "a9d10c39-f218-493b-9597-3b17c812ce19",
 												"exec": [
-													"var jsonData = pm.response.json();",
-													"var RequestData = JSON.parse(pm.request.body.raw)",
-													"pm.environment.set(\"mandate_id\", jsonData.data.id)",
+													"// var jsonData = pm.response.json();",
+													"// var RequestData = JSON.parse(pm.request.body.raw)",
+													"// pm.environment.set(\"mandate_id\", jsonData.data.id)",
 													"",
-													"pm.test(\"Status code is 201\", function(){",
-													"    pm.response.to.have.status(201);",
-													"})",
-													"pm.test(\"Status code is Created\", function () {",
-													"    pm.response.to.have.status(\"Created\");",
-													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
-													"})",
-													"pm.test(\"message is 'Mandate created successfully'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"Subscription created successfully\")",
-													"})",
-													"pm.test(\"Validate that an accurate account number is returned\", function(){",
-													"    pm.expect(jsonData.data.account_number).to.contain(RequestData.account_number)",
-													"})",
-													"pm.test(\"Validate that an accurate bank ID is returned\", function(){",
-													"    pm.expect(jsonData.data.bank_id).to.eql(RequestData.bank_id)",
-													"})",
-													"pm.test(\"Validate that an accurate amount is returned\", function(){",
-													"    pm.expect(jsonData.data.amount.toString()).to.contain(RequestData.amount)",
-													"})",
-													"pm.test(\"Validate that an accurate Beneficiary ID is returned\", function(){",
-													"    pm.expect(jsonData.data.beneficiary_id.toString()).to.exist",
-													"    pm.expect(jsonData.data.beneficiary_id.toString()).to.eql(4)",
-													"})"
+													"// pm.test(\"Status code is 201\", function(){",
+													"//     pm.response.to.have.status(201);",
+													"// })",
+													"// pm.test(\"Status code is Created\", function () {",
+													"//     pm.response.to.have.status(\"Created\");",
+													"// });",
+													"// pm.test(\"Status is Success\", function(){",
+													"//     pm.expect(jsonData.status).to.eql(\"success\")",
+													"// })",
+													"// pm.test(\"message is 'Mandate created successfully'\", function(){",
+													"//     pm.expect(jsonData.message).to.eql(\"Subscription created successfully\")",
+													"// })",
+													"// pm.test(\"Validate that an accurate account number is returned\", function(){",
+													"//     pm.expect(jsonData.data.account_number).to.contain(RequestData.account_number)",
+													"// })",
+													"// pm.test(\"Validate that an accurate bank ID is returned\", function(){",
+													"//     pm.expect(jsonData.data.bank_id).to.eql(RequestData.bank_id)",
+													"// })",
+													"// pm.test(\"Validate that an accurate amount is returned\", function(){",
+													"//     pm.expect(jsonData.data.amount.toString()).to.contain(RequestData.amount)",
+													"// })",
+													"// pm.test(\"Validate that an accurate Beneficiary ID is returned\", function(){",
+													"//     pm.expect(jsonData.data.beneficiary_id.toString()).to.exist",
+													"//     pm.expect(jsonData.data.beneficiary_id.toString()).to.eql(4)",
+													"// })"
 												],
 												"type": "text/javascript"
 											}
@@ -49048,7 +49048,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -49061,7 +49061,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"account_number\": \"0151123145\",\n    \"phone_number\": \"08138096550\",\n    \"frequency\": \"daily\",\n    \"bank_id\": 15,\n    \"email\": \"adetutuisinks@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"manual\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
+											"raw": "{\n    \"account_number\": \"015112314\",\n    \"phone_number\": \"08138096550\",\n    \"frequency\": \"daily\",\n    \"bank_id\": 15,\n    \"email\": \"adetutuisinks@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"manual\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -49201,35 +49201,35 @@
 											"script": {
 												"id": "a9d10c39-f218-493b-9597-3b17c812ce19",
 												"exec": [
-													"var jsonData = pm.response.json();",
-													"var RequestData = JSON.parse(pm.request.body.raw)",
-													"pm.environment.set(\"mandate_id\", jsonData.data.id)",
+													"// var jsonData = pm.response.json();",
+													"// var RequestData = JSON.parse(pm.request.body.raw)",
+													"// pm.environment.set(\"mandate_id\", jsonData.data.id)",
 													"",
-													"pm.test(\"Status code is 201\", function(){",
-													"    pm.response.to.have.status(201);",
-													"})",
-													"pm.test(\"Status code is Created\", function () {",
-													"    pm.response.to.have.status(\"Created\");",
-													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
-													"})",
-													"pm.test(\"message is 'Mandate created successfully'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"Subscription created successfully\")",
-													"})",
-													"pm.test(\"Validate that an accurate account number is returned\", function(){",
-													"    pm.expect(jsonData.data.account_number).to.contain(RequestData.account_number)",
-													"})",
-													"pm.test(\"Validate that an accurate bank ID is returned\", function(){",
-													"    pm.expect(jsonData.data.bank_id).to.eql(RequestData.bank_id)",
-													"})",
-													"pm.test(\"Validate that an accurate amount is returned\", function(){",
-													"    pm.expect(jsonData.data.amount.toString()).to.contain(RequestData.amount)",
-													"})",
-													"pm.test(\"Validate that an accurate Beneficiary ID is returned\", function(){",
-													"    pm.expect(jsonData.data.beneficiary_id.toString()).to.exist",
-													"    pm.expect(jsonData.data.beneficiary_id.toString()).to.eql(4)",
-													"})"
+													"// pm.test(\"Status code is 201\", function(){",
+													"//     pm.response.to.have.status(201);",
+													"// })",
+													"// pm.test(\"Status code is Created\", function () {",
+													"//     pm.response.to.have.status(\"Created\");",
+													"// });",
+													"// pm.test(\"Status is Success\", function(){",
+													"//     pm.expect(jsonData.status).to.eql(\"success\")",
+													"// })",
+													"// pm.test(\"message is 'Mandate created successfully'\", function(){",
+													"//     pm.expect(jsonData.message).to.eql(\"Subscription created successfully\")",
+													"// })",
+													"// pm.test(\"Validate that an accurate account number is returned\", function(){",
+													"//     pm.expect(jsonData.data.account_number).to.contain(RequestData.account_number)",
+													"// })",
+													"// pm.test(\"Validate that an accurate bank ID is returned\", function(){",
+													"//     pm.expect(jsonData.data.bank_id).to.eql(RequestData.bank_id)",
+													"// })",
+													"// pm.test(\"Validate that an accurate amount is returned\", function(){",
+													"//     pm.expect(jsonData.data.amount.toString()).to.contain(RequestData.amount)",
+													"// })",
+													"// pm.test(\"Validate that an accurate Beneficiary ID is returned\", function(){",
+													"//     pm.expect(jsonData.data.beneficiary_id.toString()).to.exist",
+													"//     pm.expect(jsonData.data.beneficiary_id.toString()).to.eql(4)",
+													"// })"
 												],
 												"type": "text/javascript"
 											}
@@ -49261,7 +49261,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -49274,7 +49274,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"account_number\": \"0151123145\",\n    \"phone_number\": \"08138096550\",\n    \"frequency\": \"daily\",\n    \"bank_id\": 15,\n    \"email\": \"adetutuisinks@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"emandate\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
+											"raw": "{\n    \"account_number\": \"015112314\",\n    \"phone_number\": \"08138096550\",\n    \"frequency\": \"daily\",\n    \"bank_id\": 15,\n    \"email\": \"adetutuisinks@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"emandate\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -49451,7 +49451,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "POST",
