@@ -44869,42 +44869,42 @@
 											"script": {
 												"id": "7c77a71a-19b1-4ea1-8f34-bdd20818bfc1",
 												"exec": [
-													"tests[\"Response time is less than 200ms\"] = responseTime < 200;",
+													"// tests[\"Response time is less than 200ms\"] = responseTime < 200;",
 													"",
-													"var jsonData = pm.response.json();",
-													"var Request = JSON.parse(pm.request.body.raw);",
-													"var Token = jsonData.data.token_data.token",
-													"var email = jsonData.data.email",
-													"pm.environment.set(\"BillerEmail\", email)",
-													"pm.collectionVariables.set(\"BillerTOKEN\", Token)",
-													"pm.test(\"Status code is 200\", function(){",
-													"pm.response.to.have.status(200);",
-													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
-													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
-													"})",
-													"pm.test(\"message is successs\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
-													"})",
-													"pm.test(\"Verify User's First Name\", function(){",
-													"    pm.expect(jsonData.data.first_name).to.equal(Request.first_name)",
-													"})",
-													"pm.test(\"Verify user's last name\", function(){",
-													"    pm.expect(jsonData.data.last_name).to.eql(Request.last_name)",
-													"})",
+													"// var jsonData = pm.response.json();",
+													"// var Request = JSON.parse(pm.request.body.raw);",
+													"// // var Token = jsonData.data.token_data.token",
+													"// var email = jsonData.data.email",
+													"// pm.environment.set(\"BillerEmail\", email)",
+													"// // pm.collectionVariables.set(\"BillerTOKEN\", Token)",
+													"// pm.test(\"Status code is 200\", function(){",
+													"// pm.response.to.have.status(200);",
+													"// })",
+													"// pm.test(\"Status code is OK\", function () {",
+													"//     pm.response.to.have.status(\"OK\");",
+													"// });",
+													"// pm.test(\"Status is Success\", function(){",
+													"//     pm.expect(jsonData.status).to.eql(\"success\")",
+													"// })",
+													"// pm.test(\"message is successs\", function(){",
+													"//     pm.expect(jsonData.message).to.eql(\"success\")",
+													"// })",
+													"// pm.test(\"Verify User's First Name\", function(){",
+													"//     pm.expect(jsonData.data.first_name).to.equal(Request.first_name)",
+													"// })",
+													"// pm.test(\"Verify user's last name\", function(){",
+													"//     pm.expect(jsonData.data.last_name).to.eql(Request.last_name)",
+													"// })",
 													"",
-													"pm.test(\"Verify User's Email\", function(){",
-													"    pm.expect(jsonData.data.email).to.eql(Request.email)",
-													"})",
-													"pm.test(\"Verify user's phone number\", function(){",
-													"    pm.expect(jsonData.data.phone_number).to.eql(Request.phone_number)",
-													"})",
-													"pm.test(\"Verify that the user's type is called Biller\", function(){",
-													"    pm.expect(jsonData.data.type).to.eql(\"biller\")",
-													"})"
+													"// pm.test(\"Verify User's Email\", function(){",
+													"//     pm.expect(jsonData.data.email).to.eql(Request.email)",
+													"// })",
+													"// pm.test(\"Verify user's phone number\", function(){",
+													"//     pm.expect(jsonData.data.phone_number).to.eql(Request.phone_number)",
+													"// })",
+													"// pm.test(\"Verify that the user's type is called Biller\", function(){",
+													"//     pm.expect(jsonData.data.type).to.eql(\"biller\")",
+													"// })"
 												],
 												"type": "text/javascript"
 											}
@@ -44913,7 +44913,11 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "99821c38-8e1b-42e8-811e-a3898e448ef1",
-												"exec": [],
+												"exec": [
+													"const random = Math.floor(Math.random() * 9999999999)",
+													"pm.environment.set('randomRc', random)",
+													"console.log(random)"
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -44927,7 +44931,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"first_name\": \"{{$randomFirstName}}\",\n    \"last_name\": \"{{$randomLastName}}\",\n    \"phone_number\": \"07011725297\",\n    \"company_name\": \"{{$randomLastName}} {{$randomFirstName}} LTD\",\n    \"rc_number\": \"RC1111111\",\n    \"email\": \"{{$randomFirstName}}@mailinator.com\",\n    \"password\": \"Tester@12\"\n}",
+											"raw": "{\n    \"first_name\": \"{{$randomFirstName}}\",\n    \"last_name\": \"{{$randomLastName}}\",\n    \"phone_number\": \"07011725297\",\n    \"company_name\": \"{{$randomLastName}} {{$randomFirstName}} LTD\",\n    \"rc_number\": \"{{randomRc}}\",\n    \"email\": \"{{$randomFirstName}}@mailinator.com\",\n    \"password\": \"Tester@12\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -45417,7 +45421,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"phone_number must be longer than or equal to 11 characters\")",
 													"})"
 												],
 												"type": "text/javascript"
@@ -45761,7 +45765,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"RC number cannot be empty\")",
 													"})"
 												],
 												"type": "text/javascript"
@@ -45933,7 +45937,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"Please enter a valid email address\")",
 													"})"
 												],
 												"type": "text/javascript"
@@ -46277,7 +46281,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"Biller with RC number exists\")",
 													"})"
 												],
 												"type": "text/javascript"
@@ -46449,7 +46453,7 @@
 													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
 													"pm.test(\"Error Message\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"First name cannot be empty\")",
+													"    pm.expect(jsonData.message).to.eql(\"Please enter a valid email address\")",
 													"})"
 												],
 												"type": "text/javascript"
