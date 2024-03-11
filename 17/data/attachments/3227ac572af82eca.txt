@@ -1,0 +1,9 @@
+{
+    "first_name": "Agustin",
+    "last_name": "Kihn",
+    "phone_number": "07011er4569",
+    "company_name": "Sporer Dominique LTD",
+    "rc_number": "5868045564",
+    "email": "Otha@mailinator.com",
+    "password": "Tester@12"
+}

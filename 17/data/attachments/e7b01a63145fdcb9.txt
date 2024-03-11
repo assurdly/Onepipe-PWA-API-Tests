@@ -1,0 +1,9 @@
+{
+    "first_name": "Toni",
+    "last_name": "Lang",
+    "phone_number": "07011725297",
+    "company_name": "Johnston Cory LTD",
+    "rc_number": "2391531766",
+    "email": "Lempi@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "RSS Role",
+    "description": "Quos ab quidem iste esse.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

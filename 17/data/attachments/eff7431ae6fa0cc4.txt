@@ -1,0 +1,9 @@
+{
+    "first_name": "Hans",
+    "last_name": "Abshire",
+    "phone_number": "07011725297",
+    "company_name": "Crooks Penelope LTD",
+    "rc_number": "RC1111111",
+    "email": "Kenna@mailinator.com",
+    "password": "Teste"
+}

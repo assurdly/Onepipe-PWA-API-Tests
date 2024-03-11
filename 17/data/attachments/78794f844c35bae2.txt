@@ -1,0 +1,6 @@
+{
+    "name": "gold Role",
+    "description": "District",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

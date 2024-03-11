@@ -1,0 +1,6 @@
+{
+    "name": "navigating Role",
+    "description": "Minus laboriosam itaque sint illo.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

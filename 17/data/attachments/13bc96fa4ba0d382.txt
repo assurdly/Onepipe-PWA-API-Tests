@@ -1,0 +1,7 @@
+{
+    "name": "program",
+    "description": "Corrupti non officia ea vel unde accusamus.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

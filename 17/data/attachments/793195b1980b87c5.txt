@@ -1,0 +1,9 @@
+{
+    "first_name": "Kassandra",
+    "last_name": "Lockman",
+    "phone_number": "07011725297",
+    "company_name": "Farrell Ramon LTD",
+    "rc_number": "8538396057",
+    "email": "Claudie@mailinator.com",
+    "password": "Tester@12"
+}

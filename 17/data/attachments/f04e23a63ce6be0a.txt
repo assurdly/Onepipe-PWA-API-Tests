@@ -1,0 +1,9 @@
+{
+    "first_name": "Lera",
+    "last_name": "Tillman",
+    "phone_number": "07011725297",
+    "company_name": "Jarrod Larson LTD",
+    "rc_number": "",
+    "email": "Ezekiel@mailinator.com",
+    "password": "Tester@12"
+}

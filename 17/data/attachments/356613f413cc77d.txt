@@ -1,0 +1,9 @@
+{
+    "first_name": "Luciano",
+    "last_name": "Hartmann",
+    "phone_number": "07011725297",
+    "company_name": "Casimer Spinka LTD",
+    "rc_number": "",
+    "email": "Rey@mailinator.com",
+    "password": "Tester@12"
+}

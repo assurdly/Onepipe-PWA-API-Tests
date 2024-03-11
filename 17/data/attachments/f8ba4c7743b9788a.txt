@@ -1,0 +1,6 @@
+{
+    "name": "niches Role",
+    "description": "Principal",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

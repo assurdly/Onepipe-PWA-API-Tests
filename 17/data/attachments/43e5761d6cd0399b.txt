@@ -1,0 +1,6 @@
+{
+    "name": "Usability Role",
+    "description": "Iusto repudiandae aut omnis asperiores.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

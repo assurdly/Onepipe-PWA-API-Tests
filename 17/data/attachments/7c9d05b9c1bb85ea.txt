@@ -1,0 +1,9 @@
+{
+    "first_name": "Rosenbaum",
+    "last_name": "Thiel",
+    "phone_number": "",
+    "company_name": "Stiedemann Petra LTD",
+    "rc_number": "RC1111111",
+    "email": "Clinton@mailinator.com",
+    "password": "Tester@12"
+}

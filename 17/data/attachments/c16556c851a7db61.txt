@@ -1,0 +1,6 @@
+{
+    "name": "Cotton Role",
+    "description": "Corporate",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

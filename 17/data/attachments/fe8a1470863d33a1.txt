@@ -1,0 +1,6 @@
+{
+    "name": "synthesize Role",
+    "description": "Legacy",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

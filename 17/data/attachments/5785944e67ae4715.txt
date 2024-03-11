@@ -1,0 +1,6 @@
+{
+    "name": "Technician Role",
+    "description": "Qui voluptatibus illum et pariatur sapiente qui aut praesentium laboriosam.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

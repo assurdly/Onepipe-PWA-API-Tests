@@ -1,0 +1,9 @@
+{
+    "first_name": "Brandt",
+    "last_name": "Gleichner",
+    "phone_number": "07011725297",
+    "company_name": "Jordi Lebsack LTD",
+    "rc_number": "",
+    "email": "Lorenza@mailinator.com",
+    "password": "Tester@12"
+}

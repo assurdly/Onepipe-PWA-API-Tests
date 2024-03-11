@@ -1,0 +1,9 @@
+{
+    "first_name": "Jett",
+    "last_name": "McClure",
+    "phone_number": "07011725297",
+    "company_name": "Schaden Lawson LTD",
+    "rc_number": "RC1111111",
+    "email": "Adaline@mailinator.com",
+    "password": "Teste"
+}

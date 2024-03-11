@@ -1,0 +1,7 @@
+{
+    "name": "initiative",
+    "description": "Eligendi itaque quos quia et perspiciatis.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Sam",
+    "last_name": "Wisoky",
+    "phone_number": "07011er4569",
+    "company_name": "Boehm Emmett LTD",
+    "rc_number": "3289001515",
+    "email": "Edwina@mailinator.com",
+    "password": "Tester@12"
+}

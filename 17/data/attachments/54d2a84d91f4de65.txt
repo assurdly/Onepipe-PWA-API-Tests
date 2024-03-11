@@ -1,0 +1,9 @@
+{
+    "first_name": "Ottilie",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Windler Harry LTD",
+    "rc_number": "RC1111110",
+    "email": "Coralie@mailinator.com",
+    "password": "Tester@12"
+}

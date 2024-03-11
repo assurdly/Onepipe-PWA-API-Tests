@@ -1,0 +1,7 @@
+{
+    "name": "Keyboard",
+    "description": "Recusandae rerum animi sit libero vitae.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

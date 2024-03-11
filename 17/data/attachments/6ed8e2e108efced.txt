@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Kemmer",
+    "phone_number": "07011725297",
+    "company_name": "Kling Khalid LTD",
+    "rc_number": "RC1111111",
+    "email": "Hilma@mailinator.com",
+    "password": "Tester@12"
+}

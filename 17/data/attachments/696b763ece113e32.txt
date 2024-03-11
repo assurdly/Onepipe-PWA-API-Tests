@@ -1,0 +1,9 @@
+{
+    "first_name": "Lucie",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Lehner Jenifer LTD",
+    "rc_number": "RC1111110",
+    "email": "Mireya@mailinator.com",
+    "password": "Tester@12"
+}

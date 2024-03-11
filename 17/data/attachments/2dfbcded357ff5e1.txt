@@ -1,0 +1,9 @@
+{
+    "first_name": "Jessy",
+    "last_name": "Tromp",
+    "phone_number": "07011",
+    "company_name": "Mueller Hobart LTD",
+    "rc_number": "RC1111111",
+    "email": "Cynthia@mailinator.com",
+    "password": "Tester@12"
+}

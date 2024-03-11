@@ -1,0 +1,9 @@
+{
+    "first_name": "Newton",
+    "last_name": "Schumm",
+    "phone_number": "234701172529700",
+    "company_name": "Powlowski Darryl LTD",
+    "rc_number": "RC1111111",
+    "email": "Hailie@mailinator.com",
+    "password": "Tester@12"
+}

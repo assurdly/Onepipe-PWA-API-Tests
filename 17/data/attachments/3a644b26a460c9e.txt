@@ -1,0 +1,6 @@
+{
+    "name": "black Role",
+    "description": "Fuga soluta qui quam cumque voluptas excepturi et tenetur.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

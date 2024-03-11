@@ -1,0 +1,9 @@
+{
+    "first_name": "Brooke",
+    "last_name": "Sawayn",
+    "phone_number": "07011er4569",
+    "company_name": "Kiehn Sadye LTD",
+    "rc_number": "2908431",
+    "email": "Wellington@mailinator.com",
+    "password": "Tester@12"
+}

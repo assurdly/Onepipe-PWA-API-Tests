@@ -1,0 +1,9 @@
+{
+    "first_name": "Torrey",
+    "last_name": "Mann",
+    "phone_number": "07011725297",
+    "company_name": "Bergnaum Elizabeth LTD",
+    "rc_number": "1715618005",
+    "email": "Eleazar@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Super Admin",
+    "description": "Super Admin",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Yasmin",
+    "last_name": "Marvin",
+    "phone_number": "07011er4569",
+    "company_name": "Paucek Arnulfo LTD",
+    "rc_number": "4992727323",
+    "email": "Aileen@mailinator.com",
+    "password": "Tester@12"
+}

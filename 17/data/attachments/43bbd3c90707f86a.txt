@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Hayes",
+    "phone_number": "07011725297",
+    "company_name": "Schowalter Rashawn LTD",
+    "rc_number": "RC1111111",
+    "email": "Kacie@mailinator.com",
+    "password": ""
+}

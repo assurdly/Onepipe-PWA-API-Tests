@@ -1,0 +1,9 @@
+{
+    "first_name": "Hershel",
+    "last_name": "Schneider",
+    "phone_number": "07011725297",
+    "company_name": "Schiller Unique LTD",
+    "rc_number": "5565521511",
+    "email": "Emiliano@mailinator.com",
+    "password": "Tester@12"
+}

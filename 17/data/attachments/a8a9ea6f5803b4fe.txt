@@ -1,0 +1,9 @@
+{
+    "first_name": "Annabell",
+    "last_name": "Strosin",
+    "phone_number": "07011725297",
+    "company_name": "Hyatt Hortense LTD",
+    "rc_number": "RC1111111",
+    "email": "Jordy@mailinator.com",
+    "password": "Teste"
+}

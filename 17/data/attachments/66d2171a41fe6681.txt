@@ -1,0 +1,9 @@
+{
+    "first_name": "Sarina",
+    "last_name": "Ledner",
+    "phone_number": "07011",
+    "company_name": "Hills Pansy LTD",
+    "rc_number": "RC1111111",
+    "email": "Ottis@mailinator.com",
+    "password": "Tester@12"
+}

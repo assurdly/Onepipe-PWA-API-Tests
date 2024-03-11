@@ -1,0 +1,9 @@
+{
+    "first_name": "Hobart",
+    "last_name": "Metz",
+    "phone_number": "07011725297",
+    "company_name": "Lemke Kay LTD",
+    "rc_number": "153983981",
+    "email": "Conor@mailinator.com",
+    "password": "Tester@12"
+}

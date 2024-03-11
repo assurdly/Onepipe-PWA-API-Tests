@@ -1,0 +1,9 @@
+{
+    "first_name": "Gerardo",
+    "last_name": "Muller",
+    "phone_number": "234701172529700",
+    "company_name": "Price Garland LTD",
+    "rc_number": "RC1111111",
+    "email": "Raphael@mailinator.com",
+    "password": "Tester@12"
+}

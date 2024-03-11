@@ -1,0 +1,9 @@
+{
+    "first_name": "Price",
+    "last_name": "Bernier",
+    "phone_number": "",
+    "company_name": "Sanford Kayley LTD",
+    "rc_number": "RC1111111",
+    "email": "Loren@mailinator.com",
+    "password": "Tester@12"
+}

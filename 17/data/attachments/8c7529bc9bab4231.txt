@@ -1,0 +1,6 @@
+{
+    "name": "Harbors Role",
+    "description": "Non qui voluptas cum recusandae reiciendis.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

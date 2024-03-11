@@ -1,0 +1,9 @@
+{
+    "first_name": "Jalen",
+    "last_name": "Conroy",
+    "phone_number": "07011725297",
+    "company_name": "Guido Murazik LTD",
+    "rc_number": "",
+    "email": "Mathias@mailinator.com",
+    "password": "Tester@12"
+}

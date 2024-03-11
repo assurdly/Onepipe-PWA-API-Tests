@@ -1,0 +1,9 @@
+{
+    "first_name": "Domenic",
+    "last_name": "Glover",
+    "phone_number": "07011725297",
+    "company_name": "Aaron Crona LTD",
+    "rc_number": "",
+    "email": "Paolo@mailinator.com",
+    "password": "Tester@12"
+}

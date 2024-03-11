@@ -1,0 +1,9 @@
+{
+    "first_name": "Bessie",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Senger Jason LTD",
+    "rc_number": "RC1111110",
+    "email": "Dedrick@mailinator.com",
+    "password": "Tester@12"
+}

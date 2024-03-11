@@ -1,0 +1,9 @@
+{
+    "first_name": "Lawrence",
+    "last_name": "Denesik",
+    "phone_number": "07011725297",
+    "company_name": "Adams Anderson LTD",
+    "rc_number": "RC1111111",
+    "email": "Dave@mailinator.com",
+    "password": "Teste"
+}

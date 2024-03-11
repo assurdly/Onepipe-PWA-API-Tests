@@ -1,0 +1,6 @@
+{
+    "name": "Pa'anga Role",
+    "description": "Ratione a exercitationem consequatur ullam perspiciatis.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

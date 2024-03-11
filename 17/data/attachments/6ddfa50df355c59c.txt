@@ -1,0 +1,6 @@
+{
+    "name": "Arab Role",
+    "description": "Architecto repellat aut beatae hic similique.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

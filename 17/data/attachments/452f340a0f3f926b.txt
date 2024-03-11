@@ -1,0 +1,9 @@
+{
+    "first_name": "Larissa",
+    "last_name": "Schmeler",
+    "phone_number": "07011725297",
+    "company_name": "Lillian Gislason LTD",
+    "rc_number": "",
+    "email": "Shanel@mailinator.com",
+    "password": "Tester@12"
+}

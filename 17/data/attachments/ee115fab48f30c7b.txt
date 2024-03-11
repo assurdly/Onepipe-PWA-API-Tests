@@ -1,0 +1,6 @@
+{
+    "name": "New Name",
+    "description": " ",
+    "permissions": [],
+    "token": "000000"
+}

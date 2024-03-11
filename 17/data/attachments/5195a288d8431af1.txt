@@ -1,0 +1,9 @@
+{
+    "first_name": "Taya",
+    "last_name": "Conn",
+    "phone_number": "234701172529700",
+    "company_name": "Dare Devonte LTD",
+    "rc_number": "RC1111111",
+    "email": "Frank@mailinator.com",
+    "password": "Tester@12"
+}

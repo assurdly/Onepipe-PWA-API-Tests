@@ -1,0 +1,9 @@
+{
+    "first_name": "Bria",
+    "last_name": "Bauch",
+    "phone_number": "07011er4569",
+    "company_name": "Pacocha Alfred LTD",
+    "rc_number": "8804616542",
+    "email": "Enid@mailinator.com",
+    "password": "Tester@12"
+}

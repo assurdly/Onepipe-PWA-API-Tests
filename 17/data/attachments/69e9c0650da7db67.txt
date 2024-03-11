@@ -1,0 +1,9 @@
+{
+    "first_name": "Scotty",
+    "last_name": "Bergstrom",
+    "phone_number": "07011725297",
+    "company_name": "Jerde Ted LTD",
+    "rc_number": "9506804248",
+    "email": "Novella@mailinator.com",
+    "password": "Tester@12"
+}

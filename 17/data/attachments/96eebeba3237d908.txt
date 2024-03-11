@@ -1,0 +1,9 @@
+{
+    "first_name": "Janet",
+    "last_name": "Leffler",
+    "phone_number": "07011725297",
+    "company_name": "Jast Evert LTD",
+    "rc_number": "RC1111111",
+    "email": "Horace@mailinator",
+    "password": "Tester@12"
+}

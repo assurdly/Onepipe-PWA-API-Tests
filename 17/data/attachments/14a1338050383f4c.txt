@@ -1,0 +1,9 @@
+{
+    "first_name": "Brannon",
+    "last_name": "Mohr",
+    "phone_number": "07011725297",
+    "company_name": "Ondricka Orval LTD",
+    "rc_number": "7865415377",
+    "email": "Mossie@mailinator.com",
+    "password": "Tester@12"
+}

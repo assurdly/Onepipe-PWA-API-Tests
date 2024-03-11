@@ -1,0 +1,9 @@
+{
+    "first_name": "Aida",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Powlowski Rhea LTD",
+    "rc_number": "RC1111110",
+    "email": "Percival@mailinator.com",
+    "password": "Tester@12"
+}

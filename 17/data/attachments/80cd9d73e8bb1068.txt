@@ -1,0 +1,9 @@
+{
+    "first_name": "Gislason",
+    "last_name": "Kiehn",
+    "phone_number": "",
+    "company_name": "Romaguera Philip LTD",
+    "rc_number": "RC1111111",
+    "email": "Joanie@mailinator.com",
+    "password": "Tester@12"
+}

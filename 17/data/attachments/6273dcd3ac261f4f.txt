@@ -1,0 +1,9 @@
+{
+    "first_name": "Elinor",
+    "last_name": "Bahringer",
+    "phone_number": "07011725297",
+    "company_name": "Willms Elijah LTD",
+    "rc_number": "RC1111111",
+    "email": "Nedra@mailinator",
+    "password": "Tester@12"
+}

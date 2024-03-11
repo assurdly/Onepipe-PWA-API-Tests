@@ -1,0 +1,9 @@
+{
+    "first_name": "Cruz",
+    "last_name": "Ratke",
+    "phone_number": "07011725297",
+    "company_name": "Mohr Blake LTD",
+    "rc_number": "7295267432",
+    "email": "Kara@mailinator.com",
+    "password": "Tester@12"
+}

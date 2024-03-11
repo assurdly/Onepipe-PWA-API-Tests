@@ -1,0 +1,6 @@
+{
+    "name": "Mandatory Role",
+    "description": "Ea molestiae nihil sit.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

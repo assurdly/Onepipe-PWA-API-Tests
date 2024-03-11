@@ -1,0 +1,7 @@
+{
+    "name": "Armenia",
+    "description": "Quia voluptas odio commodi et cupiditate enim.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

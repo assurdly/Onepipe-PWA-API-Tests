@@ -1,0 +1,9 @@
+{
+    "first_name": "Ashton",
+    "last_name": "Schaden",
+    "phone_number": "07011",
+    "company_name": "White Jamison LTD",
+    "rc_number": "RC1111111",
+    "email": "Amiya@mailinator.com",
+    "password": "Tester@12"
+}

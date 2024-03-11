@@ -1,0 +1,9 @@
+{
+    "first_name": "Napoleon",
+    "last_name": "Dach",
+    "phone_number": "07011725297",
+    "company_name": "VonRueden Sylvan LTD",
+    "rc_number": "RC1111111",
+    "email": "Bonita@mailinator.com",
+    "password": "Teste"
+}

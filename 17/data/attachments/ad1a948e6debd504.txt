@@ -1,0 +1,9 @@
+{
+    "first_name": "Ardith",
+    "last_name": "Mills",
+    "phone_number": "07011725297",
+    "company_name": "Cruickshank Nella LTD",
+    "rc_number": "6941249623",
+    "email": "Novella@mailinator.com",
+    "password": "Tester@12"
+}

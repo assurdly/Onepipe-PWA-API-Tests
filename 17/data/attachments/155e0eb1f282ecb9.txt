@@ -1,0 +1,6 @@
+{
+    "name": "connecting Role",
+    "description": "Et deserunt consequatur optio eligendi sint a hic.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

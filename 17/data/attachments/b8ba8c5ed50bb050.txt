@@ -1,0 +1,9 @@
+{
+    "first_name": "Felicity",
+    "last_name": "Koss",
+    "phone_number": "07011",
+    "company_name": "Graham Bernita LTD",
+    "rc_number": "RC1111111",
+    "email": "Christophe@mailinator.com",
+    "password": "Tester@12"
+}

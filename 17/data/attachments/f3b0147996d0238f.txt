@@ -1,0 +1,9 @@
+{
+    "first_name": "Jules",
+    "last_name": "Torp",
+    "phone_number": "07011725297",
+    "company_name": "Hilton Rowe LTD",
+    "rc_number": "",
+    "email": "Estel@mailinator.com",
+    "password": "Tester@12"
+}

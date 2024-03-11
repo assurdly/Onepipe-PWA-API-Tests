@@ -1,0 +1,9 @@
+{
+    "first_name": "Grayce",
+    "last_name": "West",
+    "phone_number": "07011er4569",
+    "company_name": "Langosh Stuart LTD",
+    "rc_number": "407013236",
+    "email": "Filomena@mailinator.com",
+    "password": "Tester@12"
+}

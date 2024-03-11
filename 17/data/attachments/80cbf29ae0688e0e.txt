@@ -1,0 +1,9 @@
+{
+    "first_name": "Eric",
+    "last_name": "Casper",
+    "phone_number": "07011725297",
+    "company_name": "McDermott Gonzalo LTD",
+    "rc_number": "9631180879",
+    "email": "Katlynn@mailinator.com",
+    "password": "Tester@12"
+}

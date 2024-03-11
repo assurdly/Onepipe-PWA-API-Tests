@@ -1,0 +1,9 @@
+{
+    "first_name": "Dolly",
+    "last_name": "Breitenberg",
+    "phone_number": "07011725297",
+    "company_name": "Geovanny Nader LTD",
+    "rc_number": "",
+    "email": "Everardo@mailinator.com",
+    "password": "Tester@12"
+}

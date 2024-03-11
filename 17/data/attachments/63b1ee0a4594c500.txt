@@ -1,0 +1,9 @@
+{
+    "first_name": "Adam",
+    "last_name": "Leffler",
+    "phone_number": "234701172529700",
+    "company_name": "Weimann Judge LTD",
+    "rc_number": "RC1111111",
+    "email": "Gerda@mailinator.com",
+    "password": "Tester@12"
+}

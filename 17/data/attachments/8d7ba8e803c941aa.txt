@@ -1,0 +1,9 @@
+{
+    "first_name": "Vanessa",
+    "last_name": "Gulgowski",
+    "phone_number": "07011725297",
+    "company_name": "Lockman Caleigh LTD",
+    "rc_number": "5496309839",
+    "email": "Patricia@mailinator.com",
+    "password": "Tester@12"
+}

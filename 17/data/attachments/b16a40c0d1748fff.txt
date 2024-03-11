@@ -1,0 +1,6 @@
+{
+    "name": "Maldives Role",
+    "description": "Nihil ut nostrum dignissimos libero repellat quia culpa.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

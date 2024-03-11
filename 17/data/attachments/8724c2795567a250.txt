@@ -1,0 +1,6 @@
+{
+    "name": "Electronics Role",
+    "description": "Ea iste possimus saepe ea cum illo earum nihil.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

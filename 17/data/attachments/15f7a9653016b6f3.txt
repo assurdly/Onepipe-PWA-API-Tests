@@ -1,0 +1,9 @@
+{
+    "first_name": "Christ",
+    "last_name": "Hamill",
+    "phone_number": "07011725297",
+    "company_name": "Ruthie Kilback LTD",
+    "rc_number": "",
+    "email": "Alize@mailinator.com",
+    "password": "Tester@12"
+}

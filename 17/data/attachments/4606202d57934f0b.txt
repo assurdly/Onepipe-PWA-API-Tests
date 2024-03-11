@@ -1,0 +1,9 @@
+{
+    "first_name": "Kennedy",
+    "last_name": "Schimmel",
+    "phone_number": "07011725297",
+    "company_name": "Flatley Vickie LTD",
+    "rc_number": "RC1111111",
+    "email": "Stephan@mailinator",
+    "password": "Tester@12"
+}

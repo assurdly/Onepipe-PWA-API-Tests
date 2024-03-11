@@ -1,0 +1,9 @@
+{
+    "first_name": "Kaci",
+    "last_name": "Cassin",
+    "phone_number": "234701172529700",
+    "company_name": "Gerlach Margret LTD",
+    "rc_number": "RC1111111",
+    "email": "Michel@mailinator.com",
+    "password": "Tester@12"
+}

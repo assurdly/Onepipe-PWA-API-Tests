@@ -1,0 +1,9 @@
+{
+    "first_name": "Darion",
+    "last_name": "Kerluke",
+    "phone_number": "07011725297",
+    "company_name": "Walsh Cedrick LTD",
+    "rc_number": "6484186539",
+    "email": "Julien@mailinator.com",
+    "password": "Tester@12"
+}

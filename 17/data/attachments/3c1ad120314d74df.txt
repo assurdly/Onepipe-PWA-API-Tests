@@ -1,0 +1,6 @@
+{
+    "name": "transmitting Role",
+    "description": "Quaerat omnis et suscipit enim commodi possimus.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

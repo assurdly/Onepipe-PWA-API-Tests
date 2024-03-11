@@ -1,0 +1,9 @@
+{
+    "first_name": "Smitham",
+    "last_name": "Stracke",
+    "phone_number": "",
+    "company_name": "Monahan Jarrell LTD",
+    "rc_number": "RC1111111",
+    "email": "Iliana@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Margarita",
+    "last_name": "Lowe",
+    "phone_number": "234701172529700",
+    "company_name": "Smitham Timmy LTD",
+    "rc_number": "RC1111111",
+    "email": "Jazmyn@mailinator.com",
+    "password": "Tester@12"
+}

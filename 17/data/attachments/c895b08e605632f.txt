@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Botsford",
+    "phone_number": "07011725297",
+    "company_name": "Bergstrom Kim LTD",
+    "rc_number": "RC1111111",
+    "email": "Brock@mailinator.com",
+    "password": "Tester@12"
+}

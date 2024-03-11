@@ -1,0 +1,9 @@
+{
+    "first_name": "Adah",
+    "last_name": "Zieme",
+    "phone_number": "07011",
+    "company_name": "Rath Vicky LTD",
+    "rc_number": "RC1111111",
+    "email": "Bethel@mailinator.com",
+    "password": "Tester@12"
+}

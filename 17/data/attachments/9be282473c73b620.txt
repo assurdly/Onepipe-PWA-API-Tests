@@ -1,0 +1,6 @@
+{
+    "name": "Berkshire Role",
+    "description": "Facilis cum et.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Laney",
+    "last_name": "Parker",
+    "phone_number": "07011725297",
+    "company_name": "Christiansen Carolina LTD",
+    "rc_number": "9437254156",
+    "email": "Alisa@mailinator.com",
+    "password": "Tester@12"
+}

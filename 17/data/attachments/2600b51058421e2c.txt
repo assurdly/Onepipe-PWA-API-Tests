@@ -1,0 +1,7 @@
+{
+    "name": "River",
+    "description": "Unde adipisci eveniet.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

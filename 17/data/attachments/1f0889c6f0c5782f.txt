@@ -1,0 +1,9 @@
+{
+    "first_name": "Tia",
+    "last_name": "Williamson",
+    "phone_number": "07011er4569",
+    "company_name": "Kunze Vincent LTD",
+    "rc_number": "6333335655",
+    "email": "Liliane@mailinator.com",
+    "password": "Tester@12"
+}

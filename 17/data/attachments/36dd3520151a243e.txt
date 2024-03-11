@@ -1,0 +1,9 @@
+{
+    "first_name": "Jonathon",
+    "last_name": "Leffler",
+    "phone_number": "07011725297",
+    "company_name": "Sanford Buster LTD",
+    "rc_number": "4362411704",
+    "email": "Frederic@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "RSS Role",
+    "description": "Placeat dolores quo at asperiores.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

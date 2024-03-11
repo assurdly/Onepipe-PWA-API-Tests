@@ -1,0 +1,9 @@
+{
+    "first_name": "Elisabeth",
+    "last_name": "Lebsack",
+    "phone_number": "07011er4569",
+    "company_name": "Kessler Lillian LTD",
+    "rc_number": "2727880986",
+    "email": "Megane@mailinator.com",
+    "password": "Tester@12"
+}

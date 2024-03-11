@@ -1,0 +1,6 @@
+{
+    "name": "cross-media Role",
+    "description": "Vel qui non sed.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

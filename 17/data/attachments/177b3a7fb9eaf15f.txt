@@ -1,0 +1,7 @@
+{
+    "name": "drive",
+    "description": "Hic adipisci dignissimos veritatis.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

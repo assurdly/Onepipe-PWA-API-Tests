@@ -1,0 +1,17 @@
+{
+    "mandates": [
+        {
+            "bank": "Zenith Bank",
+            "account_number": "2150302690",
+            "email": "akinsanyaadeoluwa21@gmail.com",
+            "phone_number": "08123456789",
+            "address": "Test Address",
+            "start_date": "2024-01-01",
+            "end_date": "2024-05-01",
+            "narration": "Test Narration",
+            "amount": 10000,
+            "frequency": "daily",
+            "type": "emandate"
+        }
+    ]
+}

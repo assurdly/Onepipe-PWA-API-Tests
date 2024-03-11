@@ -1,0 +1,9 @@
+{
+    "first_name": "Cory",
+    "last_name": "Altenwerth",
+    "phone_number": "07011er4569",
+    "company_name": "Parker Johan LTD",
+    "rc_number": "9798061501",
+    "email": "Toney@mailinator.com",
+    "password": "Tester@12"
+}

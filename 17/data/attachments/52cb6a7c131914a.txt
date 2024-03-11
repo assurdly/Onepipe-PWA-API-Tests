@@ -1,0 +1,9 @@
+{
+    "first_name": "Brock",
+    "last_name": "Corkery",
+    "phone_number": "07011725297",
+    "company_name": "Crona Candice LTD",
+    "rc_number": "6474825271",
+    "email": "Darby@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "America",
+    "last_name": "Kuvalis",
+    "phone_number": "07011725297",
+    "company_name": "Ledner Kaya LTD",
+    "rc_number": "RC1111111",
+    "email": "Christy@mailinator",
+    "password": "Tester@12"
+}

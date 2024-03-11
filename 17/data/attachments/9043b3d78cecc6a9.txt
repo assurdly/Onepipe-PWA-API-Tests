@@ -1,0 +1,9 @@
+{
+    "first_name": "Phoebe",
+    "last_name": "Hayes",
+    "phone_number": "07011er4569",
+    "company_name": "Simonis Aleen LTD",
+    "rc_number": "774388560",
+    "email": "Al@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Aileen",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Toy Anibal LTD",
+    "rc_number": "RC1111110",
+    "email": "Reynold@mailinator.com",
+    "password": "Tester@12"
+}

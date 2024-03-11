@@ -1,0 +1,9 @@
+{
+    "first_name": "Teagan",
+    "last_name": "Carroll",
+    "phone_number": "07011",
+    "company_name": "Waelchi Ellie LTD",
+    "rc_number": "RC1111111",
+    "email": "Jena@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Carlotta",
+    "last_name": "Fadel",
+    "phone_number": "07011725297",
+    "company_name": "Uriel Kshlerin LTD",
+    "rc_number": "",
+    "email": "Maximillian@mailinator.com",
+    "password": "Tester@12"
+}

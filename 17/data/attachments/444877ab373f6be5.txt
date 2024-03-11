@@ -1,0 +1,7 @@
+{
+    "name": "expedite",
+    "description": "Consequatur perspiciatis fugiat distinctio suscipit et ea nesciunt molestiae neque.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

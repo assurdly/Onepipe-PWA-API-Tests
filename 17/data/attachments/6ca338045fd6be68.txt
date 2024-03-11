@@ -1,0 +1,6 @@
+{
+    "name": "SQL Role",
+    "description": "Global",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

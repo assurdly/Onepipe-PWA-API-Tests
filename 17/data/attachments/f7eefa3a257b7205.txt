@@ -1,0 +1,9 @@
+{
+    "first_name": "Amparo",
+    "last_name": "Graham",
+    "phone_number": "07011725297",
+    "company_name": "King Norberto LTD",
+    "rc_number": "3616989770",
+    "email": "Nathanael@mailinator.com",
+    "password": "Tester@12"
+}

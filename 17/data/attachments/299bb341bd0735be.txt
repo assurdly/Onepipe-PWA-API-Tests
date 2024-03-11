@@ -1,0 +1,6 @@
+{
+    "name": "Platinum Role",
+    "description": "Omnis et voluptas.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

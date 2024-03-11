@@ -1,0 +1,6 @@
+{
+    "name": "holistic Role",
+    "description": "Ratione dolorem a facere autem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

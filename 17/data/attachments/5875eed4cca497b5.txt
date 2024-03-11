@@ -1,0 +1,9 @@
+{
+    "first_name": "Rylee",
+    "last_name": "McCullough",
+    "phone_number": "07011er4569",
+    "company_name": "O'Hara Manuel LTD",
+    "rc_number": "7865381400",
+    "email": "Bertram@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Maria",
+    "last_name": "Gutkowski",
+    "phone_number": "07011725297",
+    "company_name": "Bartoletti Isabelle LTD",
+    "rc_number": "RC1111111",
+    "email": "Antonio@mailinator.com",
+    "password": "Teste"
+}

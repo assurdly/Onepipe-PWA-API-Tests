@@ -1,0 +1,9 @@
+{
+    "first_name": "Tomasa",
+    "last_name": "Beatty",
+    "phone_number": "07011725297",
+    "company_name": "Cormier Libby LTD",
+    "rc_number": "1805984382",
+    "email": "Paris@mailinator.com",
+    "password": "Tester@12"
+}

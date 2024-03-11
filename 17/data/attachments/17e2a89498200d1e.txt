@@ -1,0 +1,7 @@
+{
+    "name": "discrete",
+    "description": "Aut omnis error nesciunt temporibus voluptatem nam.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "AGP Role",
+    "description": "Dolores quod ad.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

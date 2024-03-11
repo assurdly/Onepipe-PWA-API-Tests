@@ -1,0 +1,9 @@
+{
+    "first_name": "Sandra",
+    "last_name": "Sauer",
+    "phone_number": "07011er4569",
+    "company_name": "Harris Jeramie LTD",
+    "rc_number": "4696838132",
+    "email": "Eduardo@mailinator.com",
+    "password": "Tester@12"
+}

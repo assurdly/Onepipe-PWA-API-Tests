@@ -1,0 +1,9 @@
+{
+    "first_name": "Demario",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Jacobson Trey LTD",
+    "rc_number": "RC1111110",
+    "email": "Jaron@mailinator.com",
+    "password": "Tester@12"
+}

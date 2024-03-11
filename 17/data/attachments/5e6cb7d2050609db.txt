@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Wilkinson",
+    "phone_number": "07011725297",
+    "company_name": "Nicolas Cleora LTD",
+    "rc_number": "RC1111111",
+    "email": "Braeden@mailinator.com",
+    "password": ""
+}

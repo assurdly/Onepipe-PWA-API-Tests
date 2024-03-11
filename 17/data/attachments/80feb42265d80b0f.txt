@@ -1,0 +1,9 @@
+{
+    "first_name": "Upton",
+    "last_name": "Jacobson",
+    "phone_number": "",
+    "company_name": "Schaefer Melody LTD",
+    "rc_number": "RC1111111",
+    "email": "Nellie@mailinator.com",
+    "password": "Tester@12"
+}

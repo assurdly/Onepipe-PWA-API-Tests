@@ -1,0 +1,9 @@
+{
+    "first_name": "Ena",
+    "last_name": "Wisozk",
+    "phone_number": "07011725297",
+    "company_name": "Rosenbaum Verdie LTD",
+    "rc_number": "6001309352",
+    "email": "Tod@mailinator.com",
+    "password": "Tester@12"
+}

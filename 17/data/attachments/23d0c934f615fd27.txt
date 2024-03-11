@@ -1,0 +1,7 @@
+{
+    "name": "Credit",
+    "description": "Natus iste aperiam qui eum consequatur odit quo.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

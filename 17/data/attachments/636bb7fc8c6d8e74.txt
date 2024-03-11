@@ -1,0 +1,9 @@
+{
+    "first_name": "Kathryne",
+    "last_name": "Daniel",
+    "phone_number": "07011725297",
+    "company_name": "Ernser Adolfo LTD",
+    "rc_number": "RC1111111",
+    "email": "Zoila@mailinator.com",
+    "password": "Teste"
+}

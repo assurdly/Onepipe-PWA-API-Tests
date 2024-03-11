@@ -1,0 +1,9 @@
+{
+    "first_name": "Gislason",
+    "last_name": "Jacobi",
+    "phone_number": "",
+    "company_name": "Quigley Kaia LTD",
+    "rc_number": "RC1111111",
+    "email": "Adolfo@mailinator.com",
+    "password": "Tester@12"
+}

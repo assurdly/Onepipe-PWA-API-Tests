@@ -1,0 +1,9 @@
+{
+    "first_name": "Okuneva",
+    "last_name": "Cormier",
+    "phone_number": "",
+    "company_name": "Wolff Randy LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhoda@mailinator.com",
+    "password": "Tester@12"
+}

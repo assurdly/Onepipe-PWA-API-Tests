@@ -1,0 +1,6 @@
+{
+    "name": "eco-centric Role",
+    "description": "National",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Lane",
+    "last_name": "Simonis",
+    "phone_number": "07011725297",
+    "company_name": "Kiehn Jeromy LTD",
+    "rc_number": "RC1111111",
+    "email": "Aliya@mailinator",
+    "password": "Tester@12"
+}

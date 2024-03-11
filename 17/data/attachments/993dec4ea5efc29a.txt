@@ -1,0 +1,7 @@
+{
+    "name": "forecast",
+    "description": "Sed autem sunt hic et qui vero provident minima.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

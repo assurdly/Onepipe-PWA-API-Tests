@@ -1,0 +1,9 @@
+{
+    "first_name": "Taryn",
+    "last_name": "Mertz",
+    "phone_number": "07011725297",
+    "company_name": "Dooley Gillian LTD",
+    "rc_number": "9311757571",
+    "email": "Lane@mailinator.com",
+    "password": "Tester@12"
+}

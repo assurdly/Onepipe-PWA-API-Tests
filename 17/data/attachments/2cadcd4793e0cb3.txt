@@ -1,0 +1,9 @@
+{
+    "first_name": "Kaci",
+    "last_name": "Kilback",
+    "phone_number": "07011",
+    "company_name": "Lynch Sally LTD",
+    "rc_number": "RC1111111",
+    "email": "Jeanne@mailinator.com",
+    "password": "Tester@12"
+}

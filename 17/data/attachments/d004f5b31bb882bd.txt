@@ -1,0 +1,9 @@
+{
+    "first_name": "Augustus",
+    "last_name": "Hudson",
+    "phone_number": "234701172529700",
+    "company_name": "Raynor Adrianna LTD",
+    "rc_number": "RC1111111",
+    "email": "Presley@mailinator.com",
+    "password": "Tester@12"
+}

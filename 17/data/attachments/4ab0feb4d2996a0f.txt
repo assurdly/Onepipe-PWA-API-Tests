@@ -1,0 +1,9 @@
+{
+    "first_name": "Yesenia",
+    "last_name": "Braun",
+    "phone_number": "07011er4569",
+    "company_name": "Bartoletti Cale LTD",
+    "rc_number": "9512734526",
+    "email": "Jackie@mailinator.com",
+    "password": "Tester@12"
+}

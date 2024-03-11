@@ -1,0 +1,9 @@
+{
+    "first_name": "Tremaine",
+    "last_name": "Torphy",
+    "phone_number": "07011",
+    "company_name": "Glover Mariam LTD",
+    "rc_number": "RC1111111",
+    "email": "Alfreda@mailinator.com",
+    "password": "Tester@12"
+}

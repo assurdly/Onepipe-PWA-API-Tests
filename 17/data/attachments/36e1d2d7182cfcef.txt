@@ -1,0 +1,9 @@
+{
+    "first_name": "Otto",
+    "last_name": "Crist",
+    "phone_number": "07011er4569",
+    "company_name": "Gleichner Meaghan LTD",
+    "rc_number": "7582013044",
+    "email": "Madilyn@mailinator.com",
+    "password": "Tester@12"
+}

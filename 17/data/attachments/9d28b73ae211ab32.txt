@@ -1,0 +1,7 @@
+{
+    "name": "e-tailers",
+    "description": "Placeat aut a tenetur numquam corrupti quae dolorum rerum ut.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

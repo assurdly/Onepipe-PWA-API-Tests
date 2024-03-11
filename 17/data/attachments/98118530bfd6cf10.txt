@@ -1,0 +1,6 @@
+{
+    "name": "Optimization Role",
+    "description": "Suscipit aut aut molestias veniam provident sint est quo saepe.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

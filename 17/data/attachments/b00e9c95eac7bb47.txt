@@ -1,0 +1,9 @@
+{
+    "first_name": "Pagac",
+    "last_name": "Roberts",
+    "phone_number": "",
+    "company_name": "Kling Micheal LTD",
+    "rc_number": "RC1111111",
+    "email": "Floy@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Shanna",
+    "last_name": "Huel",
+    "phone_number": "07011725297",
+    "company_name": "Schulist Lyda LTD",
+    "rc_number": "8659478557",
+    "email": "Gerardo@mailinator.com",
+    "password": "Tester@12"
+}

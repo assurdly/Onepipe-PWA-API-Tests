@@ -1,0 +1,9 @@
+{
+    "first_name": "Trever",
+    "last_name": "Quitzon",
+    "phone_number": "07011725297",
+    "company_name": "Hoppe Colt LTD",
+    "rc_number": "4529118665",
+    "email": "Abby@mailinator.com",
+    "password": "Tester@12"
+}

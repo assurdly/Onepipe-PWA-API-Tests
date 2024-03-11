@@ -1,0 +1,9 @@
+{
+    "first_name": "Kub",
+    "last_name": "Ferry",
+    "phone_number": "",
+    "company_name": "Smith Isaiah LTD",
+    "rc_number": "RC1111111",
+    "email": "Jada@mailinator.com",
+    "password": "Tester@12"
+}

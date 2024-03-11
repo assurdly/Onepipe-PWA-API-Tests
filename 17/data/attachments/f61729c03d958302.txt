@@ -1,0 +1,9 @@
+{
+    "first_name": "Hilll",
+    "last_name": "Friesen",
+    "phone_number": "",
+    "company_name": "Littel Augustus LTD",
+    "rc_number": "RC1111111",
+    "email": "Liliana@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,4 @@
+{
+    "status": "inactive",
+    "token": "000000"
+}

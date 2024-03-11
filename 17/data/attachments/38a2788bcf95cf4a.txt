@@ -1,0 +1,9 @@
+{
+    "first_name": "Herman",
+    "last_name": "Berge",
+    "phone_number": "07011725297",
+    "company_name": "Baumbach Raul LTD",
+    "rc_number": "9328035176",
+    "email": "Michel@mailinator.com",
+    "password": "Tester@12"
+}

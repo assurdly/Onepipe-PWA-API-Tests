@@ -1,0 +1,9 @@
+{
+    "first_name": "Jefferey",
+    "last_name": "Kuhn",
+    "phone_number": "07011725297",
+    "company_name": "Jast Rafaela LTD",
+    "rc_number": "453208516",
+    "email": "Gennaro@mailinator.com",
+    "password": "Tester@12"
+}

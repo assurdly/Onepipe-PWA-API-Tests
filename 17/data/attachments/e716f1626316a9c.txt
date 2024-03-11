@@ -1,0 +1,9 @@
+{
+    "first_name": "Clarabelle",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Bergstrom Ernestine LTD",
+    "rc_number": "RC1111110",
+    "email": "Adella@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Horace",
+    "last_name": "Emard",
+    "phone_number": "07011er4569",
+    "company_name": "Schuster Raven LTD",
+    "rc_number": "2817424219",
+    "email": "Franco@mailinator.com",
+    "password": "Tester@12"
+}

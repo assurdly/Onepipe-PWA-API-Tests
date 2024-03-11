@@ -1,0 +1,9 @@
+{
+    "first_name": "Shany",
+    "last_name": "Lueilwitz",
+    "phone_number": "07011725297",
+    "company_name": "Smitham Randal LTD",
+    "rc_number": "7727770569",
+    "email": "Shanna@mailinator.com",
+    "password": "Tester@12"
+}

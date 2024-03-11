@@ -1,0 +1,9 @@
+{
+    "first_name": "Florence",
+    "last_name": "Dickinson",
+    "phone_number": "07011725297",
+    "company_name": "Gerlach Natalia LTD",
+    "rc_number": "RC1111111",
+    "email": "Maxime@mailinator.com",
+    "password": "Teste"
+}

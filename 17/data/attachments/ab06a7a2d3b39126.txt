@@ -1,0 +1,9 @@
+{
+    "first_name": "Emily",
+    "last_name": "Gaylord",
+    "phone_number": "07011725297",
+    "company_name": "McKenzie Estelle LTD",
+    "rc_number": "9374344026",
+    "email": "Hilbert@mailinator.com",
+    "password": "Tester@12"
+}

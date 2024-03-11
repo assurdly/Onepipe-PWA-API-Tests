@@ -1,0 +1,9 @@
+{
+    "first_name": "Elmo",
+    "last_name": "Witting",
+    "phone_number": "07011725297",
+    "company_name": "Jakubowski Consuelo LTD",
+    "rc_number": "RC1111111",
+    "email": "Josefa@mailinator",
+    "password": "Tester@12"
+}

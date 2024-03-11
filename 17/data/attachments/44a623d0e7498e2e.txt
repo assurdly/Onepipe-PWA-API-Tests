@@ -1,0 +1,9 @@
+{
+    "first_name": "Armand",
+    "last_name": "Gislason",
+    "phone_number": "07011725297",
+    "company_name": "Ritchie Dino LTD",
+    "rc_number": "6905668757",
+    "email": "Krystina@mailinator.com",
+    "password": "Tester@12"
+}

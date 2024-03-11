@@ -1,0 +1,6 @@
+{
+    "name": "Loan Role",
+    "description": "Customer",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

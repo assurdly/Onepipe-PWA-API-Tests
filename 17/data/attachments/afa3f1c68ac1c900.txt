@@ -1,0 +1,9 @@
+{
+    "first_name": "Lulu",
+    "last_name": "Cruickshank",
+    "phone_number": "07011725297",
+    "company_name": "Ahmad Breitenberg LTD",
+    "rc_number": "",
+    "email": "Garry@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Kane",
+    "last_name": "Champlin",
+    "phone_number": "07011",
+    "company_name": "Graham Palma LTD",
+    "rc_number": "RC1111111",
+    "email": "Dolores@mailinator.com",
+    "password": "Tester@12"
+}

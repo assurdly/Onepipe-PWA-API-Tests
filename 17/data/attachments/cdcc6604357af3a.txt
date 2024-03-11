@@ -1,0 +1,6 @@
+{
+    "name": "unleash Role",
+    "description": "Ut officiis et doloribus qui non.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

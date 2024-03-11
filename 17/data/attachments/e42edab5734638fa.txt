@@ -1,0 +1,9 @@
+{
+    "first_name": "Aida",
+    "last_name": "Jacobson",
+    "phone_number": "07011725297",
+    "company_name": "Lowe Candido LTD",
+    "rc_number": "RC1111111",
+    "email": "Jacinto@mailinator",
+    "password": "Tester@12"
+}

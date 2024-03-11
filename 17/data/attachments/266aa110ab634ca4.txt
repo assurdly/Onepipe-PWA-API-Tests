@@ -1,0 +1,9 @@
+{
+    "first_name": "Solon",
+    "last_name": "Haag",
+    "phone_number": "07011725297",
+    "company_name": "Lowe Darlene LTD",
+    "rc_number": "7316592870",
+    "email": "Dawson@mailinator.com",
+    "password": "Tester@12"
+}

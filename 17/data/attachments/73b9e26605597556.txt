@@ -1,0 +1,9 @@
+{
+    "first_name": "Paula",
+    "last_name": "Funk",
+    "phone_number": "234701172529700",
+    "company_name": "Kautzer Quinn LTD",
+    "rc_number": "RC1111111",
+    "email": "Jamir@mailinator.com",
+    "password": "Tester@12"
+}

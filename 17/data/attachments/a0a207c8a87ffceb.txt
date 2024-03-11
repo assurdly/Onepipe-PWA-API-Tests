@@ -1,0 +1,9 @@
+{
+    "first_name": "Chelsea",
+    "last_name": "Legros",
+    "phone_number": "07011725297",
+    "company_name": "Sandrine Kunde LTD",
+    "rc_number": "",
+    "email": "Jacklyn@mailinator.com",
+    "password": "Tester@12"
+}

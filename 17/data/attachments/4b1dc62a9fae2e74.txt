@@ -1,0 +1,9 @@
+{
+    "first_name": "Angie",
+    "last_name": "Ferry",
+    "phone_number": "07011725297",
+    "company_name": "Dibbert Edna LTD",
+    "rc_number": "8307162347",
+    "email": "Ian@mailinator.com",
+    "password": "Tester@12"
+}

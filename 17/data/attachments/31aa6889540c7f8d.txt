@@ -1,0 +1,9 @@
+{
+    "first_name": "Antonietta",
+    "last_name": "Stroman",
+    "phone_number": "07011725297",
+    "company_name": "Kris Brigitte LTD",
+    "rc_number": "RC1111111",
+    "email": "Kristopher@mailinator.com",
+    "password": "Teste"
+}

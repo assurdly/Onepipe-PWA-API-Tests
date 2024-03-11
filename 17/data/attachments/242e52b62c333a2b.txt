@@ -1,0 +1,9 @@
+{
+    "first_name": "Wade",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Rolfson Nola LTD",
+    "rc_number": "RC1111110",
+    "email": "Nathan@mailinator.com",
+    "password": "Tester@12"
+}

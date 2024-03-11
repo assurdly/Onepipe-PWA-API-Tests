@@ -1,0 +1,9 @@
+{
+    "first_name": "Jane",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Jenkins Ibrahim LTD",
+    "rc_number": "RC1111110",
+    "email": "Abelardo@mailinator.com",
+    "password": "Tester@12"
+}

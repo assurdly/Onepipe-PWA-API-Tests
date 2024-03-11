@@ -1,0 +1,9 @@
+{
+    "first_name": "Cassie",
+    "last_name": "Robel",
+    "phone_number": "07011725297",
+    "company_name": "Goldner Allen LTD",
+    "rc_number": "RC1111111",
+    "email": "Cecil@mailinator",
+    "password": "Tester@12"
+}

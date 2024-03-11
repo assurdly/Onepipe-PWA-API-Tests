@@ -1,0 +1,9 @@
+{
+    "first_name": "Jodie",
+    "last_name": "Rempel",
+    "phone_number": "07011",
+    "company_name": "Lakin Meghan LTD",
+    "rc_number": "RC1111111",
+    "email": "Kale@mailinator.com",
+    "password": "Tester@12"
+}

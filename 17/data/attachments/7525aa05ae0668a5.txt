@@ -1,0 +1,9 @@
+{
+    "first_name": "Lorenza",
+    "last_name": "Nolan",
+    "phone_number": "07011725297",
+    "company_name": "Hackett Adrain LTD",
+    "rc_number": "9490913045",
+    "email": "Rosalee@mailinator.com",
+    "password": "Tester@12"
+}

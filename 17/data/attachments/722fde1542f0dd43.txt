@@ -1,0 +1,9 @@
+{
+    "first_name": "Brandy",
+    "last_name": "Moore",
+    "phone_number": "07011725297",
+    "company_name": "Johns Charley LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

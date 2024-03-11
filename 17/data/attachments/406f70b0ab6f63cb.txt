@@ -1,0 +1,6 @@
+{
+    "name": "Port Role",
+    "description": "Minima iusto et quia magnam placeat quam accusantium qui officia.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

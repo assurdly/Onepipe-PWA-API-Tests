@@ -1,0 +1,9 @@
+{
+    "first_name": "Jeanette",
+    "last_name": "Marquardt",
+    "phone_number": "07011725297",
+    "company_name": "Myah Langosh LTD",
+    "rc_number": "",
+    "email": "Ellsworth@mailinator.com",
+    "password": "Tester@12"
+}

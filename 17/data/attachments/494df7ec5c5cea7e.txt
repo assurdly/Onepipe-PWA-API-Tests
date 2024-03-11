@@ -1,0 +1,9 @@
+{
+    "first_name": "Mayer",
+    "last_name": "Gorczany",
+    "phone_number": "",
+    "company_name": "Conroy Kirstin LTD",
+    "rc_number": "RC1111111",
+    "email": "Birdie@mailinator.com",
+    "password": "Tester@12"
+}

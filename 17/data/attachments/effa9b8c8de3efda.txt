@@ -1,0 +1,9 @@
+{
+    "first_name": "Terry",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Abbott Audrey LTD",
+    "rc_number": "RC1111110",
+    "email": "Ismael@mailinator.com",
+    "password": "Tester@12"
+}

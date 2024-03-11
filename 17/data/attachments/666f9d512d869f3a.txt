@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Stamm",
+    "phone_number": "07011725297",
+    "company_name": "Abshire Katlynn LTD",
+    "rc_number": "RC1111111",
+    "email": "Chance@mailinator.com",
+    "password": "Tester@12"
+}

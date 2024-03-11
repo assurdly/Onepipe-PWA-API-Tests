@@ -1,0 +1,9 @@
+{
+    "first_name": "Manuela",
+    "last_name": "Berge",
+    "phone_number": "07011725297",
+    "company_name": "Mitchell Colten LTD",
+    "rc_number": "RC1111111",
+    "email": "Jared@mailinator.com",
+    "password": "Teste"
+}

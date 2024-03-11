@@ -1,0 +1,7 @@
+{
+    "name": "Plastic",
+    "description": "Cumque architecto optio itaque ipsum facere quas minus minima.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

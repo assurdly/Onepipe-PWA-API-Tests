@@ -1,0 +1,9 @@
+{
+    "first_name": "Elwyn",
+    "last_name": "Leuschke",
+    "phone_number": "07011725297",
+    "company_name": "Stanton Deontae LTD",
+    "rc_number": "2756461363",
+    "email": "Julius@mailinator.com",
+    "password": "Tester@12"
+}

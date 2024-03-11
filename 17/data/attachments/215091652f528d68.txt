@@ -1,0 +1,9 @@
+{
+    "first_name": "Hubert",
+    "last_name": "Stokes",
+    "phone_number": "07011",
+    "company_name": "Johns Cristal LTD",
+    "rc_number": "RC1111111",
+    "email": "Aniya@mailinator.com",
+    "password": "Tester@12"
+}

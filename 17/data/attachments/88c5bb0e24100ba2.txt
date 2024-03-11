@@ -1,0 +1,9 @@
+{
+    "first_name": "Michael",
+    "last_name": "Senger",
+    "phone_number": "07011",
+    "company_name": "Stracke Rory LTD",
+    "rc_number": "RC1111111",
+    "email": "Janet@mailinator.com",
+    "password": "Tester@12"
+}

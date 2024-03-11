@@ -1,0 +1,6 @@
+{
+    "name": "monetize Role",
+    "description": "Ipsa aspernatur modi corrupti exercitationem ea tenetur nostrum voluptatem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

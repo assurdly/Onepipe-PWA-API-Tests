@@ -1,0 +1,6 @@
+{
+    "name": "microchip Role",
+    "description": "Vitae dolor unde rerum enim quia.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

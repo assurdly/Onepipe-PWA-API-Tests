@@ -1,0 +1,7 @@
+{
+    "name": "Rubber",
+    "description": "Facere atque provident a ut accusamus distinctio magnam autem.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

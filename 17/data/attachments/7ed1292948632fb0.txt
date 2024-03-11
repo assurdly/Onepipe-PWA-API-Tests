@@ -1,0 +1,6 @@
+{
+    "name": "Music Role",
+    "description": "Repellendus omnis quia nam quo dolor voluptas aliquam tempore.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Marcia",
+    "last_name": "O'Connell",
+    "phone_number": "07011725297",
+    "company_name": "Windler Myah LTD",
+    "rc_number": "4570090862",
+    "email": "Lawson@mailinator.com",
+    "password": "Tester@12"
+}

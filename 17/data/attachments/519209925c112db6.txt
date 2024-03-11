@@ -1,0 +1,9 @@
+{
+    "first_name": "Russ",
+    "last_name": "Hilpert",
+    "phone_number": "07011725297",
+    "company_name": "Alexanne Fay LTD",
+    "rc_number": "",
+    "email": "Beryl@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Melisa",
+    "last_name": "Cremin",
+    "phone_number": "07011",
+    "company_name": "Olson Leanne LTD",
+    "rc_number": "RC1111111",
+    "email": "Barton@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Vergie",
+    "last_name": "Runolfsdottir",
+    "phone_number": "07011725297",
+    "company_name": "Mayer Patience LTD",
+    "rc_number": "RC1111111",
+    "email": "Arnaldo@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Evan",
+    "last_name": "Weissnat",
+    "phone_number": "07011er4569",
+    "company_name": "Nicolas Alfreda LTD",
+    "rc_number": "4008872644",
+    "email": "Orin@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Joey",
+    "last_name": "Lesch",
+    "phone_number": "234701172529700",
+    "company_name": "Schulist Claudie LTD",
+    "rc_number": "RC1111111",
+    "email": "Thora@mailinator.com",
+    "password": "Tester@12"
+}

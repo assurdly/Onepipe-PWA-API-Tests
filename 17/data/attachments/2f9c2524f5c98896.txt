@@ -1,0 +1,6 @@
+{
+    "name": "Practical Role",
+    "description": "Eveniet dolore sed voluptatem et et eius aliquam natus velit.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
