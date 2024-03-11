@@ -54433,9 +54433,8 @@
 											],
 											"variable": [
 												{
-													"id": "17ceb22e-db5a-44a2-9ed8-596c3bd11262",
 													"key": "subscription_id",
-													"value": ""
+													"value": "{{subscriptionId}}"
 												}
 											]
 										}
