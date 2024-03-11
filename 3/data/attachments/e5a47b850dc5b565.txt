@@ -1,0 +1,6 @@
+{
+    "name": "India Role",
+    "description": "Qui minima optio quisquam magnam enim labore.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
