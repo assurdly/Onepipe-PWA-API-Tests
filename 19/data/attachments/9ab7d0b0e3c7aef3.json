@@ -1,0 +1,11 @@
+{
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidHlwZSI6ImF1dGgiLCJpYXQiOjE3MTAxMzI4OTQsImV4cCI6MTcxMDEzNjQ5NH0.mIcWH6kwZHykOkO-ndZkYuKMDBuYIsIDm3hyVaGHT7Y",
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.36.3",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "51e45c78-e41e-497c-b1cb-56b272005455",
+    "Host": "{{base_url_v1}}",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "impactful Role",
+    "description": "Natus iure molestiae similique inventore.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

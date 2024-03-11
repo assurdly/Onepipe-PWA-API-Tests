@@ -1,0 +1,9 @@
+{
+    "first_name": "Destiny",
+    "last_name": "Maggio",
+    "phone_number": "07011725297",
+    "company_name": "Cristian Stokes LTD",
+    "rc_number": "",
+    "email": "Kellie@mailinator.com",
+    "password": "Tester@12"
+}

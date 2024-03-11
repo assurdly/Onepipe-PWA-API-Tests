@@ -1,0 +1,9 @@
+{
+    "first_name": "Estella",
+    "last_name": "Altenwerth",
+    "phone_number": "07011725297",
+    "company_name": "Sheridan Langosh LTD",
+    "rc_number": "",
+    "email": "Breana@mailinator.com",
+    "password": "Tester@12"
+}

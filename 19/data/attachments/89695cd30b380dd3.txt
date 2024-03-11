@@ -1,0 +1,7 @@
+{
+    "name": "virtual",
+    "description": "Perspiciatis in ducimus ut rerum quo molestiae minus quis sed.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

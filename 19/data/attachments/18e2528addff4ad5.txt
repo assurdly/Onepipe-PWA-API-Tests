@@ -1,0 +1,9 @@
+{
+    "first_name": "Kiley",
+    "last_name": "Heller",
+    "phone_number": "07011725297",
+    "company_name": "Conn Eldora LTD",
+    "rc_number": "RC1111111",
+    "email": "Jaeden@mailinator",
+    "password": "Tester@12"
+}

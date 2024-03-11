@@ -1,0 +1,9 @@
+{
+    "first_name": "Beth",
+    "last_name": "Hoeger",
+    "phone_number": "07011725297",
+    "company_name": "Hilpert Nickolas LTD",
+    "rc_number": "RC1111111",
+    "email": "Johnny@mailinator.com",
+    "password": "Teste"
+}

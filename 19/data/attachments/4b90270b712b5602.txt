@@ -1,0 +1,9 @@
+{
+    "first_name": "Bennett",
+    "last_name": "Wisozk",
+    "phone_number": "07011725297",
+    "company_name": "Buckridge Soledad LTD",
+    "rc_number": "RC1111111",
+    "email": "Malvina@mailinator.com",
+    "password": "Teste"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Athena",
+    "last_name": "Hermiston",
+    "phone_number": "07011er4569",
+    "company_name": "Steuber Bettie LTD",
+    "rc_number": "6528476374",
+    "email": "Adelia@mailinator.com",
+    "password": "Tester@12"
+}

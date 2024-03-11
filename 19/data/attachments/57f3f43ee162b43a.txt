@@ -1,0 +1,9 @@
+{
+    "first_name": "Wilton",
+    "last_name": "Bashirian",
+    "phone_number": "07011",
+    "company_name": "Okuneva Darius LTD",
+    "rc_number": "RC1111111",
+    "email": "Oleta@mailinator.com",
+    "password": "Tester@12"
+}

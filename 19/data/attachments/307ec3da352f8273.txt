@@ -1,0 +1,9 @@
+{
+    "first_name": "Judy",
+    "last_name": "Willms",
+    "phone_number": "07011725297",
+    "company_name": "Kuvalis Queen LTD",
+    "rc_number": "7091442660",
+    "email": "Ola@mailinator.com",
+    "password": "Tester@12"
+}

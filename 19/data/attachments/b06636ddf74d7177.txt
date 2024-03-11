@@ -1,0 +1,9 @@
+{
+    "first_name": "Jaron",
+    "last_name": "Wisozk",
+    "phone_number": "07011er4569",
+    "company_name": "O'Reilly Elton LTD",
+    "rc_number": "2225761939",
+    "email": "Chanelle@mailinator.com",
+    "password": "Tester@12"
+}

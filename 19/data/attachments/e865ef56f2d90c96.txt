@@ -1,0 +1,9 @@
+{
+    "first_name": "Lee",
+    "last_name": "Larson",
+    "phone_number": "07011725297",
+    "company_name": "Nienow Breana LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

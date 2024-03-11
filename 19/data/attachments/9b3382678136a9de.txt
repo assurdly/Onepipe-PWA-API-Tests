@@ -1,0 +1,6 @@
+{
+    "name": "SMTP Role",
+    "description": "Future",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

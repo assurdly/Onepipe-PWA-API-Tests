@@ -1,0 +1,9 @@
+{
+    "first_name": "Keely",
+    "last_name": "Brekke",
+    "phone_number": "07011725297",
+    "company_name": "Feest Magali LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

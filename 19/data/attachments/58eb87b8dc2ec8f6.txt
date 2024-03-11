@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Cormier",
+    "phone_number": "07011725297",
+    "company_name": "Goldner Domenic LTD",
+    "rc_number": "RC1111111",
+    "email": "Aniya@mailinator.com",
+    "password": ""
+}

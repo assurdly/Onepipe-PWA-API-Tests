@@ -1,0 +1,9 @@
+{
+    "first_name": "Murazik",
+    "last_name": "Ratke",
+    "phone_number": "",
+    "company_name": "Cronin Chaz LTD",
+    "rc_number": "RC1111111",
+    "email": "Berniece@mailinator.com",
+    "password": "Tester@12"
+}

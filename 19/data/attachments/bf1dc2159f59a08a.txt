@@ -1,0 +1,9 @@
+{
+    "first_name": "Derek",
+    "last_name": "Parker",
+    "phone_number": "07011725297",
+    "company_name": "Mraz Ernest LTD",
+    "rc_number": "7288116197",
+    "email": "Joey@mailinator.com",
+    "password": "Tester@12"
+}

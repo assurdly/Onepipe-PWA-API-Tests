@@ -1,0 +1,9 @@
+{
+    "first_name": "Lexus",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Larkin Samson LTD",
+    "rc_number": "RC1111110",
+    "email": "Mya@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Credit Role",
+    "description": "Product",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Table Role",
+    "description": "Ut nemo odit fugit quis occaecati quaerat rem excepturi voluptatem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

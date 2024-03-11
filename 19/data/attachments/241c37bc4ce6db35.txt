@@ -1,0 +1,9 @@
+{
+    "first_name": "Myrtis",
+    "last_name": "Doyle",
+    "phone_number": "07011er4569",
+    "company_name": "Casper Stacey LTD",
+    "rc_number": "3804279447",
+    "email": "Efren@mailinator.com",
+    "password": "Tester@12"
+}

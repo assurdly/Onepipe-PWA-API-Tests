@@ -1,0 +1,9 @@
+{
+    "first_name": "Irwin",
+    "last_name": "Rowe",
+    "phone_number": "07011725297",
+    "company_name": "Smitham Bertha LTD",
+    "rc_number": "7862736577",
+    "email": "Myrtice@mailinator.com",
+    "password": "Tester@12"
+}

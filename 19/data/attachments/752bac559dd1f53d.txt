@@ -1,0 +1,9 @@
+{
+    "first_name": "Alf",
+    "last_name": "Kassulke",
+    "phone_number": "234701172529700",
+    "company_name": "Pagac Noemy LTD",
+    "rc_number": "RC1111111",
+    "email": "Tyler@mailinator.com",
+    "password": "Tester@12"
+}

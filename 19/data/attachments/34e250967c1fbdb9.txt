@@ -1,0 +1,9 @@
+{
+    "first_name": "Gillian",
+    "last_name": "Maggio",
+    "phone_number": "07011725297",
+    "company_name": "Lang Lamont LTD",
+    "rc_number": "RC1111111",
+    "email": "Nora@mailinator.com",
+    "password": "Teste"
+}

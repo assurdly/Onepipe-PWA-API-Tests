@@ -1,0 +1,9 @@
+{
+    "first_name": "Barry",
+    "last_name": "Stiedemann",
+    "phone_number": "07011725297",
+    "company_name": "Gleason Keaton LTD",
+    "rc_number": "4378811212",
+    "email": "Lexie@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "River Role",
+    "description": "Tenetur hic sequi enim aut nam ullam nihil eos.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

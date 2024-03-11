@@ -1,0 +1,9 @@
+{
+    "first_name": "Herminia",
+    "last_name": "Hyatt",
+    "phone_number": "07011725297",
+    "company_name": "Gutkowski Kelsie LTD",
+    "rc_number": "4705991943",
+    "email": "Lennie@mailinator.com",
+    "password": "Tester@12"
+}

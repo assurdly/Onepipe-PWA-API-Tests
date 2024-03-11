@@ -1,0 +1,9 @@
+{
+    "first_name": "Kyle",
+    "last_name": "Jones",
+    "phone_number": "07011725297",
+    "company_name": "Grady Lavada LTD",
+    "rc_number": "9286117536",
+    "email": "Nettie@mailinator.com",
+    "password": "Tester@12"
+}

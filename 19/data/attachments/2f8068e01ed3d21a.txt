@@ -1,0 +1,9 @@
+{
+    "first_name": "Westley",
+    "last_name": "Muller",
+    "phone_number": "07011725297",
+    "company_name": "Heidenreich Audie LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

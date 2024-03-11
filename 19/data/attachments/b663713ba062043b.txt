@@ -1,0 +1,9 @@
+{
+    "first_name": "Talia",
+    "last_name": "Gibson",
+    "phone_number": "07011",
+    "company_name": "Leannon Avis LTD",
+    "rc_number": "RC1111111",
+    "email": "Garrick@mailinator.com",
+    "password": "Tester@12"
+}

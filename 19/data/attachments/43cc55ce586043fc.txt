@@ -1,0 +1,9 @@
+{
+    "first_name": "Constantin",
+    "last_name": "Koelpin",
+    "phone_number": "234701172529700",
+    "company_name": "Kunde Brooks LTD",
+    "rc_number": "RC1111111",
+    "email": "Dawn@mailinator.com",
+    "password": "Tester@12"
+}

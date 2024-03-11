@@ -1,0 +1,9 @@
+{
+    "first_name": "Yundt",
+    "last_name": "Goyette",
+    "phone_number": "",
+    "company_name": "Fay Annie LTD",
+    "rc_number": "RC1111111",
+    "email": "Russell@mailinator.com",
+    "password": "Tester@12"
+}

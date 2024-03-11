@@ -1,0 +1,9 @@
+{
+    "first_name": "Angus",
+    "last_name": "Feeney",
+    "phone_number": "07011er4569",
+    "company_name": "D'Amore Richard LTD",
+    "rc_number": "6726333779",
+    "email": "Karlee@mailinator.com",
+    "password": "Tester@12"
+}

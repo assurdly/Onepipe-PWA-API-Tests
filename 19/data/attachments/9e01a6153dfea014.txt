@@ -1,0 +1,9 @@
+{
+    "first_name": "Freddy",
+    "last_name": "Gutmann",
+    "phone_number": "07011725297",
+    "company_name": "Hodkiewicz Barney LTD",
+    "rc_number": "RC1111111",
+    "email": "Ora@mailinator",
+    "password": "Tester@12"
+}

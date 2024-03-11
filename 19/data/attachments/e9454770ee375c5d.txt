@@ -1,0 +1,9 @@
+{
+    "first_name": "Javonte",
+    "last_name": "Schuster",
+    "phone_number": "07011725297",
+    "company_name": "Koss Florine LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

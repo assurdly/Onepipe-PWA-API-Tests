@@ -1,0 +1,6 @@
+{
+    "name": "Senior Role",
+    "description": "Rem ut aut repellendus amet autem velit.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

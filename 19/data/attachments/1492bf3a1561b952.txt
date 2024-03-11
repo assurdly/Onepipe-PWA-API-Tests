@@ -1,0 +1,9 @@
+{
+    "first_name": "Margarete",
+    "last_name": "Kshlerin",
+    "phone_number": "07011725297",
+    "company_name": "Misty Wyman LTD",
+    "rc_number": "",
+    "email": "Hazle@mailinator.com",
+    "password": "Tester@12"
+}

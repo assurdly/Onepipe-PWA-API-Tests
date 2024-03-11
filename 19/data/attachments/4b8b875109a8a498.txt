@@ -1,0 +1,9 @@
+{
+    "first_name": "Dorris",
+    "last_name": "Pouros",
+    "phone_number": "07011725297",
+    "company_name": "Lakin Ethel LTD",
+    "rc_number": "RC1111111",
+    "email": "Noemie@mailinator",
+    "password": "Tester@12"
+}

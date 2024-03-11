@@ -1,0 +1,9 @@
+{
+    "first_name": "Shany",
+    "last_name": "Considine",
+    "phone_number": "07011725297",
+    "company_name": "Madelyn Hills LTD",
+    "rc_number": "",
+    "email": "Mitchell@mailinator.com",
+    "password": "Tester@12"
+}

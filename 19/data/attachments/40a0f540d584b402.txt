@@ -1,0 +1,9 @@
+{
+    "first_name": "Hugh",
+    "last_name": "Stark",
+    "phone_number": "07011er4569",
+    "company_name": "Emmerich Hunter LTD",
+    "rc_number": "4841815760",
+    "email": "Idell@mailinator.com",
+    "password": "Tester@12"
+}

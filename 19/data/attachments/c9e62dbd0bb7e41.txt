@@ -1,0 +1,9 @@
+{
+    "first_name": "Marley",
+    "last_name": "Ritchie",
+    "phone_number": "07011725297",
+    "company_name": "Wiza Bradley LTD",
+    "rc_number": "RC1111111",
+    "email": "Vita@mailinator",
+    "password": "Tester@12"
+}

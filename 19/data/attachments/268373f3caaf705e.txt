@@ -1,0 +1,9 @@
+{
+    "first_name": "Kennedi",
+    "last_name": "Erdman",
+    "phone_number": "234701172529700",
+    "company_name": "Halvorson Dayne LTD",
+    "rc_number": "RC1111111",
+    "email": "Marshall@mailinator.com",
+    "password": "Tester@12"
+}

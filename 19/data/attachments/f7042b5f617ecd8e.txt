@@ -1,0 +1,9 @@
+{
+    "first_name": "Gay",
+    "last_name": "Funk",
+    "phone_number": "07011725297",
+    "company_name": "Emilia Friesen LTD",
+    "rc_number": "",
+    "email": "Lamont@mailinator.com",
+    "password": "Tester@12"
+}

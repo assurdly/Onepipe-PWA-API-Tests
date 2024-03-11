@@ -1,0 +1,9 @@
+{
+    "first_name": "Aniya",
+    "last_name": "Predovic",
+    "phone_number": "07011er4569",
+    "company_name": "Huel Jon LTD",
+    "rc_number": "4913029781",
+    "email": "Tevin@mailinator.com",
+    "password": "Tester@12"
+}

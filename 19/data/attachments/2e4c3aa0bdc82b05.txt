@@ -1,0 +1,9 @@
+{
+    "first_name": "Clemmie",
+    "last_name": "Donnelly",
+    "phone_number": "07011725297",
+    "company_name": "Wilderman Ronny LTD",
+    "rc_number": "RC1111111",
+    "email": "Thurman@mailinator",
+    "password": "Tester@12"
+}

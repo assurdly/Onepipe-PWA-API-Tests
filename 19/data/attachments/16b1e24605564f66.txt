@@ -1,0 +1,9 @@
+{
+    "first_name": "Matteo",
+    "last_name": "Schaefer",
+    "phone_number": "07011725297",
+    "company_name": "Kreiger Dave LTD",
+    "rc_number": "RC1111111",
+    "email": "Ruth@mailinator",
+    "password": "Tester@12"
+}

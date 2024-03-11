@@ -1,0 +1,6 @@
+{
+    "name": "Engineer Role",
+    "description": "Nihil autem id qui ipsa.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

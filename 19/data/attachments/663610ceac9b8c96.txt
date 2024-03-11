@@ -1,0 +1,9 @@
+{
+    "first_name": "Berniece",
+    "last_name": "Dare",
+    "phone_number": "07011725297",
+    "company_name": "Olson Jonathan LTD",
+    "rc_number": "1872606991",
+    "email": "Florian@mailinator.com",
+    "password": "Tester@12"
+}

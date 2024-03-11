@@ -1,0 +1,6 @@
+{
+    "name": "Auto Role",
+    "description": "Possimus rerum natus voluptates distinctio quis recusandae doloribus voluptas eveniet.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

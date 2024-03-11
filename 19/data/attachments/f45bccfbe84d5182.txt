@@ -1,0 +1,9 @@
+{
+    "first_name": "Genoveva",
+    "last_name": "Cassin",
+    "phone_number": "07011",
+    "company_name": "Veum Daisy LTD",
+    "rc_number": "RC1111111",
+    "email": "Howard@mailinator.com",
+    "password": "Tester@12"
+}

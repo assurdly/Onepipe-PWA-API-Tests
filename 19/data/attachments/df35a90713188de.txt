@@ -1,0 +1,9 @@
+{
+    "first_name": "Guiseppe",
+    "last_name": "Hermann",
+    "phone_number": "07011725297",
+    "company_name": "Padberg Leif LTD",
+    "rc_number": "RC1111111",
+    "email": "Laurie@mailinator.com",
+    "password": "Teste"
+}

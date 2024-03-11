@@ -1,0 +1,9 @@
+{
+    "first_name": "Victoria",
+    "last_name": "Hermiston",
+    "phone_number": "07011",
+    "company_name": "Barton Anabelle LTD",
+    "rc_number": "RC1111111",
+    "email": "Ray@mailinator.com",
+    "password": "Tester@12"
+}

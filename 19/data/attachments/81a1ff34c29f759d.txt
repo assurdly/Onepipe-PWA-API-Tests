@@ -1,0 +1,7 @@
+{
+    "name": "proactive",
+    "description": "Est atque accusamus dicta veniam quo voluptatem eum optio reiciendis.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

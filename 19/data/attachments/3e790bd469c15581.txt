@@ -1,0 +1,9 @@
+{
+    "first_name": "Lavern",
+    "last_name": "Zboncak",
+    "phone_number": "07011er4569",
+    "company_name": "Denesik Jerrold LTD",
+    "rc_number": "8394052260",
+    "email": "Rosella@mailinator.com",
+    "password": "Tester@12"
+}

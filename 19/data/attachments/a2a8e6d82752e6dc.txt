@@ -1,0 +1,6 @@
+{
+    "name": "Cambridgeshire Role",
+    "description": "Sunt excepturi est necessitatibus asperiores corrupti qui eligendi.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

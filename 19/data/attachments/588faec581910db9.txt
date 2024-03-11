@@ -1,0 +1,9 @@
+{
+    "first_name": "Braxton",
+    "last_name": "Rodriguez",
+    "phone_number": "07011725297",
+    "company_name": "Glover Billy LTD",
+    "rc_number": "1446415598",
+    "email": "Louisa@mailinator.com",
+    "password": "Tester@12"
+}

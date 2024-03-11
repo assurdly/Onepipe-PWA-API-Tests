@@ -1,0 +1,7 @@
+{
+    "name": "Wooden",
+    "description": "Laboriosam sed voluptas ut amet illo quae praesentium quod voluptas.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

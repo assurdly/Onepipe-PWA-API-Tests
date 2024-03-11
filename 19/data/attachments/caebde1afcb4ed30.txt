@@ -1,0 +1,9 @@
+{
+    "first_name": "Rodriguez",
+    "last_name": "Mayert",
+    "phone_number": "",
+    "company_name": "Strosin Iva LTD",
+    "rc_number": "RC1111111",
+    "email": "Imani@mailinator.com",
+    "password": "Tester@12"
+}

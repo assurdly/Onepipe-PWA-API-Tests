@@ -1,0 +1,6 @@
+{
+    "name": "intuitive Role",
+    "description": "Harum magnam ullam.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

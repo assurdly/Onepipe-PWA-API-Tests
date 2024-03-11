@@ -1,0 +1,9 @@
+{
+    "first_name": "Easton",
+    "last_name": "Berge",
+    "phone_number": "07011725297",
+    "company_name": "Larkin Abagail LTD",
+    "rc_number": "712648002",
+    "email": "Jerrell@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Josephine",
+    "last_name": "Wilderman",
+    "phone_number": "07011725297",
+    "company_name": "Fernando Cummings LTD",
+    "rc_number": "",
+    "email": "Mariana@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Cheese Role",
+    "description": "Investor",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

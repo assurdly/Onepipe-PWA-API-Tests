@@ -1,0 +1,9 @@
+{
+    "first_name": "Melody",
+    "last_name": "Rohan",
+    "phone_number": "07011725297",
+    "company_name": "Hegmann Joel LTD",
+    "rc_number": "RC1111111",
+    "email": "Stuart@mailinator.com",
+    "password": "Teste"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "HDD",
+    "description": "Voluptatem fugiat excepturi quisquam repellat voluptates ipsam velit repellat.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

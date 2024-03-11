@@ -1,0 +1,9 @@
+{
+    "first_name": "Borer",
+    "last_name": "Doyle",
+    "phone_number": "",
+    "company_name": "Monahan Ali LTD",
+    "rc_number": "RC1111111",
+    "email": "Sandra@mailinator.com",
+    "password": "Tester@12"
+}

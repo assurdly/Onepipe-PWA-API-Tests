@@ -1,0 +1,9 @@
+{
+    "first_name": "Mikayla",
+    "last_name": "Rau",
+    "phone_number": "07011725297",
+    "company_name": "Crona Domenica LTD",
+    "rc_number": "3449992666",
+    "email": "Cody@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Heathcote",
+    "phone_number": "07011725297",
+    "company_name": "Schamberger Jaime LTD",
+    "rc_number": "RC1111111",
+    "email": "Katelyn@mailinator.com",
+    "password": "Tester@12"
+}

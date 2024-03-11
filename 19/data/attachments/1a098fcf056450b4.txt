@@ -1,0 +1,9 @@
+{
+    "first_name": "Maybell",
+    "last_name": "Kerluke",
+    "phone_number": "07011",
+    "company_name": "Schuppe Maritza LTD",
+    "rc_number": "RC1111111",
+    "email": "Hobart@mailinator.com",
+    "password": "Tester@12"
+}

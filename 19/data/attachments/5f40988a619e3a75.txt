@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Jacobi",
+    "phone_number": "07011725297",
+    "company_name": "King Adrian LTD",
+    "rc_number": "RC1111111",
+    "email": "Berniece@mailinator.com",
+    "password": ""
+}

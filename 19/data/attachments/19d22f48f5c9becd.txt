@@ -1,0 +1,9 @@
+{
+    "first_name": "Cleta",
+    "last_name": "Koelpin",
+    "phone_number": "07011725297",
+    "company_name": "Petra Brekke LTD",
+    "rc_number": "",
+    "email": "Bethany@mailinator.com",
+    "password": "Tester@12"
+}

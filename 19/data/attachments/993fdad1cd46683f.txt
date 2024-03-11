@@ -1,0 +1,9 @@
+{
+    "first_name": "Houston",
+    "last_name": "Ryan",
+    "phone_number": "07011725297",
+    "company_name": "Terry Ettie LTD",
+    "rc_number": "5141211408",
+    "email": "Melissa@mailinator.com",
+    "password": "Tester@12"
+}

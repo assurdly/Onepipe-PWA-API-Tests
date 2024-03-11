@@ -1,0 +1,9 @@
+{
+    "first_name": "Farrell",
+    "last_name": "Gottlieb",
+    "phone_number": "",
+    "company_name": "Okuneva Camila LTD",
+    "rc_number": "RC1111111",
+    "email": "Horacio@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Bayer",
+    "last_name": "Bradtke",
+    "phone_number": "",
+    "company_name": "Vandervort Jairo LTD",
+    "rc_number": "RC1111111",
+    "email": "Alana@mailinator.com",
+    "password": "Tester@12"
+}

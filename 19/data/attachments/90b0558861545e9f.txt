@@ -1,0 +1,9 @@
+{
+    "first_name": "Giovani",
+    "last_name": "Botsford",
+    "phone_number": "07011725297",
+    "company_name": "Goodwin Brycen LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

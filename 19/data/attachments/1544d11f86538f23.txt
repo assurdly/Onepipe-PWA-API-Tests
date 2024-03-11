@@ -1,0 +1,9 @@
+{
+    "first_name": "Diamond",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Cole Tia LTD",
+    "rc_number": "RC1111110",
+    "email": "Micaela@mailinator.com",
+    "password": "Tester@12"
+}

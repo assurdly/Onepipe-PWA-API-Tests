@@ -1,0 +1,6 @@
+{
+    "name": "auxiliary Role",
+    "description": "Quisquam animi ut sint ducimus perspiciatis.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

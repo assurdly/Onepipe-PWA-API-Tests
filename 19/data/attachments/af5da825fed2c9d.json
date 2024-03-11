@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Basic NDQ1MzA1M2FlM2YwOWMxZTYzODQ0OTY3ZDQ5NTJhZGE6OTM0MDYxOTQ3MWJiZjNlNGMxZWU1MWZiMDAzMTE4MmEyMjU5NTQzNjkyNzQ0ZDA4MDEyOGIyMzBkZGQxNDY1MA==",
+    "User-Agent": "PostmanRuntime/7.36.3",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "a362f9dd-c2b5-4d2d-8563-bc0a95bf449d",
+    "Host": "dd-api.bits.dev.onepipe.io",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "477"
+}

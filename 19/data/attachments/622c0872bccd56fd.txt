@@ -1,0 +1,6 @@
+{
+    "name": "withdrawal Role",
+    "description": "Internal",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

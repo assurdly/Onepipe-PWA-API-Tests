@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Nicolas",
+    "phone_number": "07011725297",
+    "company_name": "Doyle Kurtis LTD",
+    "rc_number": "RC1111111",
+    "email": "Lavon@mailinator.com",
+    "password": ""
+}

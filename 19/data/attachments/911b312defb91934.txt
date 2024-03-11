@@ -1,0 +1,9 @@
+{
+    "first_name": "Brice",
+    "last_name": "Rowe",
+    "phone_number": "07011725297",
+    "company_name": "Kilback Clint LTD",
+    "rc_number": "8225608195",
+    "email": "Adell@mailinator.com",
+    "password": "Tester@12"
+}

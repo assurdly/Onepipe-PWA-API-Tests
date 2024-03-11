@@ -1,0 +1,9 @@
+{
+    "first_name": "Cordelia",
+    "last_name": "Schmidt",
+    "phone_number": "07011725297",
+    "company_name": "Junius Klocko LTD",
+    "rc_number": "",
+    "email": "Billy@mailinator.com",
+    "password": "Tester@12"
+}

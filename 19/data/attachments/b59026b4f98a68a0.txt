@@ -1,0 +1,6 @@
+{
+    "name": "Bedfordshire Role",
+    "description": "Chief",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

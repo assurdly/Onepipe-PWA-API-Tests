@@ -1,0 +1,7 @@
+{
+    "name": "Village",
+    "description": "Consequuntur delectus accusantium ipsum ut dolor similique.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

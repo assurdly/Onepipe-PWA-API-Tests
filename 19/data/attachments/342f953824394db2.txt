@@ -1,0 +1,9 @@
+{
+    "first_name": "Dare",
+    "last_name": "Gusikowski",
+    "phone_number": "",
+    "company_name": "Leuschke Fredy LTD",
+    "rc_number": "RC1111111",
+    "email": "Uriah@mailinator.com",
+    "password": "Tester@12"
+}

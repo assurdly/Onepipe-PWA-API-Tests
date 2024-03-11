@@ -1,0 +1,9 @@
+{
+    "first_name": "Bradtke",
+    "last_name": "Stoltenberg",
+    "phone_number": "",
+    "company_name": "Bartoletti Braeden LTD",
+    "rc_number": "RC1111111",
+    "email": "Niko@mailinator.com",
+    "password": "Tester@12"
+}

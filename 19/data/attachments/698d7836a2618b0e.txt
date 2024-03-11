@@ -1,0 +1,6 @@
+{
+    "name": "extensible Role",
+    "description": "Fugit excepturi aut molestias accusamus inventore occaecati.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

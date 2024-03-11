@@ -1,0 +1,9 @@
+{
+    "first_name": "Emile",
+    "last_name": "Altenwerth",
+    "phone_number": "07011",
+    "company_name": "Weissnat Warren LTD",
+    "rc_number": "RC1111111",
+    "email": "Kathleen@mailinator.com",
+    "password": "Tester@12"
+}

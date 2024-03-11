@@ -1,0 +1,9 @@
+{
+    "first_name": "Leilani",
+    "last_name": "Zieme",
+    "phone_number": "07011725297",
+    "company_name": "Hudson Marty LTD",
+    "rc_number": "413708305",
+    "email": "Jolie@mailinator.com",
+    "password": "Tester@12"
+}

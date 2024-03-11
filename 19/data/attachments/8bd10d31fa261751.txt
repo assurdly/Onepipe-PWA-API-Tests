@@ -1,0 +1,9 @@
+{
+    "first_name": "Lilian",
+    "last_name": "Hansen",
+    "phone_number": "07011",
+    "company_name": "Lang Cecilia LTD",
+    "rc_number": "RC1111111",
+    "email": "Fermin@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Domenic",
+    "last_name": "Turcotte",
+    "phone_number": "07011725297",
+    "company_name": "Herzog Carley LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}

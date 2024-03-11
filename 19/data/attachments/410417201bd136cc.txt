@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Murphy",
+    "phone_number": "07011725297",
+    "company_name": "Brakus Granville LTD",
+    "rc_number": "RC1111111",
+    "email": "Heloise@mailinator.com",
+    "password": "Tester@12"
+}

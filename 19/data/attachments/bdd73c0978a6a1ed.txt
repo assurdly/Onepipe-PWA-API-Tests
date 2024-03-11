@@ -1,0 +1,9 @@
+{
+    "first_name": "Maxime",
+    "last_name": "Little",
+    "phone_number": "07011725297",
+    "company_name": "Crooks Agnes LTD",
+    "rc_number": "RC1111111",
+    "email": "Jamie@mailinator",
+    "password": "Tester@12"
+}

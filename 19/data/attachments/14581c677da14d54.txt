@@ -1,0 +1,9 @@
+{
+    "first_name": "Eunice",
+    "last_name": "Flatley",
+    "phone_number": "07011725297",
+    "company_name": "Hahn Angelo LTD",
+    "rc_number": "RC1111111",
+    "email": "Alberto@mailinator.com",
+    "password": "Teste"
+}

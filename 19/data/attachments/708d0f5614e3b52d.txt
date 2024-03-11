@@ -1,0 +1,9 @@
+{
+    "first_name": "Erin",
+    "last_name": "Bogan",
+    "phone_number": "07011725297",
+    "company_name": "Runolfsson Dameon LTD",
+    "rc_number": "5705630400",
+    "email": "Christiana@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Armando",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Haag Jerrod LTD",
+    "rc_number": "RC1111110",
+    "email": "Amanda@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Winona",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Romaguera Palma LTD",
+    "rc_number": "RC1111110",
+    "email": "Breanna@mailinator.com",
+    "password": "Tester@12"
+}

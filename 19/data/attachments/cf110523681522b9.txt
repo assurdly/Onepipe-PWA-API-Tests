@@ -1,0 +1,9 @@
+{
+    "first_name": "Hillary",
+    "last_name": "Kreiger",
+    "phone_number": "07011725297",
+    "company_name": "Labadie Mylene LTD",
+    "rc_number": "RC1111111",
+    "email": "Grover@mailinator",
+    "password": "Tester@12"
+}

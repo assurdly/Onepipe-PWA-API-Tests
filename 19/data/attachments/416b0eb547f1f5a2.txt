@@ -1,0 +1,6 @@
+{
+    "name": "orange Role",
+    "description": "Corporis voluptatum numquam non sunt.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

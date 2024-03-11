@@ -1,0 +1,9 @@
+{
+    "first_name": "Geoffrey",
+    "last_name": "Mertz",
+    "phone_number": "07011er4569",
+    "company_name": "Cassin Leonel LTD",
+    "rc_number": "6195809637",
+    "email": "Annamarie@mailinator.com",
+    "password": "Tester@12"
+}

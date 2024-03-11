@@ -1,0 +1,9 @@
+{
+    "first_name": "Jordy",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Kuhn Nova LTD",
+    "rc_number": "RC1111110",
+    "email": "Cassie@mailinator.com",
+    "password": "Tester@12"
+}

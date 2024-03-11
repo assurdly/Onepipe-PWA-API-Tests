@@ -1,0 +1,9 @@
+{
+    "first_name": "Francis",
+    "last_name": "Kutch",
+    "phone_number": "07011725297",
+    "company_name": "Marquardt Jarret LTD",
+    "rc_number": "2790161286",
+    "email": "Chanel@mailinator.com",
+    "password": "Tester@12"
+}

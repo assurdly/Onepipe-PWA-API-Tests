@@ -1,0 +1,9 @@
+{
+    "first_name": "Vernice",
+    "last_name": "Littel",
+    "phone_number": "07011725297",
+    "company_name": "Pacocha Olin LTD",
+    "rc_number": "4495578595",
+    "email": "Noe@mailinator.com",
+    "password": "Tester@12"
+}

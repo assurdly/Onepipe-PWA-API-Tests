@@ -1,0 +1,9 @@
+{
+    "first_name": "Dewayne",
+    "last_name": "Brekke",
+    "phone_number": "07011725297",
+    "company_name": "Bartell Taylor LTD",
+    "rc_number": "1814801040",
+    "email": "Arlie@mailinator.com",
+    "password": "Tester@12"
+}

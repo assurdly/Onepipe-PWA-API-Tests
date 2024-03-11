@@ -1,0 +1,9 @@
+{
+    "first_name": "Edwina",
+    "last_name": "Ledner",
+    "phone_number": "07011er4569",
+    "company_name": "Bosco Macie LTD",
+    "rc_number": "4728062123",
+    "email": "Bette@mailinator.com",
+    "password": "Tester@12"
+}

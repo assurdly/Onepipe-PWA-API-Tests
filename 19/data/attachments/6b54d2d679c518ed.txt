@@ -1,0 +1,9 @@
+{
+    "first_name": "Kris",
+    "last_name": "Runte",
+    "phone_number": "234701172529700",
+    "company_name": "Corwin Sheldon LTD",
+    "rc_number": "RC1111111",
+    "email": "Greta@mailinator.com",
+    "password": "Tester@12"
+}

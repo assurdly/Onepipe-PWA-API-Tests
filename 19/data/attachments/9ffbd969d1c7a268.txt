@@ -1,0 +1,7 @@
+{
+    "name": "deposit",
+    "description": "Earum fugiat ratione molestiae nulla perferendis non.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Gilbert",
+    "last_name": "Bauch",
+    "phone_number": "07011725297",
+    "company_name": "Waelchi Devan LTD",
+    "rc_number": "RC1111111",
+    "email": "Saul@mailinator.com",
+    "password": "Teste"
+}

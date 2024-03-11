@@ -1,0 +1,9 @@
+{
+    "first_name": "Mauricio",
+    "last_name": "Blick",
+    "phone_number": "234701172529700",
+    "company_name": "Pagac Junius LTD",
+    "rc_number": "RC1111111",
+    "email": "Vladimir@mailinator.com",
+    "password": "Tester@12"
+}

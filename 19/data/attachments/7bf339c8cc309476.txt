@@ -1,0 +1,4 @@
+{
+    "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTYsInR5cGUiOiJ0d29fZmEiLCJpYXQiOjE3MTAxMzM0MzAsImV4cCI6MTcxMDEzNzAzMH0.knSjH1bYjSRaRELFdmjskCul7oO-5nHYCrkNphDH5r0",
+    "token": ""
+}

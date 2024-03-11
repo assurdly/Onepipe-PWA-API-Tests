@@ -1,0 +1,9 @@
+{
+    "first_name": "Gust",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Medhurst Lydia LTD",
+    "rc_number": "RC1111110",
+    "email": "Jaquelin@mailinator.com",
+    "password": "Tester@12"
+}

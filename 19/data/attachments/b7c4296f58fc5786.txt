@@ -1,0 +1,9 @@
+{
+    "first_name": "Jennings",
+    "last_name": "Stokes",
+    "phone_number": "07011725297",
+    "company_name": "Strosin Rahul LTD",
+    "rc_number": "RC1111111",
+    "email": "Forrest@mailinator.com",
+    "password": "Teste"
+}

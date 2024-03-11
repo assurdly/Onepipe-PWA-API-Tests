@@ -1,0 +1,9 @@
+{
+    "first_name": "Elijah",
+    "last_name": "Bogan",
+    "phone_number": "234701172529700",
+    "company_name": "Collins Arlo LTD",
+    "rc_number": "RC1111111",
+    "email": "Pansy@mailinator.com",
+    "password": "Tester@12"
+}

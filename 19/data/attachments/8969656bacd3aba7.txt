@@ -1,0 +1,9 @@
+{
+    "first_name": "Leanna",
+    "last_name": "Paucek",
+    "phone_number": "234701172529700",
+    "company_name": "Ankunding Leonie LTD",
+    "rc_number": "RC1111111",
+    "email": "Casper@mailinator.com",
+    "password": "Tester@12"
+}

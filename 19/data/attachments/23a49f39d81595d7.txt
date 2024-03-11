@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Steuber",
+    "phone_number": "07011725297",
+    "company_name": "Kutch Isabel LTD",
+    "rc_number": "RC1111111",
+    "email": "Nels@mailinator.com",
+    "password": ""
+}

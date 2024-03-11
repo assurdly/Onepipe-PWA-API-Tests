@@ -1,0 +1,9 @@
+{
+    "first_name": "Bridgette",
+    "last_name": "Bahringer",
+    "phone_number": "07011",
+    "company_name": "Hermann Maxime LTD",
+    "rc_number": "RC1111111",
+    "email": "Ola@mailinator.com",
+    "password": "Tester@12"
+}

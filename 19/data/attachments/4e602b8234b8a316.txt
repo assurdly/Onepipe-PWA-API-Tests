@@ -1,0 +1,7 @@
+{
+    "name": "Mississippi",
+    "description": "Dolor aliquid id.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

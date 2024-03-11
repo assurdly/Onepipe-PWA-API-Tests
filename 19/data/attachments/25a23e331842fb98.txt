@@ -1,0 +1,6 @@
+{
+    "name": "New Role",
+    "description": "Tempora qui quos sed sed est ducimus ratione.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

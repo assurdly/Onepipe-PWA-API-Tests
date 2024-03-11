@@ -1,0 +1,9 @@
+{
+    "first_name": "Alvena",
+    "last_name": "Jerde",
+    "phone_number": "07011725297",
+    "company_name": "Zachariah Schiller LTD",
+    "rc_number": "",
+    "email": "Daryl@mailinator.com",
+    "password": "Tester@12"
+}

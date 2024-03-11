@@ -1,0 +1,9 @@
+{
+    "first_name": "Jared",
+    "last_name": "Baumbach",
+    "phone_number": "07011725297",
+    "company_name": "Borer Doyle LTD",
+    "rc_number": "RC1111111",
+    "email": "Thea@mailinator.com",
+    "password": "Teste"
+}

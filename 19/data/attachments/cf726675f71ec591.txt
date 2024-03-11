@@ -1,0 +1,9 @@
+{
+    "first_name": "Hilma",
+    "last_name": "Daugherty",
+    "phone_number": "07011725297",
+    "company_name": "Gladys Dooley LTD",
+    "rc_number": "",
+    "email": "Dorothy@mailinator.com",
+    "password": "Tester@12"
+}

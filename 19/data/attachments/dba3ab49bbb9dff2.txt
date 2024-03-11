@@ -1,0 +1,9 @@
+{
+    "first_name": "Josefa",
+    "last_name": "Cummings",
+    "phone_number": "07011725297",
+    "company_name": "Kiehn Cedrick LTD",
+    "rc_number": "6138970476",
+    "email": "Clement@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Account",
+    "description": "Pariatur animi laudantium ut deleniti suscipit vitae placeat.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

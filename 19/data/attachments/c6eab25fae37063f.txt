@@ -1,0 +1,6 @@
+{
+    "name": "Lesotho Role",
+    "description": "Debitis laudantium et nihil temporibus beatae alias eaque accusantium.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

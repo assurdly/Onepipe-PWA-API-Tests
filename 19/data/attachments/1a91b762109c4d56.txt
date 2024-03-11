@@ -1,0 +1,9 @@
+{
+    "first_name": "Valentine",
+    "last_name": "Bernier",
+    "phone_number": "07011725297",
+    "company_name": "Stanton Merlin LTD",
+    "rc_number": "RC1111111",
+    "email": "Stefan@mailinator",
+    "password": "Tester@12"
+}

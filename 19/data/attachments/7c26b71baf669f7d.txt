@@ -1,0 +1,9 @@
+{
+    "first_name": "Mann",
+    "last_name": "Renner",
+    "phone_number": "",
+    "company_name": "Shields Theo LTD",
+    "rc_number": "RC1111111",
+    "email": "Vallie@mailinator.com",
+    "password": "Tester@12"
+}

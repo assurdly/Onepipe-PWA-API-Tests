@@ -1,0 +1,9 @@
+{
+    "first_name": "Julien",
+    "last_name": "Hoppe",
+    "phone_number": "07011",
+    "company_name": "Greenholt Herbert LTD",
+    "rc_number": "RC1111111",
+    "email": "Etha@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Raheem",
+    "last_name": "Gleichner",
+    "phone_number": "07011725297",
+    "company_name": "Jast Timmy LTD",
+    "rc_number": "3727732602",
+    "email": "Chadd@mailinator.com",
+    "password": "Tester@12"
+}

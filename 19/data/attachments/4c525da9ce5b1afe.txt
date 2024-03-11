@@ -1,0 +1,9 @@
+{
+    "first_name": "Rowan",
+    "last_name": "Huels",
+    "phone_number": "07011",
+    "company_name": "Grady Niko LTD",
+    "rc_number": "RC1111111",
+    "email": "Edgardo@mailinator.com",
+    "password": "Tester@12"
+}

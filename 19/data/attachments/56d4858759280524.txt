@@ -1,0 +1,7 @@
+{
+    "name": "Quality",
+    "description": "Velit qui dolores beatae molestiae.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Waino",
+    "last_name": "Hamill",
+    "phone_number": "07011725297",
+    "company_name": "Hackett Gladyce LTD",
+    "rc_number": "RC1111111",
+    "email": "Kenya@mailinator",
+    "password": "Tester@12"
+}

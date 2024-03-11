@@ -1,0 +1,9 @@
+{
+    "first_name": "Domenico",
+    "last_name": "Auer",
+    "phone_number": "07011725297",
+    "company_name": "Aubree Veum LTD",
+    "rc_number": "",
+    "email": "Jarret@mailinator.com",
+    "password": "Tester@12"
+}

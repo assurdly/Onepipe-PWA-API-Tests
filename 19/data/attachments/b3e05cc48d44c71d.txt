@@ -1,0 +1,9 @@
+{
+    "first_name": "Zelda",
+    "last_name": "Lockman",
+    "phone_number": "07011er4569",
+    "company_name": "Schuppe Noemy LTD",
+    "rc_number": "7066557026",
+    "email": "Ryley@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Forest",
+    "last_name": "Oberbrunner",
+    "phone_number": "07011er4569",
+    "company_name": "Casper Barney LTD",
+    "rc_number": "1361557373",
+    "email": "Adelbert@mailinator.com",
+    "password": "Tester@12"
+}

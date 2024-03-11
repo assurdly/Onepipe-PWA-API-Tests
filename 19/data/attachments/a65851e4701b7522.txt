@@ -1,0 +1,6 @@
+{
+    "name": "Shoes Role",
+    "description": "Est facere culpa veritatis.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

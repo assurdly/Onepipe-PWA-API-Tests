@@ -1,0 +1,7 @@
+{
+    "name": "and",
+    "description": "Inventore voluptates repellat vitae.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

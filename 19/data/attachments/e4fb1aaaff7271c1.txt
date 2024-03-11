@@ -1,0 +1,6 @@
+{
+    "name": "Account Role",
+    "description": "Dynamic",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

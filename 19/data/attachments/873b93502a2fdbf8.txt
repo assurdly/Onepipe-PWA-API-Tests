@@ -1,0 +1,6 @@
+{
+    "name": "Metal Role",
+    "description": "District",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Funk",
+    "last_name": "Bailey",
+    "phone_number": "",
+    "company_name": "Ebert Pearlie LTD",
+    "rc_number": "RC1111111",
+    "email": "Ewell@mailinator.com",
+    "password": "Tester@12"
+}

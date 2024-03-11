@@ -1,0 +1,7 @@
+{
+    "name": "XML",
+    "description": "Id sint laborum quis velit quod et minus.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

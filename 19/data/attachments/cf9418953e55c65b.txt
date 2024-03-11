@@ -1,0 +1,9 @@
+{
+    "first_name": "Marlon",
+    "last_name": "Koss",
+    "phone_number": "07011725297",
+    "company_name": "Hudson Jorge LTD",
+    "rc_number": "4455611743",
+    "email": "Vickie@mailinator.com",
+    "password": "Tester@12"
+}

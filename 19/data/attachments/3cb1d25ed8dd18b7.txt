@@ -1,0 +1,9 @@
+{
+    "first_name": "Yolanda",
+    "last_name": "Stroman",
+    "phone_number": "07011725297",
+    "company_name": "Bergnaum Virginia LTD",
+    "rc_number": "RC1111111",
+    "email": "Darrel@mailinator",
+    "password": "Tester@12"
+}

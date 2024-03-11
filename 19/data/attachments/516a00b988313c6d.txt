@@ -1,0 +1,9 @@
+{
+    "first_name": "Winona",
+    "last_name": "McClure",
+    "phone_number": "07011",
+    "company_name": "Armstrong Nannie LTD",
+    "rc_number": "RC1111111",
+    "email": "Flossie@mailinator.com",
+    "password": "Tester@12"
+}

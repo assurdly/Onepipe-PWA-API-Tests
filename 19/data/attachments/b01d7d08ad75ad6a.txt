@@ -1,0 +1,9 @@
+{
+    "first_name": "Katlynn",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Olson Kelvin LTD",
+    "rc_number": "RC1111110",
+    "email": "Bernita@mailinator.com",
+    "password": "Tester@12"
+}

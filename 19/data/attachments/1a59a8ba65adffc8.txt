@@ -1,0 +1,9 @@
+{
+    "first_name": "Marley",
+    "last_name": "Torp",
+    "phone_number": "07011725297",
+    "company_name": "Collier Kiana LTD",
+    "rc_number": "1809937639",
+    "email": "Elfrieda@mailinator.com",
+    "password": "Tester@12"
+}

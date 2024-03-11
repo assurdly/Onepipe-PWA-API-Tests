@@ -1,0 +1,9 @@
+{
+    "first_name": "Monica",
+    "last_name": "Stanton",
+    "phone_number": "234701172529700",
+    "company_name": "Emard Jeanie LTD",
+    "rc_number": "RC1111111",
+    "email": "Joshuah@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Green",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Hahn Xander LTD",
+    "rc_number": "RC1111110",
+    "email": "Lexie@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Elisha",
+    "last_name": "Altenwerth",
+    "phone_number": "07011725297",
+    "company_name": "Price Reinhold LTD",
+    "rc_number": "1547853173",
+    "email": "Jermain@mailinator.com",
+    "password": "Tester@12"
+}

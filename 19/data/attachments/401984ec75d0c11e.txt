@@ -1,0 +1,6 @@
+{
+    "name": "Plastic Role",
+    "description": "Ut temporibus ipsum est vel magni.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Jeramy",
+    "last_name": "Jast",
+    "phone_number": "07011er4569",
+    "company_name": "Wehner Brielle LTD",
+    "rc_number": "3839162169",
+    "email": "Romaine@mailinator.com",
+    "password": "Tester@12"
+}

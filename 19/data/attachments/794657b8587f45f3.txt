@@ -1,0 +1,9 @@
+{
+    "first_name": "Rodger",
+    "last_name": "Schneider",
+    "phone_number": "07011725297",
+    "company_name": "Mills Clay LTD",
+    "rc_number": "1368118736",
+    "email": "Ilene@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "invoice Role",
+    "description": "Voluptatem dolores quidem.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

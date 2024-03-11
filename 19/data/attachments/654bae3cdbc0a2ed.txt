@@ -1,0 +1,9 @@
+{
+    "first_name": "Osborne",
+    "last_name": "Ruecker",
+    "phone_number": "07011725297",
+    "company_name": "McCullough Ollie LTD",
+    "rc_number": "7050738267",
+    "email": "Sadie@mailinator.com",
+    "password": "Tester@12"
+}

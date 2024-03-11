@@ -1,0 +1,9 @@
+{
+    "first_name": "Henri",
+    "last_name": "Reichel",
+    "phone_number": "07011725297",
+    "company_name": "Paris Kuhn LTD",
+    "rc_number": "",
+    "email": "Joannie@mailinator.com",
+    "password": "Tester@12"
+}

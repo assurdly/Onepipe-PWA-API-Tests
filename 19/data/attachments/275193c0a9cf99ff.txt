@@ -1,0 +1,6 @@
+{
+    "name": "Licensed Role",
+    "description": "Quidem sit veniam sit tenetur eveniet.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "London",
+    "last_name": "Becker",
+    "phone_number": "07011725297",
+    "company_name": "Little Edwina LTD",
+    "rc_number": "4667517348",
+    "email": "Baylee@mailinator.com",
+    "password": "Tester@12"
+}

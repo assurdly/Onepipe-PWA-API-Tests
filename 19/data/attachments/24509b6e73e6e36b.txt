@@ -1,0 +1,9 @@
+{
+    "first_name": "Austin",
+    "last_name": "Schumm",
+    "phone_number": "07011",
+    "company_name": "Ferry Cristian LTD",
+    "rc_number": "RC1111111",
+    "email": "Garret@mailinator.com",
+    "password": "Tester@12"
+}

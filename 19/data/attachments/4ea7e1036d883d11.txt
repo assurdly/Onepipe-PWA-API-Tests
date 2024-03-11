@@ -1,0 +1,9 @@
+{
+    "first_name": "Rowan",
+    "last_name": "Balistreri",
+    "phone_number": "07011",
+    "company_name": "Reichel Frieda LTD",
+    "rc_number": "RC1111111",
+    "email": "Gabriel@mailinator.com",
+    "password": "Tester@12"
+}

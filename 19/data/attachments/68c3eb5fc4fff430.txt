@@ -1,0 +1,6 @@
+{
+    "name": "withdrawal Role",
+    "description": "Consequatur vel voluptatum amet quod non id consequatur fugit.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

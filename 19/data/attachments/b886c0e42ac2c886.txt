@@ -1,0 +1,6 @@
+{
+    "name": "up Role",
+    "description": "Ut sed voluptatum ut nihil omnis deserunt repudiandae.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

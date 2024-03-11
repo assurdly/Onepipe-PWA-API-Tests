@@ -1,0 +1,9 @@
+{
+    "first_name": "Cody",
+    "last_name": "Bernier",
+    "phone_number": "07011725297",
+    "company_name": "Ziemann Christop LTD",
+    "rc_number": "RC1111111",
+    "email": "Skye@mailinator",
+    "password": "Tester@12"
+}

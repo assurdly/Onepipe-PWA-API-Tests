@@ -1,0 +1,9 @@
+{
+    "first_name": "Turner",
+    "last_name": "Treutel",
+    "phone_number": "07011725297",
+    "company_name": "Bednar Frieda LTD",
+    "rc_number": "RC1111111",
+    "email": "Rachael@mailinator.com",
+    "password": "Teste"
+}

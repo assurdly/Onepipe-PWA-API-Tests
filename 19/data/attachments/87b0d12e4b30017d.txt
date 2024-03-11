@@ -1,0 +1,9 @@
+{
+    "first_name": "Nathan",
+    "last_name": "Rosenbaum",
+    "phone_number": "07011725297",
+    "company_name": "Deckow Joesph LTD",
+    "rc_number": "4982548925",
+    "email": "Evie@mailinator.com",
+    "password": "Tester@12"
+}

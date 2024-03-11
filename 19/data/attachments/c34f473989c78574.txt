@@ -1,0 +1,9 @@
+{
+    "first_name": "Marcelino",
+    "last_name": "Bergnaum",
+    "phone_number": "07011725297",
+    "company_name": "Raynor Ahmed LTD",
+    "rc_number": "RC1111111",
+    "email": "Theresia@mailinator.com",
+    "password": "Teste"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Kallie",
+    "last_name": "Greenholt",
+    "phone_number": "234701172529700",
+    "company_name": "Powlowski Kory LTD",
+    "rc_number": "RC1111111",
+    "email": "Deon@mailinator.com",
+    "password": "Tester@12"
+}

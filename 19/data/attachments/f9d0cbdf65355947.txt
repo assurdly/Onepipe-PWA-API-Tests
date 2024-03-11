@@ -1,0 +1,9 @@
+{
+    "first_name": "Filomena",
+    "last_name": "Kunze",
+    "phone_number": "234701172529700",
+    "company_name": "Kuhn Karen LTD",
+    "rc_number": "RC1111111",
+    "email": "Tristian@mailinator.com",
+    "password": "Tester@12"
+}

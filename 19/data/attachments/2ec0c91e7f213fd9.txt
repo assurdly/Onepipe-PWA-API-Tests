@@ -1,0 +1,6 @@
+{
+    "name": "software Role",
+    "description": "Central",
+    "permissions": ["add_users"],
+    "token": "000000"
+}

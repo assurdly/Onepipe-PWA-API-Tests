@@ -1,0 +1,9 @@
+{
+    "first_name": "Lebsack",
+    "last_name": "Schimmel",
+    "phone_number": "",
+    "company_name": "Fadel Antone LTD",
+    "rc_number": "RC1111111",
+    "email": "Lionel@mailinator.com",
+    "password": "Tester@12"
+}

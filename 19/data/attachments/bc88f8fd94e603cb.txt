@@ -1,0 +1,9 @@
+{
+    "first_name": "Palma",
+    "last_name": "Hamill",
+    "phone_number": "07011725297",
+    "company_name": "Torphy Ivah LTD",
+    "rc_number": "9234671097",
+    "email": "Quincy@mailinator.com",
+    "password": "Tester@12"
+}

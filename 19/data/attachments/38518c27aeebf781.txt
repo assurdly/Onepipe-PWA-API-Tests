@@ -1,0 +1,9 @@
+{
+    "first_name": "Parker",
+    "last_name": "Kuhn",
+    "phone_number": "",
+    "company_name": "Stehr Mollie LTD",
+    "rc_number": "RC1111111",
+    "email": "Anabelle@mailinator.com",
+    "password": "Tester@12"
+}

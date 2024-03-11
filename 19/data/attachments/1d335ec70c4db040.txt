@@ -1,0 +1,9 @@
+{
+    "first_name": "August",
+    "last_name": "Miller",
+    "phone_number": "07011725297",
+    "company_name": "Koch Vesta LTD",
+    "rc_number": "RC1111111",
+    "email": "Emmanuel@mailinator",
+    "password": "Tester@12"
+}

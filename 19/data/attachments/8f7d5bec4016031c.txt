@@ -1,0 +1,9 @@
+{
+    "first_name": "Emmy",
+    "last_name": "Lang",
+    "phone_number": "07011er4569",
+    "company_name": "Koss Lenore LTD",
+    "rc_number": "3108124072",
+    "email": "Rubie@mailinator.com",
+    "password": "Tester@12"
+}

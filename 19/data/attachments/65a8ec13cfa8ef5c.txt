@@ -1,0 +1,9 @@
+{
+    "first_name": "Jamal",
+    "last_name": "Bergstrom",
+    "phone_number": "07011er4569",
+    "company_name": "Cremin Odie LTD",
+    "rc_number": "1534952777",
+    "email": "Tatyana@mailinator.com",
+    "password": "Tester@12"
+}

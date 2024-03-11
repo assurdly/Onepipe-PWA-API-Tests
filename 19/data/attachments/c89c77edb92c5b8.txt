@@ -1,0 +1,9 @@
+{
+    "first_name": "Raul",
+    "last_name": "Gibson",
+    "phone_number": "07011er4569",
+    "company_name": "Hills Esther LTD",
+    "rc_number": "5052405924",
+    "email": "Jettie@mailinator.com",
+    "password": "Tester@12"
+}

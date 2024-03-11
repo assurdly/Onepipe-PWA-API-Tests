@@ -1,0 +1,9 @@
+{
+    "first_name": "Shawna",
+    "last_name": "Brekke",
+    "phone_number": "07011725297",
+    "company_name": "Moore Beverly LTD",
+    "rc_number": "2777640730",
+    "email": "Braden@mailinator.com",
+    "password": "Tester@12"
+}

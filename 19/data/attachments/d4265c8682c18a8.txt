@@ -1,0 +1,9 @@
+{
+    "first_name": "Catherine",
+    "last_name": "Marks",
+    "phone_number": "07011er4569",
+    "company_name": "Grady Hershel LTD",
+    "rc_number": "8456235248",
+    "email": "Ezra@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Nyah",
+    "last_name": "Moen",
+    "phone_number": "07011725297",
+    "company_name": "Nolan Tessie LTD",
+    "rc_number": "6750454533",
+    "email": "Lila@mailinator.com",
+    "password": "Tester@12"
+}

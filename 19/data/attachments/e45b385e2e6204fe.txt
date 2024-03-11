@@ -1,0 +1,9 @@
+{
+    "first_name": "Sienna",
+    "last_name": "Schaefer",
+    "phone_number": "07011725297",
+    "company_name": "Prohaska Mayra LTD",
+    "rc_number": "RC1111111",
+    "email": "Merlin@mailinator",
+    "password": "Tester@12"
+}

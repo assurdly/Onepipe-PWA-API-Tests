@@ -1,0 +1,6 @@
+{
+    "name": "Checking Role",
+    "description": "Animi illo quis incidunt dolorem repudiandae placeat.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

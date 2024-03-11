@@ -1,0 +1,9 @@
+{
+    "first_name": "Edwin",
+    "last_name": "Bednar",
+    "phone_number": "234701172529700",
+    "company_name": "Gorczany Robb LTD",
+    "rc_number": "RC1111111",
+    "email": "Jane@mailinator.com",
+    "password": "Tester@12"
+}

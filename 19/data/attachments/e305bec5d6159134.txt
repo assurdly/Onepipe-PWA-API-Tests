@@ -1,0 +1,6 @@
+{
+    "name": "front-end Role",
+    "description": "Et sit doloribus et dicta quasi tenetur aut quia.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

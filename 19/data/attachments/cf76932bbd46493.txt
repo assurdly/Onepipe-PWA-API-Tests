@@ -1,0 +1,9 @@
+{
+    "first_name": "Diego",
+    "last_name": "Rath",
+    "phone_number": "07011725297",
+    "company_name": "Bauch Jameson LTD",
+    "rc_number": "RC1111111",
+    "email": "Ernesto@mailinator",
+    "password": "Tester@12"
+}

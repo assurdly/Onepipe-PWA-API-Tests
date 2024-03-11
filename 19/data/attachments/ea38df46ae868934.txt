@@ -1,0 +1,9 @@
+{
+    "first_name": "Kautzer",
+    "last_name": "Schinner",
+    "phone_number": "",
+    "company_name": "Jenkins Mona LTD",
+    "rc_number": "RC1111111",
+    "email": "Jaiden@mailinator.com",
+    "password": "Tester@12"
+}

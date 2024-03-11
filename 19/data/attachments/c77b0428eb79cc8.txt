@@ -1,0 +1,9 @@
+{
+    "first_name": "Pattie",
+    "last_name": "Maggio",
+    "phone_number": "07011725297",
+    "company_name": "Elissa Senger LTD",
+    "rc_number": "",
+    "email": "Berneice@mailinator.com",
+    "password": "Tester@12"
+}

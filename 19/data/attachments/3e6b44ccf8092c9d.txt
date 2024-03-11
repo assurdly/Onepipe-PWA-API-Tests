@@ -1,0 +1,9 @@
+{
+    "first_name": "Alfred",
+    "last_name": "Considine",
+    "phone_number": "07011725297",
+    "company_name": "Corkery Charlie LTD",
+    "rc_number": "RC1111111",
+    "email": "Alexandria@mailinator.com",
+    "password": "Teste"
+}

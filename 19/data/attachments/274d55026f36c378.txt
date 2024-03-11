@@ -1,0 +1,9 @@
+{
+    "first_name": "Ruthie",
+    "last_name": "Goodwin",
+    "phone_number": "07011",
+    "company_name": "Howell Kenna LTD",
+    "rc_number": "RC1111111",
+    "email": "Candido@mailinator.com",
+    "password": "Tester@12"
+}

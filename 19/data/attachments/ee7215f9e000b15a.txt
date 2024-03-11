@@ -1,0 +1,6 @@
+{
+    "name": "Borders Role",
+    "description": "Dolores voluptatum commodi odio.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

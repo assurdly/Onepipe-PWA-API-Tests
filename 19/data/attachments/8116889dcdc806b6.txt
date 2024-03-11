@@ -1,0 +1,9 @@
+{
+    "first_name": "Paxton",
+    "last_name": "Kovacek",
+    "phone_number": "07011",
+    "company_name": "Considine Felix LTD",
+    "rc_number": "RC1111111",
+    "email": "Edyth@mailinator.com",
+    "password": "Tester@12"
+}

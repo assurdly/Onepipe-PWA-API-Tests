@@ -1,0 +1,9 @@
+{
+    "first_name": "Cameron",
+    "last_name": "Marquardt",
+    "phone_number": "07011725297",
+    "company_name": "Sauer Colby LTD",
+    "rc_number": "9945664876",
+    "email": "Aurore@mailinator.com",
+    "password": "Tester@12"
+}

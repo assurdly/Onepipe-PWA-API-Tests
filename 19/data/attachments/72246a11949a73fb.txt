@@ -1,0 +1,9 @@
+{
+    "first_name": "Callie",
+    "last_name": "Leannon",
+    "phone_number": "07011725297",
+    "company_name": "Corwin Ursula LTD",
+    "rc_number": "3153689872",
+    "email": "Dalton@mailinator.com",
+    "password": "Tester@12"
+}

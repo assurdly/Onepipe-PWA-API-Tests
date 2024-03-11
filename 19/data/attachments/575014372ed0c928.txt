@@ -1,0 +1,9 @@
+{
+    "first_name": "Maudie",
+    "last_name": "Sipes",
+    "phone_number": "07011725297",
+    "company_name": "Schaefer Lori LTD",
+    "rc_number": "8101356572",
+    "email": "Freddie@mailinator.com",
+    "password": "Tester@12"
+}

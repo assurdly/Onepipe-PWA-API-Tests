@@ -1,0 +1,6 @@
+{
+    "name": "Frozen Role",
+    "description": "Distinctio totam veniam libero ab perferendis similique aut.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

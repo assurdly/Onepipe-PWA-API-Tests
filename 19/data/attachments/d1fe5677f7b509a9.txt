@@ -1,0 +1,9 @@
+{
+    "first_name": "Orlo",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Ankunding Josephine LTD",
+    "rc_number": "RC1111110",
+    "email": "Hilario@mailinator.com",
+    "password": "Tester@12"
+}

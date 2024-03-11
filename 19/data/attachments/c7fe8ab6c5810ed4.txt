@@ -1,0 +1,7 @@
+{
+    "name": "Tools",
+    "description": "Quaerat consequatur tempore magni inventore est sed omnis.",
+    "webhook": "https://lendsqr.com",
+    "timeout": 10,
+    "token" : "000000"
+}

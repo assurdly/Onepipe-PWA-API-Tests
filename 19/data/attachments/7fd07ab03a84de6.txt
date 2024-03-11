@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Reinger",
+    "phone_number": "07011725297",
+    "company_name": "Cartwright Antonietta LTD",
+    "rc_number": "RC1111111",
+    "email": "Carolyne@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "connect Role",
+    "description": "Quidem maiores expedita iusto.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Alanis",
+    "last_name": "Hamill",
+    "phone_number": "07011725297",
+    "company_name": "Gorczany Mitchell LTD",
+    "rc_number": "4428416105",
+    "email": "Kayli@mailinator.com",
+    "password": "Tester@12"
+}

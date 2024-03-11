@@ -1,0 +1,6 @@
+{
+    "name": "Bedfordshire Role",
+    "description": "Aut sit recusandae magnam repudiandae tempora nemo amet iste.",
+    "permissions": ["add_users", "view_users"],
+    "token": "000000"
+}
