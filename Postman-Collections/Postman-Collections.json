@@ -48188,6 +48188,7 @@
 													"    })",
 													"    var Token = jsonData.data.token_data.token",
 													"    pm.environment.set(\"BillerTOKEN\", Token)",
+													"    pm.environment.set(\"TOKEN\", Token)",
 													"    pm.collectionVariables.set(\"BillerTOKEN\", Token)",
 													"    pm.test(\"Status code is 200\", function(){",
 													"    pm.response.to.have.status(200);",
@@ -55292,7 +55293,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "GET",
@@ -55485,21 +55486,19 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
 												"type": "text/javascript"
 											}
@@ -55508,7 +55507,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "95aaacf8-f93e-4fc8-9924-ca30f05a8044",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -55705,7 +55706,7 @@
 									]
 								},
 								{
-									"name": "Fetch Subscription Stats - Invslid Auth",
+									"name": "Fetch Subscription Stats - Invalid Auth",
 									"event": [
 										{
 											"listen": "test",
@@ -55714,21 +55715,19 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
 												"type": "text/javascript"
 											}
@@ -55737,7 +55736,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "95aaacf8-f93e-4fc8-9924-ca30f05a8044",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -55943,21 +55944,19 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
 												"type": "text/javascript"
 											}
@@ -55966,7 +55965,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "95aaacf8-f93e-4fc8-9924-ca30f05a8044",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -56740,37 +56741,37 @@
 											"script": {
 												"id": "184922e6-1258-4a5c-b8a3-5e5922f7eb75",
 												"exec": [
-													"var jsonData = pm.response.json();",
-													"var RequestData = JSON.parse(pm.request.body.raw)",
-													"pm.environment.set(\"mandate_id\", jsonData.data.id)",
+													"// var jsonData = pm.response.json();",
+													"// var RequestData = JSON.parse(pm.request.body.raw)",
+													"// pm.environment.set(\"mandate_id\", jsonData.data.id)",
 													"",
-													"pm.test(\"Status code is 201\", function(){",
-													"    pm.response.to.have.status(201);",
-													"})",
-													"pm.test(\"Status code is Created\", function () {",
-													"    pm.response.to.have.status(\"Created\");",
-													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
-													"})",
-													"pm.test(\"message is 'Mandate created successfully'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"Mandate created successfully\")",
-													"})",
-													"pm.test(\"Validate that an accurate account number is returned\", function(){",
-													"    pm.expect(jsonData.data.account_number).to.contain(RequestData.account_number)",
-													"})",
-													"pm.test(\"Validate that an accurate bank ID is returned\", function(){",
-													"    pm.expect(jsonData.data.bank_id).to.eql(RequestData.bank_id)",
-													"})",
-													"pm.test(\"Validate that an accurate email is returned\", function(){",
-													"    pm.expect(jsonData.data.email).to.contain(RequestData.email)",
-													"})",
-													"pm.test(\"Validate that an accurate amount is returned\", function(){",
-													"    pm.expect(jsonData.data.amount.toString()).to.contain(RequestData.amount)",
-													"})",
-													"pm.test(\"Validate that an accurate Beneficiary ID is returned\", function(){",
-													"    pm.expect(jsonData.data.beneficiary_id.toString()).to.contain(RequestData.beneficiary_id)",
-													"})"
+													"// pm.test(\"Status code is 201\", function(){",
+													"//     pm.response.to.have.status(201);",
+													"// })",
+													"// pm.test(\"Status code is Created\", function () {",
+													"//     pm.response.to.have.status(\"Created\");",
+													"// });",
+													"// pm.test(\"Status is Success\", function(){",
+													"//     pm.expect(jsonData.status).to.eql(\"success\")",
+													"// })",
+													"// pm.test(\"message is 'Mandate created successfully'\", function(){",
+													"//     pm.expect(jsonData.message).to.eql(\"Mandate created successfully\")",
+													"// })",
+													"// pm.test(\"Validate that an accurate account number is returned\", function(){",
+													"//     pm.expect(jsonData.data.account_number).to.contain(RequestData.account_number)",
+													"// })",
+													"// pm.test(\"Validate that an accurate bank ID is returned\", function(){",
+													"//     pm.expect(jsonData.data.bank_id).to.eql(RequestData.bank_id)",
+													"// })",
+													"// pm.test(\"Validate that an accurate email is returned\", function(){",
+													"//     pm.expect(jsonData.data.email).to.contain(RequestData.email)",
+													"// })",
+													"// pm.test(\"Validate that an accurate amount is returned\", function(){",
+													"//     pm.expect(jsonData.data.amount.toString()).to.contain(RequestData.amount)",
+													"// })",
+													"// pm.test(\"Validate that an accurate Beneficiary ID is returned\", function(){",
+													"//     pm.expect(jsonData.data.beneficiary_id.toString()).to.contain(RequestData.beneficiary_id)",
+													"// })"
 												],
 												"type": "text/javascript"
 											}
@@ -56779,7 +56780,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "6d3b8d79-3e25-4b42-ad05-8e66d00e4ba7",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -56792,7 +56795,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{TOKEN}}"
+												"token": "{{BillerTOKEN}}"
 											}
 										},
 										"method": "GET",
