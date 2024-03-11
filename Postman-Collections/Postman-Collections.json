@@ -61758,7 +61758,9 @@
 													"listen": "prerequest",
 													"script": {
 														"id": "03209fc0-d735-4810-886c-264ffab1f8b7",
-														"exec": [],
+														"exec": [
+															""
+														],
 														"type": "text/javascript"
 													}
 												}
@@ -61781,7 +61783,7 @@
 												],
 												"body": {
 													"mode": "raw",
-													"raw": "{\n    \"status\": \"active\",\n    \"role_id\": \"\"\n}",
+													"raw": "{\n    \"status\": \"\",\n    \"role_id\": \"\"\n}",
 													"options": {
 														"raw": {
 															"language": "json"
@@ -61814,6 +61816,7 @@
 												{
 													"listen": "test",
 													"script": {
+														"id": "66dffa24-12d1-4d29-a724-a42ca9e996d2",
 														"exec": [
 															"var jsonData = pm.response.json();\r",
 															"\r",
@@ -61832,8 +61835,7 @@
 															"})\r",
 															""
 														],
-														"type": "text/javascript",
-														"id": "66dffa24-12d1-4d29-a724-a42ca9e996d2"
+														"type": "text/javascript"
 													}
 												}
 											],
@@ -61863,9 +61865,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{base_url_v1}}/users/:user_id",
+													"raw": "{{base_url}}/users/:user_id",
 													"host": [
-														"{{base_url_v1}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"users",
