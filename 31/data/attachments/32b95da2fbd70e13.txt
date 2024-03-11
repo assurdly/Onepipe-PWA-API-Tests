@@ -1,0 +1,9 @@
+{
+    "first_name": "Ryley",
+    "last_name": "Haley",
+    "phone_number": "07011725297",
+    "company_name": "Vernie Marquardt LTD",
+    "rc_number": "",
+    "email": "Tyrese@mailinator.com",
+    "password": "Tester@12"
+}

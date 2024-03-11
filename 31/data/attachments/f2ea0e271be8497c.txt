@@ -1,0 +1,9 @@
+{
+    "first_name": "Tierra",
+    "last_name": "Crooks",
+    "phone_number": "07011er4569",
+    "company_name": "Russel Aaron LTD",
+    "rc_number": "2360647116",
+    "email": "Dahlia@mailinator.com",
+    "password": "Tester@12"
+}

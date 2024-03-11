@@ -1,0 +1,9 @@
+{
+    "first_name": "Seamus",
+    "last_name": "Macejkovic",
+    "phone_number": "07011725297",
+    "company_name": "O'Keefe Leta LTD",
+    "rc_number": "3362828076",
+    "email": "ZoeTHX@mailinator.com",
+    "password": "Tester@12"
+}

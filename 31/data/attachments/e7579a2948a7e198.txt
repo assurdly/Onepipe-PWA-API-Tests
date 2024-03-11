@@ -1,0 +1,9 @@
+{
+    "first_name": "Roel",
+    "last_name": "Mertz",
+    "phone_number": "07011725297",
+    "company_name": "Schuppe Eleanore LTD",
+    "rc_number": "4948496456",
+    "email": "Kasey@mailinator.com",
+    "password": "Tester@12"
+}

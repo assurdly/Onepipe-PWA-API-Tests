@@ -1,0 +1,9 @@
+{
+    "first_name": "Doyle",
+    "last_name": "Frami",
+    "phone_number": "234701172529700",
+    "company_name": "McClure Juliana LTD",
+    "rc_number": "RC1111111",
+    "email": "Jamarcus@mailinator.com",
+    "password": "Tester@12"
+}

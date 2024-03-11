@@ -1,0 +1,9 @@
+{
+    "first_name": "Otho",
+    "last_name": "Cartwright",
+    "phone_number": "07011",
+    "company_name": "Runte Elinore LTD",
+    "rc_number": "RC1111111",
+    "email": "Otis@mailinator.com",
+    "password": "Tester@12"
+}

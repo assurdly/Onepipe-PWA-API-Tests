@@ -1,0 +1,9 @@
+{
+    "first_name": "Langworth",
+    "last_name": "Ortiz",
+    "phone_number": "",
+    "company_name": "Mueller Trever LTD",
+    "rc_number": "RC1111111",
+    "email": "Elias@mailinator.com",
+    "password": "Tester@12"
+}

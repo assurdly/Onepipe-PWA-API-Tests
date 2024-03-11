@@ -1,0 +1,9 @@
+{
+    "first_name": "Maureen",
+    "last_name": "Dickinson",
+    "phone_number": "07011725297",
+    "company_name": "Swift Corine LTD",
+    "rc_number": "RC1111111",
+    "email": "Hilbert@mailinator",
+    "password": "Tester@12"
+}
