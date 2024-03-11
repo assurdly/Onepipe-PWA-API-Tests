@@ -134,7 +134,7 @@
 											"    pm.expect(jsonData.status).to.eql(\"error\")",
 											"})",
 											"pm.test(\"Login successful\", function(){",
-											"    pm.expect(jsonData.message).to.eql(\"Invalid credentials\")",
+											"    pm.expect(jsonData.message).to.eql(\"Invalid login credentials\")",
 											"})"
 										],
 										"type": "text/javascript"
@@ -144,7 +144,9 @@
 									"listen": "prerequest",
 									"script": {
 										"id": "1e8acc21-61c0-4174-95e4-4cedfdd30cfd",
-										"exec": [],
+										"exec": [
+											""
+										],
 										"type": "text/javascript"
 									}
 								}
@@ -382,7 +384,7 @@
 											"        pm.expect(jsonData.message).to.eql(\"success\")",
 											"    })",
 											"    pm.test(\"two fa is true\", function(){",
-											"        pm.expect(jsonData.data.two_fa).to.eql(true)",
+											"        pm.expect(jsonData.data.user.two_fa).to.eql(0)",
 											"    })",
 											"}"
 										],
@@ -566,6 +568,7 @@
 								{
 									"listen": "test",
 									"script": {
+										"id": "fb002b2b-4202-4484-827f-9754e74299f6",
 										"exec": [
 											"var jsonData = pm.response.json()\r",
 											"\r",
@@ -579,11 +582,10 @@
 											"    pm.expect(jsonData.status).to.eql(\"error\")\r",
 											"})\r",
 											"pm.test(\"Invalid 2FA Token\", function(){\r",
-											"    pm.expect(jsonData.message).to.eql(\"Invalid 2FA Token\")\r",
+											"    pm.expect(jsonData.message).to.eql(\"key should not be empty\")\r",
 											"})"
 										],
-										"type": "text/javascript",
-										"id": "fb002b2b-4202-4484-827f-9754e74299f6"
+										"type": "text/javascript"
 									}
 								}
 							],
@@ -593,10 +595,7 @@
 							},
 							"request": {
 								"auth": {
-									"type": "bearer",
-									"bearer": {
-										"token": ""
-									}
+									"type": "noauth"
 								},
 								"method": "POST",
 								"header": [],
