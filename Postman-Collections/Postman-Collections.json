@@ -85,7 +85,9 @@
 									"script": {
 										"id": "ea4800cf-0aa2-4e6d-ac73-4b338817e330",
 										"exec": [
-											"pm.environment.set('base_url', 'https://dd-api.bits.dev.onepipe.io/v1')"
+											"pm.environment.set('base_url', 'https://dd-api.bits.dev.onepipe.io/v1')",
+											"pm.environment.set('base_url_v1', 'https://dd-api.bits.dev.onepipe.io/v1')",
+											""
 										],
 										"type": "text/javascript"
 									}
@@ -62566,6 +62568,7 @@
 										{
 											"listen": "test",
 											"script": {
+												"id": "e22bee38-92f2-499b-91c5-ba2e662a11f2",
 												"exec": [
 													"var jsonData = pm.response.json();\r",
 													"\r",
@@ -62584,8 +62587,7 @@
 													"})\r",
 													""
 												],
-												"type": "text/javascript",
-												"id": "e22bee38-92f2-499b-91c5-ba2e662a11f2"
+												"type": "text/javascript"
 											}
 										}
 									],
@@ -62614,7 +62616,7 @@
 												}
 											}
 										},
-										"url": "{{base_url_v1}}/users/passwords"
+										"url": "{{base_url}}/users/passwords"
 									},
 									"response": []
 								},
