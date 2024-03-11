@@ -54587,21 +54587,19 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
 												"type": "text/javascript"
 											}
@@ -54610,7 +54608,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "a3483249-fd9a-4366-b9b3-b88cae713028",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -54621,10 +54621,7 @@
 									},
 									"request": {
 										"auth": {
-											"type": "bearer",
-											"bearer": {
-												"token": "{{TOKEN}}"
-											}
+											"type": "noauth"
 										},
 										"method": "GET",
 										"header": [
@@ -54654,9 +54651,8 @@
 											],
 											"variable": [
 												{
-													"id": "17ceb22e-db5a-44a2-9ed8-596c3bd11262",
 													"key": "subscription_id",
-													"value": ""
+													"value": "{{subscriptionId}}"
 												}
 											]
 										}
@@ -54809,21 +54805,19 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
 												"type": "text/javascript"
 											}
@@ -54832,7 +54826,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "a3483249-fd9a-4366-b9b3-b88cae713028",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -54876,9 +54872,8 @@
 											],
 											"variable": [
 												{
-													"id": "17ceb22e-db5a-44a2-9ed8-596c3bd11262",
 													"key": "subscription_id",
-													"value": ""
+													"value": "{{subscriptionId}}"
 												}
 											]
 										}
@@ -55031,21 +55026,19 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
 												"type": "text/javascript"
 											}
@@ -55054,7 +55047,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "a3483249-fd9a-4366-b9b3-b88cae713028",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -55282,7 +55277,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "95aaacf8-f93e-4fc8-9924-ca30f05a8044",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -55316,7 +55313,7 @@
 											}
 										},
 										"url": {
-											"raw": "{{base_url}}/subscriptions/stats?start_date=2023-05-1&end_date=2024-05-1",
+											"raw": "{{base_url}}/subscriptions/stats?start_date=2023-01-1&end_date=2024-05-1",
 											"host": [
 												"{{base_url}}"
 											],
@@ -55327,7 +55324,7 @@
 											"query": [
 												{
 													"key": "start_date",
-													"value": "2023-05-1"
+													"value": "2023-01-1"
 												},
 												{
 													"key": "end_date",
