@@ -57333,7 +57333,9 @@
 											"listen": "prerequest",
 											"script": {
 												"id": "9257463f-cd93-471e-88d0-9da28d37bc15",
-												"exec": [],
+												"exec": [
+													""
+												],
 												"type": "text/javascript"
 											}
 										}
@@ -57344,7 +57346,10 @@
 									},
 									"request": {
 										"auth": {
-											"type": "noauth"
+											"type": "bearer",
+											"bearer": {
+												"token": "{{BillerTOKEN}}"
+											}
 										},
 										"method": "POST",
 										"header": [
@@ -57356,7 +57361,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"name\": \"{{$randomWord}} Role\",\n    \"description\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",\n    \"permissions\": [\"add_users\"],\n    \"token\": \"{{2FAToken}}\"\n}",
+											"raw": "{\n    \"name\": \"{{$randomWord}} Role\",\n    \"description\": \"{{$randomJobDescriptor}}\",\n    \"permissions\": [\"add_users\"],\n    \"token\": \"{{2FAToken}}\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
