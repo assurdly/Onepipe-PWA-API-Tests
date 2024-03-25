@@ -1,0 +1,9 @@
+{
+    "first_name": "Orion",
+    "last_name": "Kling",
+    "phone_number": "234701172529700",
+    "company_name": "VonRueden Marisa LTD",
+    "rc_number": "RC1111111",
+    "email": "Hertha@mailinator.com",
+    "password": "Tester@12"
+}

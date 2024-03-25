@@ -1,0 +1,9 @@
+{
+    "first_name": "Sammy",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Bahringer Derick LTD",
+    "rc_number": "RC1111110",
+    "email": "Edgar@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,9 +1,0 @@
-{
-    "first_name": "Eldred",
-    "last_name": "Tromp",
-    "phone_number": "07011725297",
-    "company_name": "Walsh Zakary LTD",
-    "rc_number": "RC1111111",
-    "email": "Yvette@mailinator",
-    "password": "Tester@12"
-}

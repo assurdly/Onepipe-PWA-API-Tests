@@ -1,0 +1,9 @@
+{
+    "first_name": "Destin",
+    "last_name": "Nitzsche",
+    "phone_number": "07011725297",
+    "company_name": "Monahan Leonard LTD",
+    "rc_number": "RC1111111",
+    "email": "Madonna@mailinator.com",
+    "password": "Teste"
+}

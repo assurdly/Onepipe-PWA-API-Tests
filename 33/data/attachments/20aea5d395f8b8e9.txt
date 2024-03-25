@@ -1,9 +1,0 @@
-{
-    "first_name": "Koelpin",
-    "last_name": "Lehner",
-    "phone_number": "",
-    "company_name": "Ratke Lavonne LTD",
-    "rc_number": "RC1111111",
-    "email": "Providenci@mailinator.com",
-    "password": "Tester@12"
-}

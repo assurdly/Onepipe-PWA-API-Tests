@@ -1,0 +1,9 @@
+{
+    "first_name": "Carroll",
+    "last_name": "O'Conner",
+    "phone_number": "07011er4569",
+    "company_name": "Casper Theron LTD",
+    "rc_number": "8388560454",
+    "email": "Cloyd@mailinator.com",
+    "password": "Tester@12"
+}

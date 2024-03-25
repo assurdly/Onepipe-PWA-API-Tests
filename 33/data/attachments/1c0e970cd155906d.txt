@@ -1,9 +1,0 @@
-{
-    "first_name": "Kody",
-    "last_name": "Kemmer",
-    "phone_number": "07011",
-    "company_name": "Kulas Henry LTD",
-    "rc_number": "RC1111111",
-    "email": "Beulah@mailinator.com",
-    "password": "Tester@12"
-}

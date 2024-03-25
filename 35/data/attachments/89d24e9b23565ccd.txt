@@ -1,0 +1,9 @@
+{
+    "first_name": "Ledner",
+    "last_name": "Fisher",
+    "phone_number": "",
+    "company_name": "Wyman Eloisa LTD",
+    "rc_number": "RC1111111",
+    "email": "Percy@mailinator.com",
+    "password": "Tester@12"
+}

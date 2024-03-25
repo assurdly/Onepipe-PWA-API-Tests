@@ -1,9 +1,0 @@
-{
-    "first_name": "Giles",
-    "last_name": "Batz",
-    "phone_number": "07011725297",
-    "company_name": "Melvina Maggio LTD",
-    "rc_number": "",
-    "email": "Brittany@mailinator.com",
-    "password": "Tester@12"
-}

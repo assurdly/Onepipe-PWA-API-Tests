@@ -1,0 +1,9 @@
+{
+    "first_name": "Felipe",
+    "last_name": "Morar",
+    "phone_number": "07011725297",
+    "company_name": "Reichel Karen LTD",
+    "rc_number": "9193501991",
+    "email": "ElissaSSL@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Kraig",
+    "last_name": "Feil",
+    "phone_number": "07011725297",
+    "company_name": "Spinka Madilyn LTD",
+    "rc_number": "1605696531",
+    "email": "Paolo@mailinator.com",
+    "password": "Tester@12"
+}

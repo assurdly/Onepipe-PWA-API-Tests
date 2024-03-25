@@ -1,0 +1,9 @@
+{
+    "first_name": "Maryse",
+    "last_name": "Heaney",
+    "phone_number": "07011",
+    "company_name": "Waters Dovie LTD",
+    "rc_number": "RC1111111",
+    "email": "Angelo@mailinator.com",
+    "password": "Tester@12"
+}

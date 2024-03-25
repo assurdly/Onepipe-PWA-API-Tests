@@ -1,9 +1,0 @@
-{
-    "first_name": "Christophe",
-    "last_name": "",
-    "phone_number": "07011725297",
-    "company_name": "O'Kon Lauren LTD",
-    "rc_number": "RC1111110",
-    "email": "Kelly@mailinator.com",
-    "password": "Tester@12"
-}
