@@ -1,6 +1,0 @@
-{
-    "name": "synthesize Role",
-    "description": "Tempore quo quod quam.",
-    "permissions": ["add_users", "view_users"],
-    "token": "000000"
-}

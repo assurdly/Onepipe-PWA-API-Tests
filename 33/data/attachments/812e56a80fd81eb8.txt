@@ -1,0 +1,9 @@
+{
+    "first_name": "Elsa",
+    "last_name": "Hansen",
+    "phone_number": "07011725297",
+    "company_name": "Hegmann George LTD",
+    "rc_number": "4735246326",
+    "email": "ArdellaSCSI@mailinator.com",
+    "password": "Tester@12"
+}

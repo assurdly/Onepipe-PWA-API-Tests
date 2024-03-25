@@ -1,0 +1,9 @@
+{
+    "first_name": "Jamir",
+    "last_name": "Schimmel",
+    "phone_number": "07011725297",
+    "company_name": "Tromp Nicholaus LTD",
+    "rc_number": "9120378252",
+    "email": "Alexis@mailinator.com",
+    "password": "Tester@12"
+}

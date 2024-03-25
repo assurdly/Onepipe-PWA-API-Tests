@@ -1,0 +1,9 @@
+{
+    "first_name": "Haleigh",
+    "last_name": "Cartwright",
+    "phone_number": "07011er4569",
+    "company_name": "Sauer Carolyne LTD",
+    "rc_number": "2913167156",
+    "email": "Serenity@mailinator.com",
+    "password": "Tester@12"
+}

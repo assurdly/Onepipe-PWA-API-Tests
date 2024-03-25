@@ -1,0 +1,9 @@
+{
+    "first_name": "Howell",
+    "last_name": "Emard",
+    "phone_number": "07011725297",
+    "company_name": "Schmidt Kole LTD",
+    "rc_number": "RC1111111",
+    "email": "Rhett@mailinator.com",
+    "password": "Tester@12"
+}
