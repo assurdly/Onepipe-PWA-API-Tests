@@ -1,0 +1,9 @@
+{
+    "first_name": "Kraig",
+    "last_name": "Purdy",
+    "phone_number": "07011725297",
+    "company_name": "Ernesto Connelly LTD",
+    "rc_number": "",
+    "email": "Isaiah@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Tobin",
+    "last_name": "Brakus",
+    "phone_number": "07011725297",
+    "company_name": "Lockman Roscoe LTD",
+    "rc_number": "2081591667",
+    "email": "Erwin@mailinator.com",
+    "password": "Tester@12"
+}

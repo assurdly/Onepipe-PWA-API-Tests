@@ -1,0 +1,9 @@
+{
+    "first_name": "Anderson",
+    "last_name": "Cronin",
+    "phone_number": "07011725297",
+    "company_name": "Kessler Abe LTD",
+    "rc_number": "RC1111111",
+    "email": "Leif@mailinator.com",
+    "password": "Teste"
+}

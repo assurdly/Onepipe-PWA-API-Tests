@@ -1,0 +1,9 @@
+{
+    "first_name": "Albin",
+    "last_name": "Heaney",
+    "phone_number": "234701172529700",
+    "company_name": "Considine Lila LTD",
+    "rc_number": "RC1111111",
+    "email": "Clara@mailinator.com",
+    "password": "Tester@12"
+}

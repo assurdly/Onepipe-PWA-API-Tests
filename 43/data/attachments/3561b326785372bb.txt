@@ -1,0 +1,9 @@
+{
+    "first_name": "Ewald",
+    "last_name": "Emmerich",
+    "phone_number": "07011er4569",
+    "company_name": "Walter Kali LTD",
+    "rc_number": "1432091870",
+    "email": "Dion@mailinator.com",
+    "password": "Tester@12"
+}

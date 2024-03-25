@@ -1,0 +1,9 @@
+{
+    "first_name": "Tyrel",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Bartell Celia LTD",
+    "rc_number": "RC1111110",
+    "email": "Lamar@mailinator.com",
+    "password": "Tester@12"
+}

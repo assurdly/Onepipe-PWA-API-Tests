@@ -1,0 +1,9 @@
+{
+    "first_name": "Hessel",
+    "last_name": "Wiegand",
+    "phone_number": "",
+    "company_name": "Adams Scarlett LTD",
+    "rc_number": "RC1111111",
+    "email": "Raquel@mailinator.com",
+    "password": "Tester@12"
+}

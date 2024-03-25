@@ -1,0 +1,9 @@
+{
+    "first_name": "Dayton",
+    "last_name": "Turcotte",
+    "phone_number": "07011725297",
+    "company_name": "Dietrich Eugene LTD",
+    "rc_number": "8898276006",
+    "email": "RudolphSSL@mailinator.com",
+    "password": "Tester@12"
+}

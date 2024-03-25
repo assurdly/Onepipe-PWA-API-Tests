@@ -1,0 +1,9 @@
+{
+    "first_name": "Jennyfer",
+    "last_name": "Steuber",
+    "phone_number": "07011",
+    "company_name": "Nikolaus Annamae LTD",
+    "rc_number": "RC1111111",
+    "email": "Agustin@mailinator.com",
+    "password": "Tester@12"
+}
