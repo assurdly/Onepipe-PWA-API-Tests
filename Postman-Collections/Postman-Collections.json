@@ -4122,7 +4122,8 @@
 													"    pm.expect(jsonData.message).to.eql(\"Invalid or Expired Key\")\r",
 													"})"
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										},
 										{
@@ -4132,7 +4133,8 @@
 												"exec": [
 													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										}
 									],
@@ -4151,7 +4153,7 @@
 										"header": [],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"key\": \"{{BillerKEY}}\",\n    \"token\": \"636964\"\n}",
+											"raw": "{\n    \"key\": \"00000\",\n    \"token\": \"636964\"\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -9011,23 +9013,22 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										},
 										{
@@ -9037,7 +9038,8 @@
 												"exec": [
 													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										}
 									],
@@ -9248,23 +9250,22 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										},
 										{
@@ -9274,7 +9275,8 @@
 												"exec": [
 													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										}
 									],
@@ -9485,23 +9487,22 @@
 												"exec": [
 													"var jsonData = pm.response.json();",
 													"",
-													"pm.test(\"Status code is 200\", function(){",
-													"    pm.response.to.have.status(200);",
+													"pm.test(\"Status code is 401\", function(){",
+													"    pm.response.to.have.status(401);",
 													"})",
-													"pm.test(\"Status code is OK\", function () {",
-													"    pm.response.to.have.status(\"OK\");",
+													"pm.test(\"Status code is Unauthorized\", function () {",
+													"    pm.response.to.have.status(\"Unauthorized\");",
 													"});",
-													"pm.test(\"Status is Success\", function(){",
-													"    pm.expect(jsonData.status).to.eql(\"success\")",
+													"pm.test(\"Status is Error\", function(){",
+													"    pm.expect(jsonData.status).to.eql(\"error\")",
 													"})",
-													"pm.test(\"message is 'success'\", function(){",
-													"    pm.expect(jsonData.message).to.eql(\"success\")",
+													"pm.test(\"message is 'jwt expired'\", function(){",
+													"    pm.expect(jsonData.message).to.eql(\"jwt expired\")",
 													"})",
-													"pm.test(\"Validate that a data is returned\", function(){",
-													"    pm.expect(jsonData.data).to.not.be.empty",
-													"})"
+													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										},
 										{
@@ -9511,7 +9512,8 @@
 												"exec": [
 													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										}
 									],
