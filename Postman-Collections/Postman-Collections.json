@@ -16965,7 +16965,31 @@
 											"response": []
 										}
 									],
-									"id": "af4cae7d-d9aa-40bf-bcce-19a409c3c854"
+									"id": "af4cae7d-d9aa-40bf-bcce-19a409c3c854",
+									"event": [
+										{
+											"listen": "prerequest",
+											"script": {
+												"id": "857ca4fc-d7a5-4862-a7ea-380457a7fd57",
+												"type": "text/javascript",
+												"packages": {},
+												"exec": [
+													"postman"
+												]
+											}
+										},
+										{
+											"listen": "test",
+											"script": {
+												"id": "176eddcf-b5dd-4276-affc-2f94959dbfe6",
+												"type": "text/javascript",
+												"packages": {},
+												"exec": [
+													""
+												]
+											}
+										}
+									]
 								},
 								{
 									"name": "Deactivate/Activate User",
@@ -17244,15 +17268,19 @@
 															"})\r",
 															""
 														],
-														"type": "text/javascript"
+														"type": "text/javascript",
+														"packages": {}
 													}
 												},
 												{
 													"listen": "prerequest",
 													"script": {
 														"id": "2be71808-eec2-47b3-bf62-8e74e234e8cb",
-														"exec": [],
-														"type": "text/javascript"
+														"exec": [
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
 													}
 												}
 											],
@@ -17262,7 +17290,10 @@
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{BillerTOKEN}}"
+													}
 												},
 												"method": "PATCH",
 												"header": [
