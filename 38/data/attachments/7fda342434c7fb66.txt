@@ -1,0 +1,9 @@
+{
+    "first_name": "Terry",
+    "last_name": "Hilll",
+    "phone_number": "",
+    "company_name": "Kerluke Koby LTD",
+    "rc_number": "RC1111111",
+    "email": "Martine@mailinator.com",
+    "password": "Tester@12"
+}

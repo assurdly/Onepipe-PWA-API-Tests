@@ -1,0 +1,9 @@
+{
+    "first_name": "Buddy",
+    "last_name": "Bradtke",
+    "phone_number": "07011725297",
+    "company_name": "Moore Mozelle LTD",
+    "rc_number": "8017542363",
+    "email": "GoldaSMS@mailinator.com",
+    "password": "Tester@12"
+}

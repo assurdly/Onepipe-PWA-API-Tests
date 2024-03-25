@@ -1,6 +1,0 @@
-{
-    "name": "Movies Role",
-    "description": "Quasi accusamus vitae voluptate doloribus.",
-    "permissions": ["add_users", "view_users"],
-    "token": "000000"
-}

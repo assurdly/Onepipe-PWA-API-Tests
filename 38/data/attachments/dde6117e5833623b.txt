@@ -1,0 +1,9 @@
+{
+    "first_name": "Aaliyah",
+    "last_name": "Johnston",
+    "phone_number": "07011725297",
+    "company_name": "Gleichner Veda LTD",
+    "rc_number": "RC1111111",
+    "email": "Elmira@mailinator",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Seth",
+    "last_name": "Wilderman",
+    "phone_number": "07011725297",
+    "company_name": "Alfreda Hudson LTD",
+    "rc_number": "",
+    "email": "Adelbert@mailinator.com",
+    "password": "Tester@12"
+}

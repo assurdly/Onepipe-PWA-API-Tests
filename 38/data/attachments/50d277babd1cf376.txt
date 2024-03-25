@@ -1,0 +1,9 @@
+{
+    "first_name": "Stefan",
+    "last_name": "Kunde",
+    "phone_number": "07011er4569",
+    "company_name": "O'Keefe Ollie LTD",
+    "rc_number": "8300860142",
+    "email": "Kallie@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,6 +1,0 @@
-{
-    "name": "Roleapplication",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus congue lacus ac rhoncus.",
-    "permissions": ["nid"],
-    "token": "000000"
-}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Reymundo",
+    "last_name": "Auer",
+    "phone_number": "07011725297",
+    "company_name": "Rath Frida LTD",
+    "rc_number": "8971676093",
+    "email": "Etha@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Madison",
+    "last_name": "Goyette",
+    "phone_number": "234701172529700",
+    "company_name": "Murazik Tristin LTD",
+    "rc_number": "RC1111111",
+    "email": "Kelvin@mailinator.com",
+    "password": "Tester@12"
+}

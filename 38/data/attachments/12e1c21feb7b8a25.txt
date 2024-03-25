@@ -1,0 +1,9 @@
+{
+    "first_name": "Nicolas",
+    "last_name": "Klocko",
+    "phone_number": "07011",
+    "company_name": "Smith Torrey LTD",
+    "rc_number": "RC1111111",
+    "email": "Ines@mailinator.com",
+    "password": "Tester@12"
+}

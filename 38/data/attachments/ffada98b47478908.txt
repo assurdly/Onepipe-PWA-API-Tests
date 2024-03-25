@@ -1,0 +1,9 @@
+{
+    "first_name": "Hassan",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Fay Thea LTD",
+    "rc_number": "RC1111110",
+    "email": "Johanna@mailinator.com",
+    "password": "Tester@12"
+}
