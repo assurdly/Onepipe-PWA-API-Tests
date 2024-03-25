@@ -3706,6 +3706,104 @@
 									"response": []
 								},
 								{
+									"name": "Valid Login with 2FA - MINNIE",
+									"event": [
+										{
+											"listen": "test",
+											"script": {
+												"id": "a53793c7-4a00-4bd6-97c9-7bb7b59d63cb",
+												"exec": [
+													"// var jsonData = pm.response.json();",
+													"// var Request = JSON.parse(pm.request.body.raw);",
+													"// if(jsonData.data.two_fa === true){",
+													"//     var Key = jsonData.data.key",
+													"//     pm.environment.set(\"BillerKEY\", Key)",
+													"//     pm.collectionVariables.set(\"BillerKEY\", Key)",
+													"",
+													"//     pm.test(\"Status code is 200\", function(){",
+													"//         pm.response.to.have.status(200);",
+													"//     })",
+													"//     pm.test(\"Status code is OK\", function () {",
+													"//         pm.response.to.have.status(\"OK\");",
+													"//     });",
+													"//     pm.test(\"Status is Success\", function(){",
+													"//         pm.expect(jsonData.status).to.eql(\"success\")",
+													"//     })",
+													"//     pm.test(\"message is successs\", function(){",
+													"//         pm.expect(jsonData.message).to.eql(\"success\")",
+													"//     })  ",
+													"//     pm.test(\"Check for two fa\", function(){",
+													"//     pm.expect(jsonData.data.two_fa).to.eql(true)",
+													"//     })",
+													"// }",
+													"// else if (jsonData.data.user.two_fa === 0){",
+													"//     pm.test(\"2FA is false\", function(){",
+													"//         pm.expect(jsonData.data.user.two_fa).to.eql(0)",
+													"//     })",
+													"//     var Token = jsonData.data.token_data.token",
+													"//     pm.environment.set(\"BillerTOKEN\", Token)",
+													"//     pm.collectionVariables.set(\"BillerTOKEN\", Token)",
+													"//     pm.test(\"Status code is 200\", function(){",
+													"//     pm.response.to.have.status(200);",
+													"//     })",
+													"//     pm.test(\"Status code is OK\", function () {",
+													"//         pm.response.to.have.status(\"OK\");",
+													"//     });",
+													"//     pm.test(\"Status is Success\", function(){",
+													"//         pm.expect(jsonData.status).to.eql(\"success\")",
+													"//     })",
+													"//     pm.test(\"message is successs\", function(){",
+													"//         pm.expect(jsonData.message).to.eql(\"success\")",
+													"//     })",
+													"//     pm.test(\"two fa is false\", function(){",
+													"//         pm.expect(jsonData.data.user.two_fa).to.equal(0)",
+													"//     })",
+													"//     pm.test(\"Email is accurate\", function(){",
+													"//         pm.expect(jsonData.data.user.email).to.eql(Request.email)",
+													"//     })",
+													"// }",
+													""
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										},
+										{
+											"listen": "prerequest",
+											"script": {
+												"id": "ea4800cf-0aa2-4e6d-ac73-4b338817e330",
+												"exec": [
+													""
+												],
+												"type": "text/javascript",
+												"packages": {}
+											}
+										}
+									],
+									"id": "b7273692-695b-433f-9b4e-02371dba7dfe",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"auth": {
+											"type": "noauth"
+										},
+										"method": "POST",
+										"header": [],
+										"body": {
+											"mode": "raw",
+											"raw": "{\n    \"email\": \"minniezee@mailinator.com\",\n    \"password\": \"Password12@@\"\n}",
+											"options": {
+												"raw": {
+													"language": "json"
+												}
+											}
+										},
+										"url": "{{base_url}}/auth/login"
+									},
+									"response": []
+								},
+								{
 									"name": "Login Invalid Credentials",
 									"event": [
 										{
@@ -4595,7 +4693,8 @@
 													"//     pm.expect(jsonData.data.beneficiary_id.toString()).to.eql(4)",
 													"// })"
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										},
 										{
@@ -4613,7 +4712,8 @@
 													"pm.collectionVariables.set(\"FutureDate\", FutureDate)",
 													"console.log(StartDate, FutureDate)"
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										}
 									],
