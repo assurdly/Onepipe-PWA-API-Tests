@@ -3706,63 +3706,48 @@
 									"response": []
 								},
 								{
-									"name": "Valid Login with 2FA - MINNIE",
+									"name": "Valid Login without 2FA - MINNIE",
 									"event": [
 										{
 											"listen": "test",
 											"script": {
 												"id": "a53793c7-4a00-4bd6-97c9-7bb7b59d63cb",
 												"exec": [
-													"// var jsonData = pm.response.json();",
-													"// var Request = JSON.parse(pm.request.body.raw);",
-													"// if(jsonData.data.two_fa === true){",
-													"//     var Key = jsonData.data.key",
-													"//     pm.environment.set(\"BillerKEY\", Key)",
-													"//     pm.collectionVariables.set(\"BillerKEY\", Key)",
-													"",
-													"//     pm.test(\"Status code is 200\", function(){",
-													"//         pm.response.to.have.status(200);",
-													"//     })",
-													"//     pm.test(\"Status code is OK\", function () {",
-													"//         pm.response.to.have.status(\"OK\");",
-													"//     });",
-													"//     pm.test(\"Status is Success\", function(){",
-													"//         pm.expect(jsonData.status).to.eql(\"success\")",
-													"//     })",
-													"//     pm.test(\"message is successs\", function(){",
-													"//         pm.expect(jsonData.message).to.eql(\"success\")",
-													"//     })  ",
-													"//     pm.test(\"Check for two fa\", function(){",
-													"//     pm.expect(jsonData.data.two_fa).to.eql(true)",
-													"//     })",
-													"// }",
-													"// else if (jsonData.data.user.two_fa === 0){",
-													"//     pm.test(\"2FA is false\", function(){",
-													"//         pm.expect(jsonData.data.user.two_fa).to.eql(0)",
-													"//     })",
-													"//     var Token = jsonData.data.token_data.token",
-													"//     pm.environment.set(\"BillerTOKEN\", Token)",
-													"//     pm.collectionVariables.set(\"BillerTOKEN\", Token)",
-													"//     pm.test(\"Status code is 200\", function(){",
-													"//     pm.response.to.have.status(200);",
-													"//     })",
-													"//     pm.test(\"Status code is OK\", function () {",
-													"//         pm.response.to.have.status(\"OK\");",
-													"//     });",
-													"//     pm.test(\"Status is Success\", function(){",
-													"//         pm.expect(jsonData.status).to.eql(\"success\")",
-													"//     })",
-													"//     pm.test(\"message is successs\", function(){",
-													"//         pm.expect(jsonData.message).to.eql(\"success\")",
-													"//     })",
-													"//     pm.test(\"two fa is false\", function(){",
-													"//         pm.expect(jsonData.data.user.two_fa).to.equal(0)",
-													"//     })",
-													"//     pm.test(\"Email is accurate\", function(){",
-													"//         pm.expect(jsonData.data.user.email).to.eql(Request.email)",
-													"//     })",
-													"// }",
-													""
+													"var jsonData = pm.response.json();",
+													"if (jsonData.data.two_fa === 0){",
+													"    var Token = jsonData.data.token_data.token",
+													"    pm.environment.set(\"TOKEN\", Token)",
+													"    pm.collectionVariables.set(\"TOKEN\", Token)",
+													"    pm.test(\"Status code is 200\", function(){",
+													"    pm.response.to.have.status(200);",
+													"    })",
+													"    pm.test(\"Status code is OK\", function () {",
+													"        pm.response.to.have.status(\"OK\");",
+													"    });",
+													"    pm.test(\"Status is Success\", function(){",
+													"        pm.expect(jsonData.status).to.eql(\"success\")",
+													"    })",
+													"    pm.test(\"message is successs\", function(){",
+													"        pm.expect(jsonData.message).to.eql(\"success\")",
+													"    }) ",
+													"}",
+													"else{",
+													"    pm.test(\"Status code is 200\", function(){",
+													"    pm.response.to.have.status(200);",
+													"    })",
+													"    pm.test(\"Status code is OK\", function () {",
+													"        pm.response.to.have.status(\"OK\");",
+													"    });",
+													"    pm.test(\"Status is Success\", function(){",
+													"        pm.expect(jsonData.status).to.eql(\"success\")",
+													"    })",
+													"    pm.test(\"message is successs\", function(){",
+													"        pm.expect(jsonData.message).to.eql(\"success\")",
+													"    })",
+													"    // pm.test(\"two fa is true\", function(){",
+													"    //     pm.expect(jsonData.data.two_fa).to.eql(true)",
+													"    // })",
+													"}"
 												],
 												"type": "text/javascript",
 												"packages": {}
@@ -4738,7 +4723,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"account_number\": \"015112314\",\n    \"phone_number\": \"08138096550\",\n    \"frequency\": \"daily\",\n    \"bank_id\": 15,\n    \"email\": \"adetutuisinks@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"emandate\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
+											"raw": "{\n    \"account_number\": \"2059467029\",\n    \"phone_number\": \"09167131503\",\n    \"frequency\": \"daily\",\n    \"bank_id\": ,\n    \"email\": \"minniedion@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"emandate\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -21882,7 +21867,8 @@
 													"    });\r",
 													"});"
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										},
 										{
@@ -21892,7 +21878,8 @@
 												"exec": [
 													""
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										}
 									],
@@ -21902,7 +21889,10 @@
 									},
 									"request": {
 										"auth": {
-											"type": "noauth"
+											"type": "bearer",
+											"bearer": {
+												"token": "{{BillerTOKEN}}"
+											}
 										},
 										"method": "GET",
 										"header": [
