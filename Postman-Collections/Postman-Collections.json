@@ -4691,7 +4691,7 @@
 												"exec": [
 													"var StartDate = new Date()",
 													"StartDate.setDate(StartDate.getDate() + 1)",
-													"StartDate = FutureDate.toISOString()",
+													"StartDate = StartDate.toISOString()",
 													"pm.collectionVariables.set(\"StartDate\", StartDate)",
 													"",
 													"// ADD 7days to the current date",
@@ -4714,7 +4714,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NjYsInR5cGUiOiJhdXRoIiwiaWF0IjoxNzExMzk4MjU3LCJleHAiOjE3MTE0MDE4NTd9.eTQ-QdrSBGYqnvQgIjK1KZcy6_l21boGjVJnahHAKMQ"
+												"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NjYsInR5cGUiOiJhdXRoIiwiaWF0IjoxNzExMzk4NjQ4LCJleHAiOjE3MTE0MDIyNDh9.4Kt5NG30kDu35bEP3rm9IZonvOQ1KEpqIiRmmK8yO5I"
 											}
 										},
 										"method": "POST",
