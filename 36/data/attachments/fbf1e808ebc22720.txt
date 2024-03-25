@@ -1,0 +1,9 @@
+{
+    "first_name": "Florencio",
+    "last_name": "Waelchi",
+    "phone_number": "07011725297",
+    "company_name": "Naomi Pfannerstill LTD",
+    "rc_number": "",
+    "email": "Hayden@mailinator.com",
+    "password": "Tester@12"
+}

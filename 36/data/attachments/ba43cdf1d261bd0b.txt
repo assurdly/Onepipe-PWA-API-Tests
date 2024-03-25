@@ -1,0 +1,9 @@
+{
+    "first_name": "Jocelyn",
+    "last_name": "Dare",
+    "phone_number": "07011725297",
+    "company_name": "Weissnat Murray LTD",
+    "rc_number": "RC1111111",
+    "email": "Fanny@mailinator.com",
+    "password": "Teste"
+}

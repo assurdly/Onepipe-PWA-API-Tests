@@ -1,0 +1,9 @@
+{
+    "first_name": "Ike",
+    "last_name": "Nader",
+    "phone_number": "07011725297",
+    "company_name": "Gleason Nella LTD",
+    "rc_number": "RC1111111",
+    "email": "Elnora@mailinator",
+    "password": "Tester@12"
+}

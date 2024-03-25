@@ -1,0 +1,9 @@
+{
+    "first_name": "Stephania",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Turcotte Lucious LTD",
+    "rc_number": "RC1111110",
+    "email": "Jocelyn@mailinator.com",
+    "password": "Tester@12"
+}

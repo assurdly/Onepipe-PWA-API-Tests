@@ -1,0 +1,9 @@
+{
+    "first_name": "Alvina",
+    "last_name": "Marks",
+    "phone_number": "07011er4569",
+    "company_name": "Wiza Dee LTD",
+    "rc_number": "1967812815",
+    "email": "Adeline@mailinator.com",
+    "password": "Tester@12"
+}

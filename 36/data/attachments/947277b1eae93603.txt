@@ -1,0 +1,9 @@
+{
+    "first_name": "Eladio",
+    "last_name": "Welch",
+    "phone_number": "07011725297",
+    "company_name": "Rutherford Talia LTD",
+    "rc_number": "9122841060",
+    "email": "Hipolito@mailinator.com",
+    "password": "Tester@12"
+}

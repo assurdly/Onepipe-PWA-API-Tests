@@ -1,0 +1,9 @@
+{
+    "first_name": "Vella",
+    "last_name": "Stiedemann",
+    "phone_number": "07011725297",
+    "company_name": "Stroman Carrie LTD",
+    "rc_number": "3679463267",
+    "email": "WendyCOM@mailinator.com",
+    "password": "Tester@12"
+}

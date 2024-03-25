@@ -1,0 +1,9 @@
+{
+    "first_name": "Hauck",
+    "last_name": "Pfeffer",
+    "phone_number": "",
+    "company_name": "Willms Minnie LTD",
+    "rc_number": "RC1111111",
+    "email": "Delta@mailinator.com",
+    "password": "Tester@12"
+}

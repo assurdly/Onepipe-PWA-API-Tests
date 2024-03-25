@@ -1,0 +1,9 @@
+{
+    "first_name": "Marquis",
+    "last_name": "Bahringer",
+    "phone_number": "07011",
+    "company_name": "Crona Katelynn LTD",
+    "rc_number": "RC1111111",
+    "email": "Adolph@mailinator.com",
+    "password": "Tester@12"
+}
