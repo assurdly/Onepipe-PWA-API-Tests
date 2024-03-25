@@ -4714,7 +4714,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NjYsInR5cGUiOiJhdXRoIiwiaWF0IjoxNzExMzk4NjQ4LCJleHAiOjE3MTE0MDIyNDh9.4Kt5NG30kDu35bEP3rm9IZonvOQ1KEpqIiRmmK8yO5I"
+												"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NjYsInR5cGUiOiJhdXRoIiwiaWF0IjoxNzExMzk5OTc1LCJleHAiOjE3MTE0MDM1NzV9.PLVoPEk0OgNjGk0oAtfKcmW5Lp2ZxGrCX3sxQIUzwes"
 											}
 										},
 										"method": "POST",
