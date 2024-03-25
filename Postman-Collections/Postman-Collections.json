@@ -4465,7 +4465,8 @@
 													"//     pm.expect(jsonData.data.beneficiary_id.toString()).to.eql(4)",
 													"// })"
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										},
 										{
@@ -4483,7 +4484,8 @@
 													"pm.collectionVariables.set(\"FutureDate\", FutureDate)",
 													"console.log(StartDate, FutureDate)"
 												],
-												"type": "text/javascript"
+												"type": "text/javascript",
+												"packages": {}
 											}
 										}
 									],
@@ -4710,7 +4712,7 @@
 										"auth": {
 											"type": "bearer",
 											"bearer": {
-												"token": "{{BillerTOKEN}}"
+												"token": "{{TOKEN}}"
 											}
 										},
 										"method": "POST",
@@ -4723,7 +4725,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"account_number\": \"2059467029\",\n    \"phone_number\": \"09167131503\",\n    \"frequency\": \"daily\",\n    \"bank_id\": ,\n    \"email\": \"minniedion@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"emandate\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
+											"raw": "{\n    \"account_number\": \"2059467029\",\n    \"phone_number\": \"09167131503\",\n    \"frequency\": \"daily\",\n    \"bank_id\": 33,\n    \"email\": \"minniedion@gmail.com\",\n    \"start_date\": \"{{StartDate}}\",\n    \"end_date\": \"{{FutureDate}}\",\n    \"type\": \"emandate\",\n    \"narration\": \"Mandate for the payments of personal loan\",\n    \"address\": \"Ojodu Berger\",\n    \"amount\": 200\n}",
 											"options": {
 												"raw": {
 													"language": "json"
