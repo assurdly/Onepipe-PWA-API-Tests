@@ -1,0 +1,9 @@
+{
+    "first_name": "Lilly",
+    "last_name": "O'Hara",
+    "phone_number": "07011",
+    "company_name": "Bednar Nichole LTD",
+    "rc_number": "RC1111111",
+    "email": "Juwan@mailinator.com",
+    "password": "Tester@12"
+}

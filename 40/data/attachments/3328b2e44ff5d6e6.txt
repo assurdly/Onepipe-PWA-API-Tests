@@ -1,0 +1,9 @@
+{
+    "first_name": "Alex",
+    "last_name": "Cronin",
+    "phone_number": "07011725297",
+    "company_name": "Feest Bernard LTD",
+    "rc_number": "3017178747",
+    "email": "CarriePNG@mailinator.com",
+    "password": "Tester@12"
+}

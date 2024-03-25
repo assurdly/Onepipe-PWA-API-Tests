@@ -1,0 +1,9 @@
+{
+    "first_name": "Joey",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Labadie Geovanny LTD",
+    "rc_number": "RC1111110",
+    "email": "Van@mailinator.com",
+    "password": "Tester@12"
+}

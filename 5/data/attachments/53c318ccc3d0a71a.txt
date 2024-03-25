@@ -1,6 +1,0 @@
-{
-    "name": "Cheese Role",
-    "description": "Esse at deserunt quaerat minus quis quo ut debitis.",
-    "permissions": ["add_users", "view_users"],
-    "token": "000000"
-}

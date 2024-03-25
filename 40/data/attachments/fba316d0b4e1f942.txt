@@ -1,0 +1,9 @@
+{
+    "first_name": "Brielle",
+    "last_name": "Reichert",
+    "phone_number": "07011725297",
+    "company_name": "Kihn Harold LTD",
+    "rc_number": "8318125104",
+    "email": "Garnet@mailinator.com",
+    "password": "Tester@12"
+}

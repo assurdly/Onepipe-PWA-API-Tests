@@ -1,0 +1,9 @@
+{
+    "first_name": "Willard",
+    "last_name": "Kshlerin",
+    "phone_number": "07011er4569",
+    "company_name": "Frami Maritza LTD",
+    "rc_number": "8916343229",
+    "email": "Ricky@mailinator.com",
+    "password": "Tester@12"
+}

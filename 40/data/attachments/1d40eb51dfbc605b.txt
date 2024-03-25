@@ -1,0 +1,9 @@
+{
+    "first_name": "Josie",
+    "last_name": "Ebert",
+    "phone_number": "07011725297",
+    "company_name": "Bernhard Ruby LTD",
+    "rc_number": "RC1111111",
+    "email": "Kenya@mailinator.com",
+    "password": "Teste"
+}

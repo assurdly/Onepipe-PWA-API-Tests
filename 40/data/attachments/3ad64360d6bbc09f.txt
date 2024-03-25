@@ -1,0 +1,9 @@
+{
+    "first_name": "Justus",
+    "last_name": "Gibson",
+    "phone_number": "234701172529700",
+    "company_name": "Nikolaus Jaqueline LTD",
+    "rc_number": "RC1111111",
+    "email": "Haskell@mailinator.com",
+    "password": "Tester@12"
+}

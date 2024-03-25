@@ -1,0 +1,9 @@
+{
+    "first_name": "$randomFirstName",
+    "last_name": "Beer",
+    "phone_number": "07011725297",
+    "company_name": "Boyer Ayla LTD",
+    "rc_number": "RC1111111",
+    "email": "",
+    "password": "Tester@12"
+}

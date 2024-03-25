@@ -1,0 +1,13 @@
+{
+    "account_number": "2059467029",
+    "phone_number": "09167131503",
+    "frequency": "daily",
+    "bank_id": 33,
+    "email": "minniedion@gmail.com",
+    "start_date": "2024-03-25T20:26:18.641Z",
+    "end_date": "2024-03-28T20:26:18.641Z",
+    "type": "emandate",
+    "narration": "Mandate for the payments of personal loan",
+    "address": "Ojodu Berger",
+    "amount": 200
+}

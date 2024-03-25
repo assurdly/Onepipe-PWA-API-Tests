@@ -1,0 +1,9 @@
+{
+    "first_name": "McClure",
+    "last_name": "Hettinger",
+    "phone_number": "",
+    "company_name": "Doyle Lizzie LTD",
+    "rc_number": "RC1111111",
+    "email": "Caitlyn@mailinator.com",
+    "password": "Tester@12"
+}

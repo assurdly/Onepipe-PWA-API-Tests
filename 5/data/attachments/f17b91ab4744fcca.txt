@@ -1,4 +1,0 @@
-{
-    "email": "dev@onepipe.io",
-    "password": "Password12@@"
-}
