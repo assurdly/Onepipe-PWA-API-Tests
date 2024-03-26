@@ -1,0 +1,9 @@
+{
+    "first_name": "Maudie",
+    "last_name": "Okuneva",
+    "phone_number": "07011725297",
+    "company_name": "O'Hara Dalton LTD",
+    "rc_number": "1644145266",
+    "email": "Sadye@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Landen",
+    "last_name": "Rodriguez",
+    "phone_number": "07011725297",
+    "company_name": "Huels Georgianna LTD",
+    "rc_number": "509104874",
+    "email": "GonzaloJBOD@mailinator.com",
+    "password": "Tester@12"
+}

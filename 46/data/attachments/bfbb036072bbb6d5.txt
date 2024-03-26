@@ -1,0 +1,9 @@
+{
+    "first_name": "Sabryna",
+    "last_name": "Gusikowski",
+    "phone_number": "07011725297",
+    "company_name": "Kamryn Turcotte LTD",
+    "rc_number": "",
+    "email": "Caroline@mailinator.com",
+    "password": "Tester@12"
+}

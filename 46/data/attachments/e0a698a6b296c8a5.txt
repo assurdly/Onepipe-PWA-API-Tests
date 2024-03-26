@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Spencer",
+    "phone_number": "07011725297",
+    "company_name": "Larkin Edgardo LTD",
+    "rc_number": "RC1111111",
+    "email": "Roosevelt@mailinator.com",
+    "password": ""
+}

@@ -1,0 +1,9 @@
+{
+    "first_name": "Heller",
+    "last_name": "Murray",
+    "phone_number": "",
+    "company_name": "Fahey Joan LTD",
+    "rc_number": "RC1111111",
+    "email": "Ulices@mailinator.com",
+    "password": "Tester@12"
+}

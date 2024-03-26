@@ -1,0 +1,9 @@
+{
+    "first_name": "Oceane",
+    "last_name": "Padberg",
+    "phone_number": "07011725297",
+    "company_name": "Kautzer Halie LTD",
+    "rc_number": "RC1111111",
+    "email": "Fae@mailinator.com",
+    "password": "Teste"
+}

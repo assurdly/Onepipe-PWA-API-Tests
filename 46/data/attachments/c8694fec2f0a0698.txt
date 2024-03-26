@@ -1,0 +1,9 @@
+{
+    "first_name": "Immanuel",
+    "last_name": "Hand",
+    "phone_number": "234701172529700",
+    "company_name": "Sipes Jevon LTD",
+    "rc_number": "RC1111111",
+    "email": "Alaina@mailinator.com",
+    "password": "Tester@12"
+}

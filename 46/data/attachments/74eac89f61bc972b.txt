@@ -1,0 +1,9 @@
+{
+    "first_name": "Chance",
+    "last_name": "Pfannerstill",
+    "phone_number": "07011725297",
+    "company_name": "Little Alycia LTD",
+    "rc_number": "RC1111111",
+    "email": "Devyn@mailinator",
+    "password": "Tester@12"
+}

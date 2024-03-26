@@ -1,0 +1,9 @@
+{
+    "first_name": "Tillman",
+    "last_name": "Becker",
+    "phone_number": "07011er4569",
+    "company_name": "Baumbach Madeline LTD",
+    "rc_number": "8559904235",
+    "email": "Earl@mailinator.com",
+    "password": "Tester@12"
+}
