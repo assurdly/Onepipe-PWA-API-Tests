@@ -1,0 +1,9 @@
+{
+    "first_name": "Alf",
+    "last_name": "Ratke",
+    "phone_number": "234701172529700",
+    "company_name": "Metz Lyla LTD",
+    "rc_number": "RC1111111",
+    "email": "Tyra@mailinator.com",
+    "password": "Tester@12"
+}

@@ -1,6 +1,0 @@
-{
-    "name": "Updated {{RoleName}}",
-    "description": "Super Admgin",
-    "permissions": ["add_users"],
-    "token": "000000"
-}

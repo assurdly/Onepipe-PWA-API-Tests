@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Ziemann",
+    "phone_number": "07011725297",
+    "company_name": "McClure Margarette LTD",
+    "rc_number": "RC1111111",
+    "email": "Tyshawn@mailinator.com",
+    "password": "Tester@12"
+}

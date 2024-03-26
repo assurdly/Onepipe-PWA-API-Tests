@@ -1,0 +1,9 @@
+{
+    "first_name": "Shanelle",
+    "last_name": "Schmeler",
+    "phone_number": "07011725297",
+    "company_name": "Uriel Nitzsche LTD",
+    "rc_number": "",
+    "email": "Theodore@mailinator.com",
+    "password": "Tester@12"
+}

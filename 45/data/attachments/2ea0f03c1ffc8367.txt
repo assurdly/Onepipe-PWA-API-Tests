@@ -1,0 +1,9 @@
+{
+    "first_name": "Kellie",
+    "last_name": "",
+    "phone_number": "07011725297",
+    "company_name": "Bashirian Oscar LTD",
+    "rc_number": "RC1111110",
+    "email": "Julie@mailinator.com",
+    "password": "Tester@12"
+}

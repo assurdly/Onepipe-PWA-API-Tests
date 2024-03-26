@@ -1,0 +1,9 @@
+{
+    "first_name": "Alysa",
+    "last_name": "Veum",
+    "phone_number": "07011",
+    "company_name": "Harvey Nora LTD",
+    "rc_number": "RC1111111",
+    "email": "Dorian@mailinator.com",
+    "password": "Tester@12"
+}

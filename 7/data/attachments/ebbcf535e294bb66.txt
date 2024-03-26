@@ -1,6 +1,0 @@
-{
-    "name": "Horizontal Role",
-    "description": "Deserunt alias asperiores qui modi.",
-    "permissions": ["add_users", "view_users"],
-    "token": "000000"
-}

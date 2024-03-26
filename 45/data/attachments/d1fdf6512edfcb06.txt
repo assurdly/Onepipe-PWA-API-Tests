@@ -1,0 +1,9 @@
+{
+    "first_name": "Raphael",
+    "last_name": "Pfeffer",
+    "phone_number": "07011725297",
+    "company_name": "Huels Merritt LTD",
+    "rc_number": "8164012922",
+    "email": "Ricardo@mailinator.com",
+    "password": "Tester@12"
+}

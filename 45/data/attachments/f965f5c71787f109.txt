@@ -1,0 +1,9 @@
+{
+    "first_name": "Kuphal",
+    "last_name": "Schuppe",
+    "phone_number": "",
+    "company_name": "Legros Evangeline LTD",
+    "rc_number": "RC1111111",
+    "email": "Karli@mailinator.com",
+    "password": "Tester@12"
+}

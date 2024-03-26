@@ -1,0 +1,9 @@
+{
+    "first_name": "Lon",
+    "last_name": "Hyatt",
+    "phone_number": "07011er4569",
+    "company_name": "Reichert Asha LTD",
+    "rc_number": "6289765787",
+    "email": "Hester@mailinator.com",
+    "password": "Tester@12"
+}

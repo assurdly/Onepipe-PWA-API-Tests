@@ -1,0 +1,9 @@
+{
+    "first_name": "Salvatore",
+    "last_name": "Daniel",
+    "phone_number": "07011725297",
+    "company_name": "Wisozk Hassie LTD",
+    "rc_number": "1256459972",
+    "email": "LaurianeXML@mailinator.com",
+    "password": "Tester@12"
+}

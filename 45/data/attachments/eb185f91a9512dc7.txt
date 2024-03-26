@@ -1,0 +1,9 @@
+{
+    "first_name": "Durward",
+    "last_name": "Harris",
+    "phone_number": "07011725297",
+    "company_name": "Greenholt Skyla LTD",
+    "rc_number": "RC1111111",
+    "email": "Liliane@mailinator",
+    "password": "Tester@12"
+}

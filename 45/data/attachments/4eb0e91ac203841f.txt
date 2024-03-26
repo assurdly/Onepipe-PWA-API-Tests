@@ -1,0 +1,9 @@
+{
+    "first_name": "",
+    "last_name": "Kerluke",
+    "phone_number": "07011725297",
+    "company_name": "Goodwin Berta LTD",
+    "rc_number": "RC1111111",
+    "email": "Rocio@mailinator.com",
+    "password": ""
+}
